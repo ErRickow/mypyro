@@ -1,4 +1,4 @@
 id	message
-ApiCallError	Telegram is having internal problems. Please try again later.
-Timeout	Telegram is having internal problems. Please try again later.
-Timedout	Telegram is having internal problems. Please try again later.
+ApiCallError	Telegram sedang bermasalah, Coba lagi nanti.
+Timeout	Telegram sedang bermasalah. Coba lagi nanti.
+Timedout	Telegram sedang bermasalah. Coba lagi nanti.
