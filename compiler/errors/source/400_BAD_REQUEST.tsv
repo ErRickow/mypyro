@@ -1,53 +1,53 @@
 id	message
 ABOUT_TOO_LONG	Text about/bio terlalu panjang
-ACCESS_TOKEN_EXPIRED	The bot token has expired
-ACCESS_TOKEN_INVALID	The bot access token is invalid
-ADMINS_TOO_MUCH	Chat terlalu banyak admins
-ADMIN_RANK_EMOJI_NOT_ALLOWED	Emoji are not allowed in custom administrator titles
-ADMIN_RANK_INVALID	The custom administrator title is invalid or too long
-ALBUM_PHOTOS_TOO_MANY	Too many photos were included in the album
-API_ID_INVALID	The api_id/api_hash combination is invalid
-API_ID_PUBLISHED_FLOOD	You are using an API key that is limited on the server side because it was published somewhere
-ARTICLE_TITLE_EMPTY	The article title is empty
-AUDIO_TITLE_EMPTY	The title attribute of the audio is empty
-AUTH_BYTES_INVALID	The authorization bytes are invalid
-AUTH_TOKEN_ALREADY_ACCEPTED	Authorization token sudah di gunakan
-AUTH_TOKEN_EXPIRED	Authorization token telah expired dan update QR-code harus re-scan
-AUTH_TOKEN_INVALID	Kesalahan authorization token yang di gunakan
-AUTOARCHIVE_NOT_AVAILABLE	This feature is not yet enabled for your account due to it not receiving too many private messages from strangers
-BANK_CARD_NUMBER_INVALID	The credit card number is invalid
-BANNED_RIGHTS_INVALID	You provided a set of restrictions that is invalid
-BASE_PORT_LOC_INVALID	The base port location is invalid
-BOTS_TOO_MUCH	The chat has too many bots
-BOT_CHANNELS_NA	Bots can't edit admin privileges
-BOT_COMMAND_DESCRIPTION_INVALID	The command description was empty, too long or had invalid characters
-BOT_DOMAIN_INVALID	The domain used for the auth button does not match the one configured in @BotFather
-BOT_GAMES_DISABLED	Bot games cannot be used in this type of chat
-BOT_GROUPS_BLOCKED	Bot tidak bisa di tambahkan ke groups
-BOT_INLINE_DISABLED	Aktifkan dahulu inline botnya
-BOT_INVALID	Ini bukan valid bot
-BOT_METHOD_INVALID	Method tidak bisa di gunakan oleh bot
-BOT_MISSING	This method can only be run by a bot
-BOT_ONESIDE_NOT_AVAIL	Bots can't pin messages for one side only in private chats
-BOT_PAYMENTS_DISABLED	Method ini hanya bisa di jalankan oleh bot
-BOT_POLLS_DISABLED	Sending polls by bots has been disabled
-BOT_RESPONSE_TIMEOUT	Bot tidak menjawab callback query tepat waktu
-BOT_SCORE_NOT_MODIFIED	The bot score was not modified
-BROADCAST_ID_INVALID	The channel is invalid
-BROADCAST_PUBLIC_VOTERS_FORBIDDEN	Polls with public voters cannot be sent in channels
-BROADCAST_REQUIRED	The request can only be used with a channel
-BUTTON_DATA_INVALID	The button callback data is invalid or too large
-BUTTON_TYPE_INVALID	The type of one of the buttons you provided is invalid
-BUTTON_URL_INVALID	The button url is invalid
-BUTTON_USER_PRIVACY_RESTRICTED	The privacy settings of the user specified in a keyboard button do not allow creating such button
-CALL_ALREADY_ACCEPTED	The call is already accepted
-CALL_ALREADY_DECLINED	The call is already declined
-CALL_PEER_INVALID	The provided call peer object is invalid
-CALL_PROTOCOL_FLAGS_INVALID	Call protocol flags invalid
-CDN_METHOD_INVALID	Method tidak bisa di gunakan di CDN DCs
-CHANNELS_ADMIN_PUBLIC_TOO_MUCH	Elu admin terlalu banyak di channels
-CHANNELS_TOO_MUCH	Elu telah join terlalu banyak channels, tinggalkan beberapa dan coba lagi
-CHANNEL_ADD_INVALID	Eror sayang ahh err.
+ACCESS_TOKEN_EXPIRED	Token bot elu udah angus (expired)
+ACCESS_TOKEN_INVALID	Token botnya gak bener nih (invalid)
+ADMINS_TOO_MUCH	Admin di grup ini udah kebanyakan
+ADMIN_RANK_EMOJI_NOT_ALLOWED	Gak boleh pake emoji di custom title admin
+ADMIN_RANK_INVALID	Custom title admin lu kepanjangan atau gak valid
+ALBUM_PHOTOS_TOO_MANY	Foto di album lu udah kebanyakan, bos
+API_ID_INVALID	Kombinasi api_id/api_hash lu ngaco nih
+API_ID_PUBLISHED_FLOOD	API key lu kena limit karena kesebar di mana-mana
+ARTICLE_TITLE_EMPTY	Judul artikel lu kosong
+AUDIO_TITLE_EMPTY	Judul audionya jangan kosong dong
+AUTH_BYTES_INVALID	Byte otorisasi gak valid
+AUTH_TOKEN_ALREADY_ACCEPTED	Token otorisasi udah dipake orang lain
+AUTH_TOKEN_EXPIRED	Token otorisasi lu udah angus, scan QR lagi gih
+AUTH_TOKEN_INVALID	Token otorisasi lu salah/ngaco
+AUTOARCHIVE_NOT_AVAILABLE	Fitur arsip otomatis belum nyala buat akun lu
+BANK_CARD_NUMBER_INVALID	Nomor kartu kredit lu salah tuh
+BANNED_RIGHTS_INVALID	Pembatasan yang lu kasih gak valid
+BASE_PORT_LOC_INVALID	Lokasi port dasarnya salah nih
+BOTS_TOO_MUCH	Bot di grup ini udah kebanyakan, woy
+BOT_CHANNELS_NA	Bot gak bisa ganti-ganti ijin admin
+BOT_COMMAND_DESCRIPTION_INVALID	Deskripsi command-nya kosong atau ngaco
+BOT_DOMAIN_INVALID	Domain tombol login lu gak cocok sama yang di @BotFather
+BOT_GAMES_DISABLED	Game bot gak bisa dipake di grup/chat ini
+BOT_GROUPS_BLOCKED	Bot lu gak dibolehin masuk grup
+BOT_INLINE_DISABLED	Nyalain dulu inline botnya biar bisa
+BOT_INVALID	Ini bukan bot yang bener (invalid)
+BOT_METHOD_INVALID	Metode ini gak bisa dipake sama bot
+BOT_MISSING	Metode ini cuma buat bot aja
+BOT_ONESIDE_NOT_AVAIL	Bot gak bisa pin pesan sebelah doang di chat pribadi
+BOT_PAYMENTS_DISABLED	Metode ini khusus buat bot aja
+BOT_POLLS_DISABLED	Bot lu dilarang ngirim poll di sini
+BOT_RESPONSE_TIMEOUT	Botnya kelamaan jawab (timeout)
+BOT_SCORE_NOT_MODIFIED	Skor bot gak berubah sama sekali
+BROADCAST_ID_INVALID	ID channel-nya gak bener nih
+BROADCAST_PUBLIC_VOTERS_FORBIDDEN	Poll dengan pemilih publik dilarang di channel
+BROADCAST_REQUIRED	Metode ini cuma buat channel aja
+BUTTON_DATA_INVALID	Data callback tombolnya ngaco atau kegedean
+BUTTON_TYPE_INVALID	Tipe tombol yang lu kasih gak bener
+BUTTON_URL_INVALID	URL tombol lu salah tuh
+BUTTON_USER_PRIVACY_RESTRICTED	Privasi user ngehalangin lu bikin tombol ini
+CALL_ALREADY_ACCEPTED	Panggilannya udah diterima, telat lu
+CALL_ALREADY_DECLINED	Panggilannya udah ditolak
+CALL_PEER_INVALID	Objek peer panggilannya ngaco nih
+CALL_PROTOCOL_FLAGS_INVALID	Flag protokol panggilannya salah
+CDN_METHOD_INVALID	Metode ini gak bisa di CDN DC
+CHANNELS_ADMIN_PUBLIC_TOO_MUCH	Elu jadi admin di channel publik udah kebanyakan
+CHANNELS_TOO_MUCH	Elu udah join kebanyakan channel, leave dulu beberapa deh
+CHANNEL_ADD_INVALID	Aduhh error nih pas nambahin channel.
 CHANNEL_BANNED	Channel terbanned
 CHANNEL_INVALID	parameter channel invalid
 CHANNEL_PRIVATE	Channel Atau Groupsnya Private

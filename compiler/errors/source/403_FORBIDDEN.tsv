@@ -1,41 +1,41 @@
 id	message
-BROADCAST_FORBIDDEN	The request can't be used in channels
-CHANNEL_PUBLIC_GROUP_NA	Channel/supergroup tidak tersedia
-CHAT_ADMIN_INVITE_REQUIRED	Elu tidak punya wewenang untuk menginvite pengguba lain
-CHAT_ADMIN_REQUIRED	Elu harus jadi admin dahulu
-CHAT_FORBIDDEN	Lu tidak bisa menulis di chat ini
-CHAT_SEND_GIFS_FORBIDDEN	Lu tidak bisa kirim animasi di chat ini
-CHAT_SEND_INLINE_FORBIDDEN	Lu tidak bisa send inline bot di chat ini
-CHAT_SEND_MEDIA_FORBIDDEN	Lu tidak bisa kirim pesan media di chat ini
-CHAT_SEND_POLL_FORBIDDEN	Lu tidak bisa kirim polls di group ini
-CHAT_SEND_STICKERS_FORBIDDEN	lu tidsk bisa mengirim stickers di chat ini
-CHAT_WRITE_FORBIDDEN	Lu tidak mempunyai ijin untuk mengirim pesan di chat ini
-EDIT_BOT_INVITE_FORBIDDEN	Bots' chat invite links can't be edited
-INLINE_BOT_REQUIRED	The action must be performed through an inline bot callback
-MESSAGE_AUTHOR_REQUIRED	Lu bukan author di chat ini
-MESSAGE_DELETE_FORBIDDEN	Elu tidak bisa delete pesan di chat ini, dikarenakan elu bukan author seperti mereka
-POLL_VOTE_REQUIRED	Cast a vote in the poll before calling this method
-PREMIUM_ACCOUNT_REQUIRED	Aksi ini memerlukan akun premium
-RIGHT_FORBIDDEN	Elu tidak memeliki cukup ijin, atau lu mencoba untuk set satu atau banyak admin rights itu tidak bisa di benarkan di (channel atau supergroup)
-SENSITIVE_CHANGE_FORBIDDEN	Your sensitive content settings can't be changed at this time
-TAKEOUT_REQUIRED	The method must be invoked inside a takeout session
-USER_BOT_INVALID	This method can only be called by a bot
-USER_CHANNELS_TOO_MUCH	One of the users you tried to add is already in too many channels/supergroups
-USER_INVALID	Pengguna yang di gunakan invalid
-USER_IS_BLOCKED	Pengguna diblokir
-USER_NOT_MUTUAL_CONTACT	Pengguna bukan mutual contact
-USER_PRIVACY_RESTRICTED	The user's privacy settings is preventing you to perform this action
-USER_RESTRICTED	Elu limit/restricted. Elu tidak bisa perfom aksi ini
-CHAT_SEND_AUDIOS_FORBIDDEN	Lu tidak bisa kirim audio di chat ini
-CHAT_SEND_GAME_FORBIDDEN	Lu tidak bisa kirim game di chat ini
-CHAT_SEND_GIFS_FORBIDDEN	Lu tidak bisa kirim gifts di griup ini
-CHAT_SEND_MEDIA_FORBIDDEN	Lu tidak bisa kirim media di group ini
-CHAT_SEND_PHOTOS_FORBIDDEN	Lu tidak bisa kirim photos di group ini
-CHAT_SEND_PLAIN_FORBIDDEN	Lu tidak bisa kirim non-media (text) messages di group ini
-CHAT_SEND_POLL_FORBIDDEN	Lu tidak bisa kirim polls di group ini
-CHAT_SEND_STICKERS_FORBIDDEN	Lu tidak bisa kirim stickers di group ini
-CHAT_SEND_VIDEOS_FORBIDDEN	Lu tidak bisa kirim videos di group ini
-CHAT_SEND_VOICES_FORBIDDEN	Lu tidak bisa kirim voice recordings di group ini
-CHAT_WRITE_FORBIDDEN	Lu tidak bisa chat di group ini
-GROUPCALL_FORBIDDEN	Panggilan group sudah di akhiri
-LIVE_DISABLED	Story is disabled server-side
+BROADCAST_FORBIDDEN	Elu gak bisa pake ini di channel
+CHANNEL_PUBLIC_GROUP_NA	Channel/supergroup gak ada nih
+CHAT_ADMIN_INVITE_REQUIRED	Elu gak punya wewenang buat invite orang lain
+CHAT_ADMIN_REQUIRED	Elu harus jadi admin dulu, bos
+CHAT_FORBIDDEN	Lu gak bisa nulis di chat ini
+CHAT_SEND_GIFS_FORBIDDEN	Lu gak bisa kirim GIF di chat ini
+CHAT_SEND_INLINE_FORBIDDEN	Lu gak bisa kirim bot inline di chat ini
+CHAT_SEND_MEDIA_FORBIDDEN	Lu gak bisa kirim pesan media di chat ini
+CHAT_SEND_POLL_FORBIDDEN	Lu gak bisa kirim poll di grup ini
+CHAT_SEND_STICKERS_FORBIDDEN	Lu gak bisa kirim stiker di sini
+CHAT_WRITE_FORBIDDEN	Lu gak punya ijin buat chat di grup ini
+EDIT_BOT_INVITE_FORBIDDEN	Link invite bot gak bisa diedit
+INLINE_BOT_REQUIRED	Aksi ini butuh callback dari bot inline
+MESSAGE_AUTHOR_REQUIRED	Lu bukan author aslinya di chat ini
+MESSAGE_DELETE_FORBIDDEN	Elu gak bisa apus pesan ini, soalnya lu bukan author-nya
+POLL_VOTE_REQUIRED	Vote dulu di poll-nya baru bisa manggil metode ini
+PREMIUM_ACCOUNT_REQUIRED	Aksi ini butuh akun Premium, bosku
+RIGHT_FORBIDDEN	Ijin elu gak cukup, atau lu nyoba set admin rights yang gak dibolehin
+SENSITIVE_CHANGE_FORBIDDEN	Pengaturan konten sensitif lu gak bisa diganti sekarang
+TAKEOUT_REQUIRED	Metode ini harus dijalankan di dalam sesi takeout
+USER_BOT_INVALID	Metode ini cuma bisa dipanggil sama bot
+USER_CHANNELS_TOO_MUCH	User yang lu tambahin udah kebanyakan join channel/grup
+USER_INVALID	User yang lu pake invalid nih
+USER_IS_BLOCKED	User-nya keblokir
+USER_NOT_MUTUAL_CONTACT	User-nya bukan kontak mutual
+USER_PRIVACY_RESTRICTED	Privasi user ini ngehalangin lu buat ngelakuin aksi ini
+USER_RESTRICTED	Elu kena limit/restricted. Gak bisa ngapa-ngapain dulu
+CHAT_SEND_AUDIOS_FORBIDDEN	Lu gak bisa kirim audio di sini
+CHAT_SEND_GAME_FORBIDDEN	Lu gak bisa kirim game di sini
+CHAT_SEND_GIFS_FORBIDDEN	Lu gak bisa kirim GIF di grup ini
+CHAT_SEND_MEDIA_FORBIDDEN	Lu gak bisa kirim media di sini
+CHAT_SEND_PHOTOS_FORBIDDEN	Lu gak bisa kirim foto di grup ini
+CHAT_SEND_PLAIN_FORBIDDEN	Lu cuma bisa kirim media, gak bisa teks doang
+CHAT_SEND_POLL_FORBIDDEN	Lu gak bisa kirim poll di sini
+CHAT_SEND_STICKERS_FORBIDDEN	Lu gak bisa kirim stiker di grup ini
+CHAT_SEND_VIDEOS_FORBIDDEN	Lu gak bisa kirim video di sini
+CHAT_SEND_VOICES_FORBIDDEN	Lu gak bisa kirim voice note di sini
+CHAT_WRITE_FORBIDDEN	Lu gak bisa nulis di grup ini
+GROUPCALL_FORBIDDEN	Panggilan grup udah kelar (end)
+LIVE_DISABLED	Fitur Live lagi dimatiin sama server
