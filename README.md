@@ -1,30 +1,26 @@
 <p align="center">
-    <a href="https://github.com/pyrogram/pyrogram">
+    <a href="https://github.com/ErRickow/mypyro">
         <img src="https://docs.pyrogram.org/_static/pyrogram.png" alt="Pyrogram" width="128">
     </a>
     <br>
-    <b>Telegram MTProto API Framework for Python</b>
+    <b>Custom fork of Pyrogram with localized error messages and Layer 223 support</b>
     <br>
-    <a href="https://pyrogram.org">
+    <a href="https://github.com/ErRickow/mypyro">
         Homepage
     </a>
     •
-    <a href="https://docs.pyrogram.org">
+    <a href="https://mypyro.readthedocs.io">
         Documentation
     </a>
     •
-    <a href="https://docs.pyrogram.org/releases">
+    <a href="https://github.com/ErRickow/mypyro/releases">
         Releases
-    </a>
-    •
-    <a href="https://t.me/pyrogram">
-        News
     </a>
 </p>
 
-## Pyrogram
+## MyPyro
 
-> Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+> Custom fork of Pyrogram with localized error messages and Layer 223 support
 
 ``` python
 from pyrogram import Client, filters
@@ -34,15 +30,13 @@ app = Client("my_account")
 
 @app.on_message(filters.private)
 async def hello(client, message):
-    await message.reply("Hello from Pyrogram!")
+    await message.reply("Hello from MyPyro!")
 
 
 app.run()
 ```
 
-**Pyrogram** is a modern, elegant and asynchronous [MTProto API](https://docs.pyrogram.org/topics/mtproto-vs-botapi)
-framework. It enables you to easily interact with the main Telegram API through a user account (custom client) or a bot
-identity (bot API alternative) using Python.
+**MyPyro** is a custom fork of the **Pyrogram** framework. It enables you to easily interact with the main Telegram API through a user account (custom client) or a bot identity (bot API alternative) using Python, with built-in support for localized Indonesian error messages and the latest MTProto features.
 
 ### Support
 
@@ -65,33 +59,22 @@ If you'd like to support Pyrogram, you can consider:
 ### Installing
 
 ``` bash
-pip3 install https://github.com/null-nick/Pyrogram-Mod/archive/refs/heads/main.zip
+pip3 install https://github.com/ErRickow/mypyro/archive/refs/heads/dev.zip
 ```
 
 ### Resources
 
-- The docs contain lots of resources to help you get started with Pyrogram: https://docs.pyrogram.org.
-- Seeking extra help? Come join and ask our community: https://t.me/pyrogram.
-- For other kind of inquiries, you can send a [message](https://t.me/haskell) or an [e-mail](mailto:dan@pyrogram.org).
+- The docs for MyPyro can be found here: https://mypyro.readthedocs.io.
+- Check out the original Pyrogram docs for general library usage: https://docs.pyrogram.org.
 
 ### Copyright & License
 
 - Copyright (C) 2017-2022 Dan <<https://github.com/delivrance>>
+- MyPyro modifications Copyright (C) 2026 ErRickow
 - Licensed under the terms of the [GNU Lesser General Public License v3 or later (LGPLv3+)](COPYING.lesser)
 
 ### INFO
 
-- 📕 Official Repo: https://github.com/pyrogram/pyrogram
-- 🗞 News: https://t.me/pyrogram
-- 💭 Support Group: https://t.me/pyrogramchat
-- 📚 Docs: https://docs.pyrogram.org
-------------------------------------------------------------
-- 📕 Un-Official Repo: https://github.com/null-nick/Pyrogram-Mod/
-- 🗞 News: https://t.me/PyroGramMod
-- 💭 Support Group: https://t.me/PyroGramModChat
-- 📚 Docs: <s>https://docs.documentations.ml</s> <b>Offline</b>
-------------------------------------------------------------
-
-- Check out the docs at https://docs.pyrogram.org to learn more about Pyrogram, get started right
-away and discover more in-depth material for building your client applications.
-- Join the official channel at https://t.me/pyrogram and stay tuned for news, updates and announcements.
+- 📕 Repository: https://github.com/ErRickow/mypyro
+- 📚 Docs: https://mypyro.readthedocs.io
+- 📕 Original Pyrogram: https://github.com/pyrogram/pyrogram
