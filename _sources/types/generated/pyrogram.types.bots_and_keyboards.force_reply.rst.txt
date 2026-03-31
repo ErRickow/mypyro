@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.force\_reply
+================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.force_reply
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ForceReply
+   

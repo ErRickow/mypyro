@@ -1,0 +1,12 @@
+pyrogram.raw.base.server\_dh\_params
+====================================
+
+.. automodule:: pyrogram.raw.base.server_dh_params
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ServerDHParams
+   

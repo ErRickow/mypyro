@@ -1,0 +1,12 @@
+pyrogram.raw.types.contacts.blocked\_slice
+==========================================
+
+.. automodule:: pyrogram.raw.types.contacts.blocked_slice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BlockedSlice
+   

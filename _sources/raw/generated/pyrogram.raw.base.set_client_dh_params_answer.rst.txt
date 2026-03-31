@@ -1,0 +1,12 @@
+pyrogram.raw.base.set\_client\_dh\_params\_answer
+=================================================
+
+.. automodule:: pyrogram.raw.base.set_client_dh_params_answer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetClientDHParamsAnswer
+   

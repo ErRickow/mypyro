@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.toggle\_pre\_history\_hidden
+============================================================
+
+.. automodule:: pyrogram.raw.functions.channels.toggle_pre_history_hidden
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TogglePreHistoryHidden
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.quick\_replies\_not\_modified
+=========================================================
+
+.. automodule:: pyrogram.raw.types.messages.quick_replies_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      QuickRepliesNotModified
+   

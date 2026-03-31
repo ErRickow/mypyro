@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.bank\_card\_data
+============================================
+
+.. automodule:: pyrogram.raw.types.payments.bank_card_data
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BankCardData
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.check\_url\_auth\_match\_code
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.check_url_auth_match_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckUrlAuthMatchCode
+   

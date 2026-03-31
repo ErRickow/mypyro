@@ -1,0 +1,12 @@
+pyrogram.raw.types.web\_page\_attribute\_unique\_star\_gift
+===========================================================
+
+.. automodule:: pyrogram.raw.types.web_page_attribute_unique_star_gift
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebPageAttributeUniqueStarGift
+   

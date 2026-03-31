@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.request\_main\_web\_view
+========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.request_main_web_view
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequestMainWebView
+   

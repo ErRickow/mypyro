@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_sticker\_set\_premium\_gifts
+======================================================
+
+.. automodule:: pyrogram.raw.types.input_sticker_set_premium_gifts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetPremiumGifts
+   

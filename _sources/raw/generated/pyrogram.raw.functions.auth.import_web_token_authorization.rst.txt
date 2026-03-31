@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.import\_web\_token\_authorization
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.auth.import_web_token_authorization
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ImportWebTokenAuthorization
+   

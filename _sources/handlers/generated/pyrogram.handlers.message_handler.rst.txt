@@ -1,0 +1,12 @@
+pyrogram.handlers.message\_handler
+==================================
+
+.. automodule:: pyrogram.handlers.message_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageHandler
+   

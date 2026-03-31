@@ -1,0 +1,12 @@
+pyrogram.raw.types.notify\_users
+================================
+
+.. automodule:: pyrogram.raw.types.notify_users
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NotifyUsers
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.auth.sent\_code\_payment\_required
+=====================================================
+
+.. automodule:: pyrogram.raw.types.auth.sent_code_payment_required
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SentCodePaymentRequired
+   

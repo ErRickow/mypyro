@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_rating
+================================
+
+.. automodule:: pyrogram.raw.types.stars_rating
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsRating
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.story\_fwd\_header
+====================================
+
+.. automodule:: pyrogram.raw.base.story_fwd_header
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StoryFwdHeader
+   

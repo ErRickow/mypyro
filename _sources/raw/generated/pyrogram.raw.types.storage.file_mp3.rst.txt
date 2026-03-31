@@ -1,0 +1,12 @@
+pyrogram.raw.types.storage.file\_mp3
+====================================
+
+.. automodule:: pyrogram.raw.types.storage.file_mp3
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileMp3
+   

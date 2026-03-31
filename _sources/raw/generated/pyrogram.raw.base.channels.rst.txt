@@ -1,0 +1,17 @@
+pyrogram.raw.base.channels
+==========================
+
+.. automodule:: pyrogram.raw.base.channels
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   admin_log_results
+   channel_participant
+   channel_participants
+   send_as_peers
+   sponsored_message_report_result

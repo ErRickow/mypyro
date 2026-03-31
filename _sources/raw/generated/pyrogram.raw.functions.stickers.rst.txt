@@ -1,0 +1,23 @@
+pyrogram.raw.functions.stickers
+===============================
+
+.. automodule:: pyrogram.raw.functions.stickers
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   add_sticker_to_set
+   change_sticker
+   change_sticker_position
+   check_short_name
+   create_sticker_set
+   delete_sticker_set
+   remove_sticker_from_set
+   rename_sticker_set
+   replace_sticker
+   set_sticker_set_thumb
+   suggest_short_name

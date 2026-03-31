@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.edit\_location
+==============================================
+
+.. automodule:: pyrogram.raw.functions.channels.edit_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditLocation
+   

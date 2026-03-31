@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_invoice\_star\_gift\_prepaid\_upgrade
+===============================================================
+
+.. automodule:: pyrogram.raw.types.input_invoice_star_gift_prepaid_upgrade
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputInvoiceStarGiftPrepaidUpgrade
+   

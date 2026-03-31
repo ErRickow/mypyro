@@ -1,0 +1,12 @@
+pyrogram.raw.base.business\_intro
+=================================
+
+.. automodule:: pyrogram.raw.base.business_intro
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessIntro
+   

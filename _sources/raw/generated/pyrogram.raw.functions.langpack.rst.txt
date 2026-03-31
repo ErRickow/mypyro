@@ -1,0 +1,17 @@
+pyrogram.raw.functions.langpack
+===============================
+
+.. automodule:: pyrogram.raw.functions.langpack
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   get_difference
+   get_lang_pack
+   get_language
+   get_languages
+   get_strings

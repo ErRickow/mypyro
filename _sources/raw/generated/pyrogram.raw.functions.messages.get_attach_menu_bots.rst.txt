@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_attach\_menu\_bots
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_attach_menu_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetAttachMenuBots
+   

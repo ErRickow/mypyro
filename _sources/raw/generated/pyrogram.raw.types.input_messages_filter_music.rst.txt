@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_messages\_filter\_music
+=================================================
+
+.. automodule:: pyrogram.raw.types.input_messages_filter_music
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessagesFilterMusic
+   

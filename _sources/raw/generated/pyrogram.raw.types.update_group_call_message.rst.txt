@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_group\_call\_message
+===============================================
+
+.. automodule:: pyrogram.raw.types.update_group_call_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateGroupCallMessage
+   

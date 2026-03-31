@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.star\_gifts\_not\_modified
+======================================================
+
+.. automodule:: pyrogram.raw.types.payments.star_gifts_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftsNotModified
+   

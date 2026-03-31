@@ -1,0 +1,12 @@
+pyrogram.raw.base.auth.logged\_out
+==================================
+
+.. automodule:: pyrogram.raw.base.auth.logged_out
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LoggedOut
+   

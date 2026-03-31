@@ -1,0 +1,12 @@
+pyrogram.types.object
+=====================
+
+.. automodule:: pyrogram.types.object
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Object
+   

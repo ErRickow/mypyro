@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.saved\_ringtone\_converted
+=====================================================
+
+.. automodule:: pyrogram.raw.types.account.saved_ringtone_converted
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedRingtoneConverted
+   

@@ -1,0 +1,12 @@
+pyrogram.types.input\_message\_content.input\_message\_content
+==============================================================
+
+.. automodule:: pyrogram.types.input_message_content.input_message_content
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessageContent
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.save\_call\_debug
+==============================================
+
+.. automodule:: pyrogram.raw.functions.phone.save_call_debug
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveCallDebug
+   

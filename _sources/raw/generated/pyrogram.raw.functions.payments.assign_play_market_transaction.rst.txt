@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.assign\_play\_market\_transaction
+=================================================================
+
+.. automodule:: pyrogram.raw.functions.payments.assign_play_market_transaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AssignPlayMarketTransaction
+   

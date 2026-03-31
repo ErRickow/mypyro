@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.read\_saved\_history
+====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.read_saved_history
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReadSavedHistory
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.exported\_invoice
+============================================
+
+.. automodule:: pyrogram.raw.base.payments.exported_invoice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportedInvoice
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats.broadcast\_stats
+=========================================
+
+.. automodule:: pyrogram.raw.types.stats.broadcast_stats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BroadcastStats
+   

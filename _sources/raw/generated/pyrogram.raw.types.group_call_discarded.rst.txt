@@ -1,0 +1,12 @@
+pyrogram.raw.types.group\_call\_discarded
+=========================================
+
+.. automodule:: pyrogram.raw.types.group_call_discarded
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GroupCallDiscarded
+   

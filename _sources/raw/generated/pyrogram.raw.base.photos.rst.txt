@@ -1,0 +1,14 @@
+pyrogram.raw.base.photos
+========================
+
+.. automodule:: pyrogram.raw.base.photos
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   photo
+   photos

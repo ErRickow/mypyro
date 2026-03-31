@@ -1,0 +1,12 @@
+pyrogram.raw.types.auto\_save\_exception
+========================================
+
+.. automodule:: pyrogram.raw.types.auto_save_exception
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AutoSaveException
+   

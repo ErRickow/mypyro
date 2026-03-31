@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.search\_stickers
+================================================
+
+.. automodule:: pyrogram.raw.functions.messages.search_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchStickers
+   

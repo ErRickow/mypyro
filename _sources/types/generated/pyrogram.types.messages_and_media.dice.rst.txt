@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.dice
+========================================
+
+.. automodule:: pyrogram.types.messages_and_media.dice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Dice
+   

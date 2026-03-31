@@ -1,0 +1,12 @@
+pyrogram.raw.base.account.saved\_music\_ids
+===========================================
+
+.. automodule:: pyrogram.raw.base.account.saved_music_ids
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedMusicIds
+   

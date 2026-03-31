@@ -1,0 +1,12 @@
+pyrogram.raw.base.payment\_charge
+=================================
+
+.. automodule:: pyrogram.raw.base.payment_charge
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PaymentCharge
+   

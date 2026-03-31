@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_peer\_chat
+====================================
+
+.. automodule:: pyrogram.raw.types.input_peer_chat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPeerChat
+   

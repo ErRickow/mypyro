@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_cashtag
+===========================================
+
+.. automodule:: pyrogram.raw.types.message_entity_cashtag
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityCashtag
+   

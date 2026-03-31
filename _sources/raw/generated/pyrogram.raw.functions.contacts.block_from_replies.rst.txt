@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.block\_from\_replies
+====================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.block_from_replies
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BlockFromReplies
+   

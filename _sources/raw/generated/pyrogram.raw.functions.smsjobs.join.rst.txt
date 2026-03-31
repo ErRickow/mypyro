@@ -1,0 +1,12 @@
+pyrogram.raw.functions.smsjobs.join
+===================================
+
+.. automodule:: pyrogram.raw.functions.smsjobs.join
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Join
+   

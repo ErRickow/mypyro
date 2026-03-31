@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_set\_messages\_ttl
+======================================================
+
+.. automodule:: pyrogram.raw.types.message_action_set_messages_ttl
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionSetMessagesTTL
+   

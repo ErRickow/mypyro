@@ -1,0 +1,12 @@
+pyrogram.raw.types.auth.sent\_code\_type\_set\_up\_email\_required
+==================================================================
+
+.. automodule:: pyrogram.raw.types.auth.sent_code_type_set_up_email_required
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SentCodeTypeSetUpEmailRequired
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.toggle\_participants\_hidden
+============================================================
+
+.. automodule:: pyrogram.raw.functions.channels.toggle_participants_hidden
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleParticipantsHidden
+   

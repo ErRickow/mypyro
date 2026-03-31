@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_service
+===================================
+
+.. automodule:: pyrogram.raw.types.message_service
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageService
+   

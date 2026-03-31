@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_star\_gift\_auction
+=============================================
+
+.. automodule:: pyrogram.raw.types.input_star_gift_auction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStarGiftAuction
+   

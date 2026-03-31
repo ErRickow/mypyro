@@ -1,0 +1,12 @@
+pyrogram.raw.base.passkey
+=========================
+
+.. automodule:: pyrogram.raw.base.passkey
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Passkey
+   

@@ -1,0 +1,12 @@
+pyrogram.handlers.chosen\_inline\_result\_handler
+=================================================
+
+.. automodule:: pyrogram.handlers.chosen_inline_result_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChosenInlineResultHandler
+   

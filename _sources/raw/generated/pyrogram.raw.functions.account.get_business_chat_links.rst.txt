@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_business\_chat\_links
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_business_chat_links
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetBusinessChatLinks
+   

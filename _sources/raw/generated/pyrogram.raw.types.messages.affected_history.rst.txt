@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.affected\_history
+=============================================
+
+.. automodule:: pyrogram.raw.types.messages.affected_history
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AffectedHistory
+   

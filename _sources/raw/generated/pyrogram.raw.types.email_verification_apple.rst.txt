@@ -1,0 +1,12 @@
+pyrogram.raw.types.email\_verification\_apple
+=============================================
+
+.. automodule:: pyrogram.raw.types.email_verification_apple
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmailVerificationApple
+   

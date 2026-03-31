@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_document
+==================================
+
+.. automodule:: pyrogram.raw.types.input_document
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputDocument
+   

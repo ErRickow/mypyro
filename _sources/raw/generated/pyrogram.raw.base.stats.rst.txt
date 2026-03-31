@@ -1,0 +1,17 @@
+pyrogram.raw.base.stats
+=======================
+
+.. automodule:: pyrogram.raw.base.stats
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   broadcast_stats
+   megagroup_stats
+   message_stats
+   public_forwards
+   story_stats

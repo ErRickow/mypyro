@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.edit\_admin
+===========================================
+
+.. automodule:: pyrogram.raw.functions.channels.edit_admin
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditAdmin
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.business\_bot\_rights
+=======================================
+
+.. automodule:: pyrogram.raw.base.business_bot_rights
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessBotRights
+   

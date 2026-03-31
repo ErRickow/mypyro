@@ -1,0 +1,12 @@
+pyrogram.raw.base.new\_session
+==============================
+
+.. automodule:: pyrogram.raw.base.new_session
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NewSession
+   

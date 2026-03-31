@@ -1,0 +1,17 @@
+pyrogram.raw.types.upload
+=========================
+
+.. automodule:: pyrogram.raw.types.upload
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   cdn_file
+   cdn_file_reupload_needed
+   file
+   file_cdn_redirect
+   web_file

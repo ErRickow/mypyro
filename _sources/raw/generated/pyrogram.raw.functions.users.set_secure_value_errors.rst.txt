@@ -1,0 +1,12 @@
+pyrogram.raw.functions.users.set\_secure\_value\_errors
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.users.set_secure_value_errors
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetSecureValueErrors
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.edit\_title
+===========================================
+
+.. automodule:: pyrogram.raw.functions.channels.edit_title
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditTitle
+   

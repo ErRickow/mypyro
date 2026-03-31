@@ -1,0 +1,12 @@
+pyrogram.raw.types.web\_view\_message\_sent
+===========================================
+
+.. automodule:: pyrogram.raw.types.web_view_message_sent
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebViewMessageSent
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_caption
+================================
+
+.. automodule:: pyrogram.raw.types.page_caption
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageCaption
+   

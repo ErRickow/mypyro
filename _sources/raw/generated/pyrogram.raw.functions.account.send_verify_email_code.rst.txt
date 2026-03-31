@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.send\_verify\_email\_code
+========================================================
+
+.. automodule:: pyrogram.raw.functions.account.send_verify_email_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendVerifyEmailCode
+   

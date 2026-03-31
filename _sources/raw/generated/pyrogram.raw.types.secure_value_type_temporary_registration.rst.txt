@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_temporary\_registration
+===============================================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_temporary_registration
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypeTemporaryRegistration
+   

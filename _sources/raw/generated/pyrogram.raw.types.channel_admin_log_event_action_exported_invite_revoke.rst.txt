@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_admin\_log\_event\_action\_exported\_invite\_revoke
+===============================================================================
+
+.. automodule:: pyrogram.raw.types.channel_admin_log_event_action_exported_invite_revoke
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEventActionExportedInviteRevoke
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_cover
+=====================================
+
+.. automodule:: pyrogram.raw.types.page_block_cover
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockCover
+   

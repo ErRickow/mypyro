@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.update\_dialog\_filters\_order
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.update_dialog_filters_order
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateDialogFiltersOrder
+   

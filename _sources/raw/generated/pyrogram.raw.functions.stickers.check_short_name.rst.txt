@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stickers.check\_short\_name
+==================================================
+
+.. automodule:: pyrogram.raw.functions.stickers.check_short_name
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckShortName
+   

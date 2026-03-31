@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_bot\_inline\_message\_id
+=================================================
+
+.. automodule:: pyrogram.raw.base.input_bot_inline_message_id
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputBotInlineMessageID
+   

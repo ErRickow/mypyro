@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_privacy
+===========================================
+
+.. automodule:: pyrogram.raw.functions.account.get_privacy
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPrivacy
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.can\_send\_message
+==============================================
+
+.. automodule:: pyrogram.raw.functions.bots.can_send_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CanSendMessage
+   

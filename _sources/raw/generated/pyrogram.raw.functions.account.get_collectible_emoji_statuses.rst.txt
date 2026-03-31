@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_collectible\_emoji\_statuses
+================================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_collectible_emoji_statuses
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetCollectibleEmojiStatuses
+   

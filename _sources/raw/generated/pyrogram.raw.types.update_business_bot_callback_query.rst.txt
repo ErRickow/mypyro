@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_business\_bot\_callback\_query
+=========================================================
+
+.. automodule:: pyrogram.raw.types.update_business_bot_callback_query
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBusinessBotCallbackQuery
+   

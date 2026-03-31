@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_bot\_business\_connect
+=================================================
+
+.. automodule:: pyrogram.raw.types.update_bot_business_connect
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBotBusinessConnect
+   

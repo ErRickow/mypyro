@@ -1,0 +1,12 @@
+pyrogram.raw.types.privacy\_key\_forwards
+=========================================
+
+.. automodule:: pyrogram.raw.types.privacy_key_forwards
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PrivacyKeyForwards
+   

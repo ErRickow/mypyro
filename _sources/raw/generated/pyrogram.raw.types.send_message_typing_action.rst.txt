@@ -1,0 +1,12 @@
+pyrogram.raw.types.send\_message\_typing\_action
+================================================
+
+.. automodule:: pyrogram.raw.types.send_message_typing_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendMessageTypingAction
+   

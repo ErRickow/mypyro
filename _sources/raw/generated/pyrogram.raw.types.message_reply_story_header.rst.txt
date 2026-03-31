@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_reply\_story\_header
+================================================
+
+.. automodule:: pyrogram.raw.types.message_reply_story_header
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageReplyStoryHeader
+   

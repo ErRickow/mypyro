@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_passport
+================================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_passport
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypePassport
+   

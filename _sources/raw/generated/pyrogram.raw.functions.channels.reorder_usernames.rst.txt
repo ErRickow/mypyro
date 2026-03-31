@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.reorder\_usernames
+==================================================
+
+.. automodule:: pyrogram.raw.functions.channels.reorder_usernames
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReorderUsernames
+   

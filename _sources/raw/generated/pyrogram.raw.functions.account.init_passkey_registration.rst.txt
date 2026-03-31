@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.init\_passkey\_registration
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.account.init_passkey_registration
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InitPasskeyRegistration
+   

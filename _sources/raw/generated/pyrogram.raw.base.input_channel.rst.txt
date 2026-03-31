@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_channel
+================================
+
+.. automodule:: pyrogram.raw.base.input_channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputChannel
+   

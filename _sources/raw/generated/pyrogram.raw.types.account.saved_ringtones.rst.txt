@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.saved\_ringtones
+===========================================
+
+.. automodule:: pyrogram.raw.types.account.saved_ringtones
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedRingtones
+   

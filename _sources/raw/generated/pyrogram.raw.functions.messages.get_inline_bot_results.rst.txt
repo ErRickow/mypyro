@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_inline\_bot\_results
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_inline_bot_results
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetInlineBotResults
+   

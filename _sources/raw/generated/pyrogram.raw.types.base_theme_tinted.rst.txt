@@ -1,0 +1,12 @@
+pyrogram.raw.types.base\_theme\_tinted
+======================================
+
+.. automodule:: pyrogram.raw.types.base_theme_tinted
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BaseThemeTinted
+   

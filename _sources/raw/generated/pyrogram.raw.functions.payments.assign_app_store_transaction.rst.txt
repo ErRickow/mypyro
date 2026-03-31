@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.assign\_app\_store\_transaction
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.payments.assign_app_store_transaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AssignAppStoreTransaction
+   

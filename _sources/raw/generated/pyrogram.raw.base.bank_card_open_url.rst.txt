@@ -1,0 +1,12 @@
+pyrogram.raw.base.bank\_card\_open\_url
+=======================================
+
+.. automodule:: pyrogram.raw.base.bank_card_open_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BankCardOpenUrl
+   

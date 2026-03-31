@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.import\_chat\_invite
+====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.import_chat_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ImportChatInvite
+   

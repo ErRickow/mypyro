@@ -1,0 +1,36 @@
+pyrogram.types.user\_and\_chats
+===============================
+
+.. automodule:: pyrogram.types.user_and_chats
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   chat
+   chat_admin_with_invite_links
+   chat_event
+   chat_event_filter
+   chat_invite_link
+   chat_join_request
+   chat_joiner
+   chat_member
+   chat_member_updated
+   chat_permissions
+   chat_photo
+   chat_preview
+   chat_privileges
+   chat_reactions
+   dialog
+   emoji_status
+   invite_link_importer
+   restriction
+   user
+   username
+   video_chat_ended
+   video_chat_members_invited
+   video_chat_scheduled
+   video_chat_started

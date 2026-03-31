@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_passport\_config
+=================================================
+
+.. automodule:: pyrogram.raw.functions.help.get_passport_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPassportConfig
+   

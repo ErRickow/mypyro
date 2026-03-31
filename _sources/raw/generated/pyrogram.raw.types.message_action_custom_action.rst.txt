@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_custom\_action
+==================================================
+
+.. automodule:: pyrogram.raw.types.message_action_custom_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionCustomAction
+   

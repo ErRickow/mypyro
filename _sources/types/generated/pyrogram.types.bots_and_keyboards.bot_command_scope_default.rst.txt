@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.bot\_command\_scope\_default
+================================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.bot_command_scope_default
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotCommandScopeDefault
+   

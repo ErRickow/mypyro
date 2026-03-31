@@ -1,0 +1,45 @@
+pyrogram.raw.functions.stories
+==============================
+
+.. automodule:: pyrogram.raw.functions.stories
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   activate_stealth_mode
+   can_send_story
+   create_album
+   delete_album
+   delete_stories
+   edit_story
+   export_story_link
+   get_album_stories
+   get_albums
+   get_all_read_peer_stories
+   get_all_stories
+   get_chats_to_send
+   get_peer_max_i_ds
+   get_peer_stories
+   get_pinned_stories
+   get_stories_archive
+   get_stories_by_id
+   get_stories_views
+   get_story_reactions_list
+   get_story_views_list
+   increment_story_views
+   read_stories
+   reorder_albums
+   report
+   search_posts
+   send_reaction
+   send_story
+   start_live
+   toggle_all_stories_hidden
+   toggle_peer_stories_hidden
+   toggle_pinned
+   toggle_pinned_to_top
+   update_album

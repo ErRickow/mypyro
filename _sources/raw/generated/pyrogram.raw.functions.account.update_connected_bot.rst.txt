@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_connected\_bot
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.account.update_connected_bot
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateConnectedBot
+   

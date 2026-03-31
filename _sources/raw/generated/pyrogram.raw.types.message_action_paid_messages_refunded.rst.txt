@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_paid\_messages\_refunded
+============================================================
+
+.. automodule:: pyrogram.raw.types.message_action_paid_messages_refunded
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionPaidMessagesRefunded
+   

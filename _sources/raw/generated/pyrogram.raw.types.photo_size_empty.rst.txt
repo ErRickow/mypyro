@@ -1,0 +1,12 @@
+pyrogram.raw.types.photo\_size\_empty
+=====================================
+
+.. automodule:: pyrogram.raw.types.photo_size_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhotoSizeEmpty
+   

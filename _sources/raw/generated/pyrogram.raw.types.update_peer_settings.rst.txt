@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_peer\_settings
+=========================================
+
+.. automodule:: pyrogram.raw.types.update_peer_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdatePeerSettings
+   

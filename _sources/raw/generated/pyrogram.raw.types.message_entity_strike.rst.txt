@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_strike
+==========================================
+
+.. automodule:: pyrogram.raw.types.message_entity_strike
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityStrike
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.forum\_topic
+==============================
+
+.. automodule:: pyrogram.raw.base.forum_topic
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ForumTopic
+   

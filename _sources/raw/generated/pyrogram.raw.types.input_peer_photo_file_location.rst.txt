@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_peer\_photo\_file\_location
+=====================================================
+
+.. automodule:: pyrogram.raw.types.input_peer_photo_file_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPeerPhotoFileLocation
+   

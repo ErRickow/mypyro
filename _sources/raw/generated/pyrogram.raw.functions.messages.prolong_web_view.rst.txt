@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.prolong\_web\_view
+==================================================
+
+.. automodule:: pyrogram.raw.functions.messages.prolong_web_view
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ProlongWebView
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.phone\_call\_waiting
+=======================================
+
+.. automodule:: pyrogram.raw.types.phone_call_waiting
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhoneCallWaiting
+   

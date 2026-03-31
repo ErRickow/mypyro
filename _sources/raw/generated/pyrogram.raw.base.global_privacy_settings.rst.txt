@@ -1,0 +1,12 @@
+pyrogram.raw.base.global\_privacy\_settings
+===========================================
+
+.. automodule:: pyrogram.raw.base.global_privacy_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GlobalPrivacySettings
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.auth.sent\_code\_type
+=======================================
+
+.. automodule:: pyrogram.raw.base.auth.sent_code_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SentCodeType
+   

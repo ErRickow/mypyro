@@ -1,0 +1,12 @@
+pyrogram.raw.functions.invoke\_with\_business\_connection
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.invoke_with_business_connection
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InvokeWithBusinessConnection
+   

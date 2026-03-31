@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_spoiler
+===========================================
+
+.. automodule:: pyrogram.raw.types.message_entity_spoiler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntitySpoiler
+   

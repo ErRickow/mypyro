@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_geo\_proximity\_reached
+===========================================================
+
+.. automodule:: pyrogram.raw.types.message_action_geo_proximity_reached
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionGeoProximityReached
+   

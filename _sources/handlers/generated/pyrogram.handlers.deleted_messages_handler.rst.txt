@@ -1,0 +1,12 @@
+pyrogram.handlers.deleted\_messages\_handler
+============================================
+
+.. automodule:: pyrogram.handlers.deleted_messages_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeletedMessagesHandler
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_blockquote
+==============================================
+
+.. automodule:: pyrogram.raw.types.message_entity_blockquote
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityBlockquote
+   

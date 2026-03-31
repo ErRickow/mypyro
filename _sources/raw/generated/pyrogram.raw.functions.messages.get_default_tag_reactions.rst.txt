@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_default\_tag\_reactions
+============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_default_tag_reactions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDefaultTagReactions
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.toggle\_view\_forum\_as\_messages
+=================================================================
+
+.. automodule:: pyrogram.raw.functions.channels.toggle_view_forum_as_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleViewForumAsMessages
+   

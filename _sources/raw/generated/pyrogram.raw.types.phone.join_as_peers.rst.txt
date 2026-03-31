@@ -1,0 +1,12 @@
+pyrogram.raw.types.phone.join\_as\_peers
+========================================
+
+.. automodule:: pyrogram.raw.types.phone.join_as_peers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JoinAsPeers
+   

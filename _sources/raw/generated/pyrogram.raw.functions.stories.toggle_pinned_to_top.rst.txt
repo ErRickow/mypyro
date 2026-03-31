@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.toggle\_pinned\_to\_top
+======================================================
+
+.. automodule:: pyrogram.raw.functions.stories.toggle_pinned_to_top
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TogglePinnedToTop
+   

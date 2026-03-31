@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_messages\_filter\_chat\_photos
+========================================================
+
+.. automodule:: pyrogram.raw.types.input_messages_filter_chat_photos
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessagesFilterChatPhotos
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_requested\_peer\_sent\_me
+=============================================================
+
+.. automodule:: pyrogram.raw.types.message_action_requested_peer_sent_me
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionRequestedPeerSentMe
+   

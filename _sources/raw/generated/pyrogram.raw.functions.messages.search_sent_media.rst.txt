@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.search\_sent\_media
+===================================================
+
+.. automodule:: pyrogram.raw.functions.messages.search_sent_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchSentMedia
+   

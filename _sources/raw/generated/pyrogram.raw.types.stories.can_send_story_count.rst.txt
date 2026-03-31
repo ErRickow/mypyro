@@ -1,0 +1,12 @@
+pyrogram.raw.types.stories.can\_send\_story\_count
+==================================================
+
+.. automodule:: pyrogram.raw.types.stories.can_send_story_count
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CanSendStoryCount
+   

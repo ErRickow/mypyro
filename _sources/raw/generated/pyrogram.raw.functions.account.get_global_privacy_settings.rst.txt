@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_global\_privacy\_settings
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_global_privacy_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetGlobalPrivacySettings
+   

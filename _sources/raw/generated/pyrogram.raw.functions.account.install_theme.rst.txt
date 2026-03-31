@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.install\_theme
+=============================================
+
+.. automodule:: pyrogram.raw.functions.account.install_theme
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InstallTheme
+   

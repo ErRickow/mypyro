@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.set\_privacy
+===========================================
+
+.. automodule:: pyrogram.raw.functions.account.set_privacy
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetPrivacy
+   

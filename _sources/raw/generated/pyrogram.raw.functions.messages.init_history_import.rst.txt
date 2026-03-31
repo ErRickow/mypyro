@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.init\_history\_import
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.init_history_import
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InitHistoryImport
+   

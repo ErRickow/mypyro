@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.featured\_stickers\_not\_modified
+=============================================================
+
+.. automodule:: pyrogram.raw.types.messages.featured_stickers_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FeaturedStickersNotModified
+   

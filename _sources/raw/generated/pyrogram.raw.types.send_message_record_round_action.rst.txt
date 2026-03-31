@@ -1,0 +1,12 @@
+pyrogram.raw.types.send\_message\_record\_round\_action
+=======================================================
+
+.. automodule:: pyrogram.raw.types.send_message_record_round_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendMessageRecordRoundAction
+   

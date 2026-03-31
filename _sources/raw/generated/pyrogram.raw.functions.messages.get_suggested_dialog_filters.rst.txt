@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_suggested\_dialog\_filters
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_suggested_dialog_filters
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSuggestedDialogFilters
+   

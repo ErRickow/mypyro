@@ -1,0 +1,12 @@
+pyrogram.raw.types.story\_reaction
+==================================
+
+.. automodule:: pyrogram.raw.types.story_reaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StoryReaction
+   

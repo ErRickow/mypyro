@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.invoke\_web\_view\_custom\_method
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.bots.invoke_web_view_custom_method
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InvokeWebViewCustomMethod
+   

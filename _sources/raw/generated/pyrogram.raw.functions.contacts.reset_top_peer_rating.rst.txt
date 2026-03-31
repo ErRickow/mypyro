@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.reset\_top\_peer\_rating
+========================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.reset_top_peer_rating
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResetTopPeerRating
+   

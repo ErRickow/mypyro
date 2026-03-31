@@ -1,0 +1,38 @@
+pyrogram.raw.functions.auth
+===========================
+
+.. automodule:: pyrogram.raw.functions.auth
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   accept_login_token
+   bind_temp_auth_key
+   cancel_code
+   check_paid_auth
+   check_password
+   check_recovery_password
+   drop_temp_auth_keys
+   export_authorization
+   export_login_token
+   finish_passkey_login
+   import_authorization
+   import_bot_authorization
+   import_login_token
+   import_web_token_authorization
+   init_passkey_login
+   log_out
+   recover_password
+   report_missing_code
+   request_firebase_sms
+   request_password_recovery
+   resend_code
+   reset_authorizations
+   reset_login_email
+   send_code
+   sign_in
+   sign_up

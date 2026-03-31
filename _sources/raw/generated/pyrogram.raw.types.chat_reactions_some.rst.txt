@@ -1,0 +1,12 @@
+pyrogram.raw.types.chat\_reactions\_some
+========================================
+
+.. automodule:: pyrogram.raw.types.chat_reactions_some
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatReactionsSome
+   

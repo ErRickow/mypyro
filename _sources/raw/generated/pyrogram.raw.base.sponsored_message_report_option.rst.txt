@@ -1,0 +1,12 @@
+pyrogram.raw.base.sponsored\_message\_report\_option
+====================================================
+
+.. automodule:: pyrogram.raw.base.sponsored_message_report_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SponsoredMessageReportOption
+   

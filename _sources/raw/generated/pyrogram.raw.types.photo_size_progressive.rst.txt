@@ -1,0 +1,12 @@
+pyrogram.raw.types.photo\_size\_progressive
+===========================================
+
+.. automodule:: pyrogram.raw.types.photo_size_progressive
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhotoSizeProgressive
+   

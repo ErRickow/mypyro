@@ -1,0 +1,12 @@
+pyrogram.raw.types.requirement\_to\_contact\_empty
+==================================================
+
+.. automodule:: pyrogram.raw.types.requirement_to_contact_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequirementToContactEmpty
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.exported\_message\_link
+==========================================
+
+.. automodule:: pyrogram.raw.types.exported_message_link
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportedMessageLink
+   

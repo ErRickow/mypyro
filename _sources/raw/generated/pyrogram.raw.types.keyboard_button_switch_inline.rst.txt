@@ -1,0 +1,12 @@
+pyrogram.raw.types.keyboard\_button\_switch\_inline
+===================================================
+
+.. automodule:: pyrogram.raw.types.keyboard_button_switch_inline
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      KeyboardButtonSwitchInline
+   

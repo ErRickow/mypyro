@@ -1,0 +1,12 @@
+pyrogram.raw.types.send\_message\_cancel\_action
+================================================
+
+.. automodule:: pyrogram.raw.types.send_message_cancel_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendMessageCancelAction
+   

@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.photo
+=========================================
+
+.. automodule:: pyrogram.types.messages_and_media.photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Photo
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stickers.rename\_sticker\_set
+====================================================
+
+.. automodule:: pyrogram.raw.functions.stickers.rename_sticker_set
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RenameStickerSet
+   

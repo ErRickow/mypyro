@@ -1,0 +1,12 @@
+pyrogram.raw.types.passkey
+==========================
+
+.. automodule:: pyrogram.raw.types.passkey
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Passkey
+   

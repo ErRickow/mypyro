@@ -1,0 +1,12 @@
+pyrogram.raw.base.high\_score
+=============================
+
+.. automodule:: pyrogram.raw.base.high_score
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      HighScore
+   

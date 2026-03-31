@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.dismiss\_suggestion
+===============================================
+
+.. automodule:: pyrogram.raw.functions.help.dismiss_suggestion
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DismissSuggestion
+   

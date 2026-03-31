@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value
+================================
+
+.. automodule:: pyrogram.raw.types.secure_value
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValue
+   

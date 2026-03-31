@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_stars\_revenue\_stats
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_stars_revenue_stats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStarsRevenueStats
+   

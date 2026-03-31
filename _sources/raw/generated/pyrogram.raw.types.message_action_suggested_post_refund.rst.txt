@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_suggested\_post\_refund
+===========================================================
+
+.. automodule:: pyrogram.raw.types.message_action_suggested_post_refund
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionSuggestedPostRefund
+   

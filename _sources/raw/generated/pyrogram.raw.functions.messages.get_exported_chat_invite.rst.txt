@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_exported\_chat\_invite
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_exported_chat_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetExportedChatInvite
+   

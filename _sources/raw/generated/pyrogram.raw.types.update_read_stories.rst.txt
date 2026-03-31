@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_read\_stories
+========================================
+
+.. automodule:: pyrogram.raw.types.update_read_stories
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateReadStories
+   

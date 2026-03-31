@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_emoji\_status
+====================================================
+
+.. automodule:: pyrogram.raw.functions.account.update_emoji_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateEmojiStatus
+   

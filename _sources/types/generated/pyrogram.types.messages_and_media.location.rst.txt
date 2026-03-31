@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.location
+============================================
+
+.. automodule:: pyrogram.types.messages_and_media.location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Location
+   

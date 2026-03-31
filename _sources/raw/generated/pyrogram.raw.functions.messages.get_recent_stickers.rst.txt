@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_recent\_stickers
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_recent_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetRecentStickers
+   

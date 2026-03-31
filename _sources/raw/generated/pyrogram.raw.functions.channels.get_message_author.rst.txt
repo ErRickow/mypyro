@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.get\_message\_author
+====================================================
+
+.. automodule:: pyrogram.raw.functions.channels.get_message_author
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetMessageAuthor
+   

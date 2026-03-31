@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_messages\_views
+====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_messages_views
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetMessagesViews
+   

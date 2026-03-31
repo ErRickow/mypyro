@@ -1,0 +1,12 @@
+pyrogram.raw.types.bots.bot\_info
+=================================
+
+.. automodule:: pyrogram.raw.types.bots.bot_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotInfo
+   

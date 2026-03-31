@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.toggle\_suggested\_post\_approval
+=================================================================
+
+.. automodule:: pyrogram.raw.functions.messages.toggle_suggested_post_approval
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleSuggestedPostApproval
+   

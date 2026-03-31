@@ -1,0 +1,12 @@
+pyrogram.raw.base.msgs\_ack
+===========================
+
+.. automodule:: pyrogram.raw.base.msgs_ack
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MsgsAck
+   

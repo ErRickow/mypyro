@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_sticker\_set\_id
+==========================================
+
+.. automodule:: pyrogram.raw.types.input_sticker_set_id
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetID
+   

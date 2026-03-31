@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_code
+========================================
+
+.. automodule:: pyrogram.raw.types.message_entity_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityCode
+   

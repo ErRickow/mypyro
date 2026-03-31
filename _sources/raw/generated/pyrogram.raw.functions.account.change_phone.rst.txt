@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.change\_phone
+============================================
+
+.. automodule:: pyrogram.raw.functions.account.change_phone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChangePhone
+   

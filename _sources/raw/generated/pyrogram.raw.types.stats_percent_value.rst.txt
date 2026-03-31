@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats\_percent\_value
+========================================
+
+.. automodule:: pyrogram.raw.types.stats_percent_value
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsPercentValue
+   

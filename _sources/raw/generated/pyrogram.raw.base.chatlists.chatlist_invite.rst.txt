@@ -1,0 +1,12 @@
+pyrogram.raw.base.chatlists.chatlist\_invite
+============================================
+
+.. automodule:: pyrogram.raw.base.chatlists.chatlist_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatlistInvite
+   

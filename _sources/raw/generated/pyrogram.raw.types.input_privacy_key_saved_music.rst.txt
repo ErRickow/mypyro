@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_privacy\_key\_saved\_music
+====================================================
+
+.. automodule:: pyrogram.raw.types.input_privacy_key_saved_music
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPrivacyKeySavedMusic
+   

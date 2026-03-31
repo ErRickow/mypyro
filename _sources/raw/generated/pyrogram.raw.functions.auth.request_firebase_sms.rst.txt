@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.request\_firebase\_sms
+==================================================
+
+.. automodule:: pyrogram.raw.functions.auth.request_firebase_sms
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequestFirebaseSms
+   

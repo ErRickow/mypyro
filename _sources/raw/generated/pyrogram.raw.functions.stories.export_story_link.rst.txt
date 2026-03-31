@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.export\_story\_link
+==================================================
+
+.. automodule:: pyrogram.raw.functions.stories.export_story_link
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportStoryLink
+   

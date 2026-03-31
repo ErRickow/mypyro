@@ -1,0 +1,12 @@
+pyrogram.raw.base.bot\_preview\_media
+=====================================
+
+.. automodule:: pyrogram.raw.base.bot_preview_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotPreviewMedia
+   

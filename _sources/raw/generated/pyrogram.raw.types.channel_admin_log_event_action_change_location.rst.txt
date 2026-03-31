@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_admin\_log\_event\_action\_change\_location
+=======================================================================
+
+.. automodule:: pyrogram.raw.types.channel_admin_log_event_action_change_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEventActionChangeLocation
+   

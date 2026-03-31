@@ -1,0 +1,35 @@
+pyrogram.types.messages\_and\_media
+===================================
+
+.. automodule:: pyrogram.types.messages_and_media
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   animation
+   audio
+   contact
+   dice
+   document
+   game
+   location
+   message
+   message_entity
+   message_reactions
+   photo
+   poll
+   poll_option
+   reaction
+   sticker
+   stripped_thumbnail
+   thumbnail
+   venue
+   video
+   video_note
+   voice
+   web_app_data
+   web_page

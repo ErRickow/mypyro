@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.bind\_temp\_auth\_key
+=================================================
+
+.. automodule:: pyrogram.raw.functions.auth.bind_temp_auth_key
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BindTempAuthKey
+   

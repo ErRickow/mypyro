@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.bot\_cancel\_stars\_subscription
+================================================================
+
+.. automodule:: pyrogram.raw.functions.payments.bot_cancel_stars_subscription
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotCancelStarsSubscription
+   

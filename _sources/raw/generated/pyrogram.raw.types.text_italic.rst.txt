@@ -1,0 +1,12 @@
+pyrogram.raw.types.text\_italic
+===============================
+
+.. automodule:: pyrogram.raw.types.text_italic
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextItalic
+   

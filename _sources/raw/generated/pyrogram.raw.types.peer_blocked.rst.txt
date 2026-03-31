@@ -1,0 +1,12 @@
+pyrogram.raw.types.peer\_blocked
+================================
+
+.. automodule:: pyrogram.raw.types.peer_blocked
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeerBlocked
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.web\_authorizations
+==============================================
+
+.. automodule:: pyrogram.raw.types.account.web_authorizations
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebAuthorizations
+   

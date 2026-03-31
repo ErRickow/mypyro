@@ -1,0 +1,70 @@
+pyrogram.raw.functions.channels
+===============================
+
+.. automodule:: pyrogram.raw.functions.channels
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   check_search_posts_flood
+   check_username
+   convert_to_gigagroup
+   create_channel
+   deactivate_all_usernames
+   delete_channel
+   delete_history
+   delete_messages
+   delete_participant_history
+   edit_admin
+   edit_banned
+   edit_location
+   edit_photo
+   edit_title
+   export_message_link
+   get_admin_log
+   get_admined_public_channels
+   get_channel_recommendations
+   get_channels
+   get_full_channel
+   get_groups_for_discussion
+   get_inactive_channels
+   get_left_channels
+   get_message_author
+   get_messages
+   get_participant
+   get_participants
+   get_send_as
+   invite_to_channel
+   join_channel
+   leave_channel
+   read_history
+   read_message_contents
+   reorder_usernames
+   report_anti_spam_false_positive
+   report_spam
+   restrict_sponsored_messages
+   search_posts
+   set_boosts_to_unblock_restrictions
+   set_discussion_group
+   set_emoji_stickers
+   set_main_profile_tab
+   set_stickers
+   toggle_anti_spam
+   toggle_autotranslation
+   toggle_forum
+   toggle_join_request
+   toggle_join_to_send
+   toggle_participants_hidden
+   toggle_pre_history_hidden
+   toggle_signatures
+   toggle_slow_mode
+   toggle_username
+   toggle_view_forum_as_messages
+   update_color
+   update_emoji_status
+   update_paid_messages_price
+   update_username

@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_channel\_user\_typing
+================================================
+
+.. automodule:: pyrogram.raw.types.update_channel_user_typing
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateChannelUserTyping
+   

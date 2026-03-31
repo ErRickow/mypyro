@@ -1,0 +1,12 @@
+pyrogram.raw.types.contacts.found
+=================================
+
+.. automodule:: pyrogram.raw.types.contacts.found
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Found
+   

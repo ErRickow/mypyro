@@ -1,0 +1,12 @@
+pyrogram.raw.functions.chatlists.join\_chatlist\_updates
+========================================================
+
+.. automodule:: pyrogram.raw.functions.chatlists.join_chatlist_updates
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JoinChatlistUpdates
+   

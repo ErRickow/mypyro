@@ -1,0 +1,12 @@
+pyrogram.raw.types.attach\_menu\_bot\_icon\_color
+=================================================
+
+.. automodule:: pyrogram.raw.types.attach_menu_bot_icon_color
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AttachMenuBotIconColor
+   

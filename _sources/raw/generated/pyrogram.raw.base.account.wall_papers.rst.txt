@@ -1,0 +1,12 @@
+pyrogram.raw.base.account.wall\_papers
+======================================
+
+.. automodule:: pyrogram.raw.base.account.wall_papers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WallPapers
+   

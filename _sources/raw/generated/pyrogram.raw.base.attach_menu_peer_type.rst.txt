@@ -1,0 +1,12 @@
+pyrogram.raw.base.attach\_menu\_peer\_type
+==========================================
+
+.. automodule:: pyrogram.raw.base.attach_menu_peer_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AttachMenuPeerType
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_config
+=================================
+
+.. automodule:: pyrogram.raw.types.update_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateConfig
+   

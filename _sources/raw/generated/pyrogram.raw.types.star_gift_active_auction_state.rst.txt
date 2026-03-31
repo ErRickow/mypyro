@@ -1,0 +1,12 @@
+pyrogram.raw.types.star\_gift\_active\_auction\_state
+=====================================================
+
+.. automodule:: pyrogram.raw.types.star_gift_active_auction_state
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftActiveAuctionState
+   

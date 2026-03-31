@@ -1,0 +1,12 @@
+pyrogram.raw.types.send\_message\_upload\_audio\_action
+=======================================================
+
+.. automodule:: pyrogram.raw.types.send_message_upload_audio_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendMessageUploadAudioAction
+   

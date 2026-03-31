@@ -1,0 +1,32 @@
+pyrogram.types.inline\_mode
+===========================
+
+.. automodule:: pyrogram.types.inline_mode
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   chosen_inline_result
+   inline_query
+   inline_query_result
+   inline_query_result_animation
+   inline_query_result_article
+   inline_query_result_audio
+   inline_query_result_cached_animation
+   inline_query_result_cached_audio
+   inline_query_result_cached_document
+   inline_query_result_cached_photo
+   inline_query_result_cached_sticker
+   inline_query_result_cached_video
+   inline_query_result_cached_voice
+   inline_query_result_contact
+   inline_query_result_document
+   inline_query_result_location
+   inline_query_result_photo
+   inline_query_result_venue
+   inline_query_result_video
+   inline_query_result_voice

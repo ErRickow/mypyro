@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_bot\_inline\_message\_game
+====================================================
+
+.. automodule:: pyrogram.raw.types.input_bot_inline_message_game
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputBotInlineMessageGame
+   

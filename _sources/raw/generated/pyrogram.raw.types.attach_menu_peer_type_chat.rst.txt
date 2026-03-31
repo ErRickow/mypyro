@@ -1,0 +1,12 @@
+pyrogram.raw.types.attach\_menu\_peer\_type\_chat
+=================================================
+
+.. automodule:: pyrogram.raw.types.attach_menu_peer_type_chat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AttachMenuPeerTypeChat
+   

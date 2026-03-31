@@ -1,0 +1,12 @@
+pyrogram.types.input\_media.input\_phone\_contact
+=================================================
+
+.. automodule:: pyrogram.types.input_media.input_phone_contact
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPhoneContact
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.http\_wait
+============================
+
+.. automodule:: pyrogram.raw.base.http_wait
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      HttpWait
+   

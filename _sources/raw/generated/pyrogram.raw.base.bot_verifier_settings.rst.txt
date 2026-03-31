@@ -1,0 +1,12 @@
+pyrogram.raw.base.bot\_verifier\_settings
+=========================================
+
+.. automodule:: pyrogram.raw.base.bot_verifier_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotVerifierSettings
+   

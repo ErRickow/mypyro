@@ -1,0 +1,12 @@
+pyrogram.raw.types.cdn\_config
+==============================
+
+.. automodule:: pyrogram.raw.types.cdn_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CdnConfig
+   

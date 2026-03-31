@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_collectible
+====================================
+
+.. automodule:: pyrogram.raw.base.input_collectible
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputCollectible
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.report
+=====================================
+
+.. automodule:: pyrogram.raw.functions.stories.report
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Report
+   

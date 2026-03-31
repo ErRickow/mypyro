@@ -1,0 +1,12 @@
+pyrogram.raw.types.msg\_resend\_ans\_req
+========================================
+
+.. automodule:: pyrogram.raw.types.msg_resend_ans_req
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MsgResendAnsReq
+   

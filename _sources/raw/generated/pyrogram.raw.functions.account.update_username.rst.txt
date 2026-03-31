@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_username
+===============================================
+
+.. automodule:: pyrogram.raw.functions.account.update_username
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateUsername
+   

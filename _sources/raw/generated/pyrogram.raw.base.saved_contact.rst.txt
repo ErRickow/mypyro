@@ -1,0 +1,12 @@
+pyrogram.raw.base.saved\_contact
+================================
+
+.. automodule:: pyrogram.raw.base.saved_contact
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedContact
+   

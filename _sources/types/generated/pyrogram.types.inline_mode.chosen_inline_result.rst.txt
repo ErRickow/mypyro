@@ -1,0 +1,12 @@
+pyrogram.types.inline\_mode.chosen\_inline\_result
+==================================================
+
+.. automodule:: pyrogram.types.inline_mode.chosen_inline_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChosenInlineResult
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.append\_todo\_list
+==================================================
+
+.. automodule:: pyrogram.raw.functions.messages.append_todo_list
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AppendTodoList
+   

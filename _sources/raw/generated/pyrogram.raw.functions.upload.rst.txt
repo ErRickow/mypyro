@@ -1,0 +1,20 @@
+pyrogram.raw.functions.upload
+=============================
+
+.. automodule:: pyrogram.raw.functions.upload
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   get_cdn_file
+   get_cdn_file_hashes
+   get_file
+   get_file_hashes
+   get_web_file
+   reupload_cdn_file
+   save_big_file_part
+   save_file_part

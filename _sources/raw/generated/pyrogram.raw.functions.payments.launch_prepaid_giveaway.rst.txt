@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.launch\_prepaid\_giveaway
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.payments.launch_prepaid_giveaway
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LaunchPrepaidGiveaway
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.message\_report\_option
+=========================================
+
+.. automodule:: pyrogram.raw.base.message_report_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageReportOption
+   

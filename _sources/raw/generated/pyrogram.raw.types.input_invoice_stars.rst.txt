@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_invoice\_stars
+========================================
+
+.. automodule:: pyrogram.raw.types.input_invoice_stars
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputInvoiceStars
+   

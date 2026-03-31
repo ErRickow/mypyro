@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats\_group\_top\_poster
+============================================
+
+.. automodule:: pyrogram.raw.types.stats_group_top_poster
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsGroupTopPoster
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.set\_client\_dh\_params
+==============================================
+
+.. automodule:: pyrogram.raw.functions.set_client_dh_params
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetClientDHParams
+   

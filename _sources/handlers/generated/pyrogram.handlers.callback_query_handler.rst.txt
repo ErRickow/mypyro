@@ -1,0 +1,12 @@
+pyrogram.handlers.callback\_query\_handler
+==========================================
+
+.. automodule:: pyrogram.handlers.callback_query_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CallbackQueryHandler
+   

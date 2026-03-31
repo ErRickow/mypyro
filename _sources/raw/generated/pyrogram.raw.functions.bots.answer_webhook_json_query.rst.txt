@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.answer\_webhook\_json\_query
+========================================================
+
+.. automodule:: pyrogram.raw.functions.bots.answer_webhook_json_query
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AnswerWebhookJSONQuery
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.star\_gift\_auction\_state\_finished
+=======================================================
+
+.. automodule:: pyrogram.raw.types.star_gift_auction_state_finished
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftAuctionStateFinished
+   

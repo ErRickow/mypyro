@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.edit\_chat\_title
+=================================================
+
+.. automodule:: pyrogram.raw.functions.messages.edit_chat_title
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditChatTitle
+   

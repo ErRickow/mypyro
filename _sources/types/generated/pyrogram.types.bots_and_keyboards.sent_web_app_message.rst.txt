@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.sent\_web\_app\_message
+===========================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.sent_web_app_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SentWebAppMessage
+   

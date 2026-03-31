@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stats.get\_broadcast\_stats
+==================================================
+
+.. automodule:: pyrogram.raw.functions.stats.get_broadcast_stats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetBroadcastStats
+   

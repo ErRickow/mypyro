@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_account\_ttl
+================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_account_ttl
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetAccountTTL
+   

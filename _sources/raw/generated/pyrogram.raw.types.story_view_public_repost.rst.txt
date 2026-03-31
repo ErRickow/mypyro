@@ -1,0 +1,12 @@
+pyrogram.raw.types.story\_view\_public\_repost
+==============================================
+
+.. automodule:: pyrogram.raw.types.story_view_public_repost
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StoryViewPublicRepost
+   

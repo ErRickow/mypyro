@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_passkey\_response
+==========================================
+
+.. automodule:: pyrogram.raw.base.input_passkey_response
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPasskeyResponse
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.create\_forum\_topic
+====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.create_forum_topic
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CreateForumTopic
+   

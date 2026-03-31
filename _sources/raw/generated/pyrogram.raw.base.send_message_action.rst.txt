@@ -1,0 +1,12 @@
+pyrogram.raw.base.send\_message\_action
+=======================================
+
+.. automodule:: pyrogram.raw.base.send_message_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendMessageAction
+   

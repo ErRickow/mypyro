@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_admin\_log\_event\_action\_default\_banned\_rights
+==============================================================================
+
+.. automodule:: pyrogram.raw.types.channel_admin_log_event_action_default_banned_rights
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEventActionDefaultBannedRights
+   

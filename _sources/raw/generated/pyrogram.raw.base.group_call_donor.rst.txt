@@ -1,0 +1,12 @@
+pyrogram.raw.base.group\_call\_donor
+====================================
+
+.. automodule:: pyrogram.raw.base.group_call_donor
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GroupCallDonor
+   

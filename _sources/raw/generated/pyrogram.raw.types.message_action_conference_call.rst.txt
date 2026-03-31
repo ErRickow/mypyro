@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_conference\_call
+====================================================
+
+.. automodule:: pyrogram.raw.types.message_action_conference_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionConferenceCall
+   

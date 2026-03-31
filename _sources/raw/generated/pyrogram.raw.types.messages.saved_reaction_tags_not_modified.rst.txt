@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.saved\_reaction\_tags\_not\_modified
+================================================================
+
+.. automodule:: pyrogram.raw.types.messages.saved_reaction_tags_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedReactionTagsNotModified
+   

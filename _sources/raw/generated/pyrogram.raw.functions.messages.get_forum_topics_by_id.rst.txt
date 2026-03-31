@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_forum\_topics\_by\_id
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_forum_topics_by_id
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetForumTopicsByID
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.document\_attribute
+=====================================
+
+.. automodule:: pyrogram.raw.base.document_attribute
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DocumentAttribute
+   

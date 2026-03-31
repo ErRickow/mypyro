@@ -1,0 +1,12 @@
+pyrogram.raw.types.recent\_me\_url\_chat\_invite
+================================================
+
+.. automodule:: pyrogram.raw.types.recent_me_url_chat_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RecentMeUrlChatInvite
+   

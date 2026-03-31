@@ -1,0 +1,12 @@
+pyrogram.raw.types.text\_phone
+==============================
+
+.. automodule:: pyrogram.raw.types.text_phone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextPhone
+   

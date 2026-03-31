@@ -1,0 +1,12 @@
+pyrogram.raw.types.storage.file\_mp4
+====================================
+
+.. automodule:: pyrogram.raw.types.storage.file_mp4
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileMp4
+   

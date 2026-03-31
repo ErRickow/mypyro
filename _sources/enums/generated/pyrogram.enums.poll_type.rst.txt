@@ -1,0 +1,12 @@
+pyrogram.enums.poll\_type
+=========================
+
+.. automodule:: pyrogram.enums.poll_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PollType
+   

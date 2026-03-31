@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.send\_reaction
+=============================================
+
+.. automodule:: pyrogram.raw.functions.stories.send_reaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendReaction
+   

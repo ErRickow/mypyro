@@ -1,0 +1,12 @@
+pyrogram.raw.types.inline\_query\_peer\_type\_same\_bot\_pm
+===========================================================
+
+.. automodule:: pyrogram.raw.types.inline_query_peer_type_same_bot_pm
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineQueryPeerTypeSameBotPM
+   

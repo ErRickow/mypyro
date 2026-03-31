@@ -1,0 +1,12 @@
+pyrogram.raw.types.inline\_query\_peer\_type\_chat
+==================================================
+
+.. automodule:: pyrogram.raw.types.inline_query_peer_type_chat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineQueryPeerTypeChat
+   

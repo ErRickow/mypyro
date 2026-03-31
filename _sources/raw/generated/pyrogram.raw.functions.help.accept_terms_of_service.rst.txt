@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.accept\_terms\_of\_service
+======================================================
+
+.. automodule:: pyrogram.raw.functions.help.accept_terms_of_service
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AcceptTermsOfService
+   

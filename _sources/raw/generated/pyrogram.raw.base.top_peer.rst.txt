@@ -1,0 +1,12 @@
+pyrogram.raw.base.top\_peer
+===========================
+
+.. automodule:: pyrogram.raw.base.top_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TopPeer
+   

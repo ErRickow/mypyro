@@ -1,0 +1,12 @@
+pyrogram.enums.next\_code\_type
+===============================
+
+.. automodule:: pyrogram.enums.next_code_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NextCodeType
+   

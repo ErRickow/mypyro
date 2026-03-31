@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.translate\_result
+=============================================
+
+.. automodule:: pyrogram.raw.types.messages.translate_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TranslateResult
+   

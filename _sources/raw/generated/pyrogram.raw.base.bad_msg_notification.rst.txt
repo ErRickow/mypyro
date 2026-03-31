@@ -1,0 +1,12 @@
+pyrogram.raw.base.bad\_msg\_notification
+========================================
+
+.. automodule:: pyrogram.raw.base.bad_msg_notification
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BadMsgNotification
+   

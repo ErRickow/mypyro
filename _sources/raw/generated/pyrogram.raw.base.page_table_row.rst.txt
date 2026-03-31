@@ -1,0 +1,12 @@
+pyrogram.raw.base.page\_table\_row
+==================================
+
+.. automodule:: pyrogram.raw.base.page_table_row
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageTableRow
+   

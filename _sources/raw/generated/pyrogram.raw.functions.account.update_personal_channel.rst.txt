@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_personal\_channel
+========================================================
+
+.. automodule:: pyrogram.raw.functions.account.update_personal_channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdatePersonalChannel
+   

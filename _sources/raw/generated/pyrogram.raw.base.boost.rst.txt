@@ -1,0 +1,12 @@
+pyrogram.raw.base.boost
+=======================
+
+.. automodule:: pyrogram.raw.base.boost
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Boost
+   

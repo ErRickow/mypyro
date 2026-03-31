@@ -1,0 +1,12 @@
+pyrogram.raw.types.upload.file\_cdn\_redirect
+=============================================
+
+.. automodule:: pyrogram.raw.types.upload.file_cdn_redirect
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileCdnRedirect
+   

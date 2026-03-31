@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.get\_bot\_menu\_button
+==================================================
+
+.. automodule:: pyrogram.raw.functions.bots.get_bot_menu_button
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetBotMenuButton
+   

@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.web\_app\_data
+==================================================
+
+.. automodule:: pyrogram.types.messages_and_media.web_app_data
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebAppData
+   

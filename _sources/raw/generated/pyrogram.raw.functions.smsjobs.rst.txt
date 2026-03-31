@@ -1,0 +1,19 @@
+pyrogram.raw.functions.smsjobs
+==============================
+
+.. automodule:: pyrogram.raw.functions.smsjobs
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   finish_job
+   get_sms_job
+   get_status
+   is_eligible_to_join
+   join
+   leave
+   update_settings

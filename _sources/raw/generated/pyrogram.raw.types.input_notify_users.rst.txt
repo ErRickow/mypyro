@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_notify\_users
+=======================================
+
+.. automodule:: pyrogram.raw.types.input_notify_users
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputNotifyUsers
+   

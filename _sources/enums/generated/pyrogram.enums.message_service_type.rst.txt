@@ -1,0 +1,12 @@
+pyrogram.enums.message\_service\_type
+=====================================
+
+.. automodule:: pyrogram.enums.message_service_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageServiceType
+   

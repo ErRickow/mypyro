@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.join\_group\_call
+==============================================
+
+.. automodule:: pyrogram.raw.functions.phone.join_group_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JoinGroupCall
+   

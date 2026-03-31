@@ -1,0 +1,12 @@
+pyrogram.raw.types.top\_peer\_category\_channels
+================================================
+
+.. automodule:: pyrogram.raw.types.top_peer_category_channels
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TopPeerCategoryChannels
+   

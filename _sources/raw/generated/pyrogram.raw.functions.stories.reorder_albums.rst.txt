@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.reorder\_albums
+==============================================
+
+.. automodule:: pyrogram.raw.functions.stories.reorder_albums
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReorderAlbums
+   

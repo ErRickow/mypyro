@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.auto\_save\_settings
+===============================================
+
+.. automodule:: pyrogram.raw.types.account.auto_save_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AutoSaveSettings
+   

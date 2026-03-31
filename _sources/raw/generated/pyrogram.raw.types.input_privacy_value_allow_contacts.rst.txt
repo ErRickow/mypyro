@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_privacy\_value\_allow\_contacts
+=========================================================
+
+.. automodule:: pyrogram.raw.types.input_privacy_value_allow_contacts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPrivacyValueAllowContacts
+   

@@ -1,0 +1,12 @@
+pyrogram.enums.message\_media\_type
+===================================
+
+.. automodule:: pyrogram.enums.message_media_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaType
+   

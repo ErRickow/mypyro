@@ -1,0 +1,12 @@
+pyrogram.raw.types.story\_item\_deleted
+=======================================
+
+.. automodule:: pyrogram.raw.types.story_item_deleted
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StoryItemDeleted
+   

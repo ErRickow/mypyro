@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.validated\_requested\_info
+======================================================
+
+.. automodule:: pyrogram.raw.types.payments.validated_requested_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ValidatedRequestedInfo
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.notification\_sound\_default
+===============================================
+
+.. automodule:: pyrogram.raw.types.notification_sound_default
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NotificationSoundDefault
+   

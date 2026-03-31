@@ -1,0 +1,12 @@
+pyrogram.raw.base.contacts.sponsored\_peers
+===========================================
+
+.. automodule:: pyrogram.raw.base.contacts.sponsored_peers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SponsoredPeers
+   

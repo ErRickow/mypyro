@@ -1,0 +1,12 @@
+pyrogram.raw.types.rpc\_result
+==============================
+
+.. automodule:: pyrogram.raw.types.rpc_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RpcResult
+   

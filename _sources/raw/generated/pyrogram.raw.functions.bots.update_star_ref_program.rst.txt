@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.update\_star\_ref\_program
+======================================================
+
+.. automodule:: pyrogram.raw.functions.bots.update_star_ref_program
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateStarRefProgram
+   

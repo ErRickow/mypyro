@@ -1,0 +1,12 @@
+pyrogram.raw.functions.smsjobs.leave
+====================================
+
+.. automodule:: pyrogram.raw.functions.smsjobs.leave
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Leave
+   

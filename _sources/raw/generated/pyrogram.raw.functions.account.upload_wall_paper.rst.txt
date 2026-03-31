@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.upload\_wall\_paper
+==================================================
+
+.. automodule:: pyrogram.raw.functions.account.upload_wall_paper
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UploadWallPaper
+   

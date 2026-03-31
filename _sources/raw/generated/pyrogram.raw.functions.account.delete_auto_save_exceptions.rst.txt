@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.delete\_auto\_save\_exceptions
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.account.delete_auto_save_exceptions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteAutoSaveExceptions
+   

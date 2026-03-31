@@ -1,0 +1,12 @@
+pyrogram.raw.types.text\_marked
+===============================
+
+.. automodule:: pyrogram.raw.types.text_marked
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextMarked
+   

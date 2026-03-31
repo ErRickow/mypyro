@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats\_graph\_async
+======================================
+
+.. automodule:: pyrogram.raw.types.stats_graph_async
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsGraphAsync
+   

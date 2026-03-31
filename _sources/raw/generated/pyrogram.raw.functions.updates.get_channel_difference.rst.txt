@@ -1,0 +1,12 @@
+pyrogram.raw.functions.updates.get\_channel\_difference
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.updates.get_channel_difference
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChannelDifference
+   

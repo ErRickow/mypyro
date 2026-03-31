@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.get\_pinned\_stories
+===================================================
+
+.. automodule:: pyrogram.raw.functions.stories.get_pinned_stories
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPinnedStories
+   

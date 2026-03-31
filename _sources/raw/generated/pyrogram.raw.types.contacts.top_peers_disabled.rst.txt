@@ -1,0 +1,12 @@
+pyrogram.raw.types.contacts.top\_peers\_disabled
+================================================
+
+.. automodule:: pyrogram.raw.types.contacts.top_peers_disabled
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TopPeersDisabled
+   

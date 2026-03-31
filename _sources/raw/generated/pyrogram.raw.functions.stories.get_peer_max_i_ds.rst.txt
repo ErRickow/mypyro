@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.get\_peer\_max\_i\_ds
+====================================================
+
+.. automodule:: pyrogram.raw.functions.stories.get_peer_max_i_ds
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPeerMaxIDs
+   

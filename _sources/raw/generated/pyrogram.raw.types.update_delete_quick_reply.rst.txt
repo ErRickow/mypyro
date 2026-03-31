@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_delete\_quick\_reply
+===============================================
+
+.. automodule:: pyrogram.raw.types.update_delete_quick_reply
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateDeleteQuickReply
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.get\_channel\_recommendations
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.channels.get_channel_recommendations
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChannelRecommendations
+   

@@ -1,0 +1,14 @@
+pyrogram.types.authorization
+============================
+
+.. automodule:: pyrogram.types.authorization
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   sent_code
+   terms_of_service

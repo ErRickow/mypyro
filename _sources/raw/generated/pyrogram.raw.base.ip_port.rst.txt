@@ -1,0 +1,12 @@
+pyrogram.raw.base.ip\_port
+==========================
+
+.. automodule:: pyrogram.raw.base.ip_port
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      IpPort
+   

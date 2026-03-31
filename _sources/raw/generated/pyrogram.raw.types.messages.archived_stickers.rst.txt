@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.archived\_stickers
+==============================================
+
+.. automodule:: pyrogram.raw.types.messages.archived_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ArchivedStickers
+   

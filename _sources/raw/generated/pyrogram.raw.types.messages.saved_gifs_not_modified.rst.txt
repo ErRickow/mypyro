@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.saved\_gifs\_not\_modified
+======================================================
+
+.. automodule:: pyrogram.raw.types.messages.saved_gifs_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedGifsNotModified
+   

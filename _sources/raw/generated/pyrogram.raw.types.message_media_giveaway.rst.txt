@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_giveaway
+===========================================
+
+.. automodule:: pyrogram.raw.types.message_media_giveaway
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaGiveaway
+   

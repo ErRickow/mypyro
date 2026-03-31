@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.send\_payment\_form
+===================================================
+
+.. automodule:: pyrogram.raw.functions.payments.send_payment_form
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendPaymentForm
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.storage.file\_type
+====================================
+
+.. automodule:: pyrogram.raw.base.storage.file_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileType
+   

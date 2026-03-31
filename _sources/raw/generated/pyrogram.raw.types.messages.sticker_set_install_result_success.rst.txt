@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.sticker\_set\_install\_result\_success
+==================================================================
+
+.. automodule:: pyrogram.raw.types.messages.sticker_set_install_result_success
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StickerSetInstallResultSuccess
+   

@@ -1,0 +1,12 @@
+pyrogram.types.input\_media.input\_media\_audio
+===============================================
+
+.. automodule:: pyrogram.types.input_media.input_media_audio
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMediaAudio
+   

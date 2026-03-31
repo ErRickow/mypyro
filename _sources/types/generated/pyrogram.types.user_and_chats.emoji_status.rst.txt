@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.emoji\_status
+=============================================
+
+.. automodule:: pyrogram.types.user_and_chats.emoji_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiStatus
+   

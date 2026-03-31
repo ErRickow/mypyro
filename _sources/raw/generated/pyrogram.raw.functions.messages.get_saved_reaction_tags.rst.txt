@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_saved\_reaction\_tags
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_saved_reaction_tags
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSavedReactionTags
+   

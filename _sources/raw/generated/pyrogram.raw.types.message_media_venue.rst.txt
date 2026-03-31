@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_venue
+========================================
+
+.. automodule:: pyrogram.raw.types.message_media_venue
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaVenue
+   

@@ -1,0 +1,12 @@
+pyrogram.types.inline\_mode.inline\_query\_result\_cached\_document
+===================================================================
+
+.. automodule:: pyrogram.types.inline_mode.inline_query_result_cached_document
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineQueryResultCachedDocument
+   

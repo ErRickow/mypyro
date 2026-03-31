@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.send\_change\_phone\_code
+========================================================
+
+.. automodule:: pyrogram.raw.functions.account.send_change_phone_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendChangePhoneCode
+   

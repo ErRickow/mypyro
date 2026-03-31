@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.emoji\_game\_unavailable
+====================================================
+
+.. automodule:: pyrogram.raw.types.messages.emoji_game_unavailable
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiGameUnavailable
+   

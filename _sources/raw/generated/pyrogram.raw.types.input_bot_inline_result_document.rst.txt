@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_bot\_inline\_result\_document
+=======================================================
+
+.. automodule:: pyrogram.raw.types.input_bot_inline_result_document
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputBotInlineResultDocument
+   

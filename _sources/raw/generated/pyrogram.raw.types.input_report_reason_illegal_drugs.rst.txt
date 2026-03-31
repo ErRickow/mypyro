@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_report\_reason\_illegal\_drugs
+========================================================
+
+.. automodule:: pyrogram.raw.types.input_report_reason_illegal_drugs
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputReportReasonIllegalDrugs
+   

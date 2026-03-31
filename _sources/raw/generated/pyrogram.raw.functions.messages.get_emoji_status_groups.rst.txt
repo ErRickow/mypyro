@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_emoji\_status\_groups
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_emoji_status_groups
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetEmojiStatusGroups
+   

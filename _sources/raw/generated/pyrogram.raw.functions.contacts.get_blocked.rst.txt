@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.get\_blocked
+============================================
+
+.. automodule:: pyrogram.raw.functions.contacts.get_blocked
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetBlocked
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.delete\_star\_gift\_collection
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.payments.delete_star_gift_collection
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteStarGiftCollection
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_bot\_purchased\_paid\_media
+======================================================
+
+.. automodule:: pyrogram.raw.types.update_bot_purchased_paid_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBotPurchasedPaidMedia
+   

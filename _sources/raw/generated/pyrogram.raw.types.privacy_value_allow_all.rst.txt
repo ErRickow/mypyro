@@ -1,0 +1,12 @@
+pyrogram.raw.types.privacy\_value\_allow\_all
+=============================================
+
+.. automodule:: pyrogram.raw.types.privacy_value_allow_all
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PrivacyValueAllowAll
+   

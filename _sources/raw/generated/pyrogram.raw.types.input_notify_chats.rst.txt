@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_notify\_chats
+=======================================
+
+.. automodule:: pyrogram.raw.types.input_notify_chats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputNotifyChats
+   

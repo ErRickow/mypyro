@@ -1,0 +1,12 @@
+pyrogram.raw.types.keyboard\_button\_request\_poll
+==================================================
+
+.. automodule:: pyrogram.raw.types.keyboard_button_request_poll
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      KeyboardButtonRequestPoll
+   

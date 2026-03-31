@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.reply\_keyboard\_remove
+===========================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.reply_keyboard_remove
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReplyKeyboardRemove
+   

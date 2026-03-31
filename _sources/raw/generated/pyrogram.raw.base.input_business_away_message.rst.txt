@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_business\_away\_message
+================================================
+
+.. automodule:: pyrogram.raw.base.input_business_away_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputBusinessAwayMessage
+   

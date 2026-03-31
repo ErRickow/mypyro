@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.reset\_authorization
+===================================================
+
+.. automodule:: pyrogram.raw.functions.account.reset_authorization
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResetAuthorization
+   

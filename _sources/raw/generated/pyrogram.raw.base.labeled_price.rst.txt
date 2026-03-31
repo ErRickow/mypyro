@@ -1,0 +1,12 @@
+pyrogram.raw.base.labeled\_price
+================================
+
+.. automodule:: pyrogram.raw.base.labeled_price
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LabeledPrice
+   

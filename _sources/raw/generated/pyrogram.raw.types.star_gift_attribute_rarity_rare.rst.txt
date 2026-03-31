@@ -1,0 +1,12 @@
+pyrogram.raw.types.star\_gift\_attribute\_rarity\_rare
+======================================================
+
+.. automodule:: pyrogram.raw.types.star_gift_attribute_rarity_rare
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftAttributeRarityRare
+   

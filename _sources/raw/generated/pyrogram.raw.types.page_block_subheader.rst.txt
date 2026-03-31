@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_subheader
+=========================================
+
+.. automodule:: pyrogram.raw.types.page_block_subheader
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockSubheader
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_topup\_option
+=======================================
+
+.. automodule:: pyrogram.raw.types.stars_topup_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsTopupOption
+   

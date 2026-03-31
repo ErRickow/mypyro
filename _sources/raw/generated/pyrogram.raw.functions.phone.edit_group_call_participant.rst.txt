@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.edit\_group\_call\_participant
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.phone.edit_group_call_participant
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditGroupCallParticipant
+   

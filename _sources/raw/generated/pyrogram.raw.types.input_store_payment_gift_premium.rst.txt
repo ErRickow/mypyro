@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_store\_payment\_gift\_premium
+=======================================================
+
+.. automodule:: pyrogram.raw.types.input_store_payment_gift_premium
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStorePaymentGiftPremium
+   

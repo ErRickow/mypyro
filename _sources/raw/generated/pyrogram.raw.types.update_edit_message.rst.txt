@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_edit\_message
+========================================
+
+.. automodule:: pyrogram.raw.types.update_edit_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateEditMessage
+   

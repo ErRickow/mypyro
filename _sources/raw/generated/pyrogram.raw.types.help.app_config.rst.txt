@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.app\_config
+===================================
+
+.. automodule:: pyrogram.raw.types.help.app_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AppConfig
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.channels.send\_as\_peers
+==========================================
+
+.. automodule:: pyrogram.raw.base.channels.send_as_peers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendAsPeers
+   

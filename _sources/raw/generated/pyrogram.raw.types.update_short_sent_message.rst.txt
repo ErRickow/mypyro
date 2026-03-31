@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_short\_sent\_message
+===============================================
+
+.. automodule:: pyrogram.raw.types.update_short_sent_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateShortSentMessage
+   

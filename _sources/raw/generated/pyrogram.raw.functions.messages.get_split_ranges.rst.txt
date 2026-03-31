@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_split\_ranges
+==================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_split_ranges
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSplitRanges
+   

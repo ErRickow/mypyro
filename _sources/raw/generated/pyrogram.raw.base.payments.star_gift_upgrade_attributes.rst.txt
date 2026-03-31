@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.star\_gift\_upgrade\_attributes
+==========================================================
+
+.. automodule:: pyrogram.raw.base.payments.star_gift_upgrade_attributes
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftUpgradeAttributes
+   

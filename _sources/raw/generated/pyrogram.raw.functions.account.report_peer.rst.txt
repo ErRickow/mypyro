@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.report\_peer
+===========================================
+
+.. automodule:: pyrogram.raw.functions.account.report_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportPeer
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.account.resolved\_business\_chat\_links
+=========================================================
+
+.. automodule:: pyrogram.raw.base.account.resolved_business_chat_links
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResolvedBusinessChatLinks
+   

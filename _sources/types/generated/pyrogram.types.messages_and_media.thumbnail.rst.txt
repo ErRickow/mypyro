@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.thumbnail
+=============================================
+
+.. automodule:: pyrogram.types.messages_and_media.thumbnail
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Thumbnail
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.create\_chat
+============================================
+
+.. automodule:: pyrogram.raw.functions.messages.create_chat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CreateChat
+   

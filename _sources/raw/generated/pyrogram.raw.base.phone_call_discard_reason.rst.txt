@@ -1,0 +1,12 @@
+pyrogram.raw.base.phone\_call\_discard\_reason
+==============================================
+
+.. automodule:: pyrogram.raw.base.phone_call_discard_reason
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhoneCallDiscardReason
+   

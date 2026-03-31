@@ -1,0 +1,12 @@
+pyrogram.raw.functions.premium.apply\_boost
+===========================================
+
+.. automodule:: pyrogram.raw.functions.premium.apply_boost
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ApplyBoost
+   

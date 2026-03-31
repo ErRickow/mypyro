@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.send\_custom\_request
+=================================================
+
+.. automodule:: pyrogram.raw.functions.bots.send_custom_request
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendCustomRequest
+   

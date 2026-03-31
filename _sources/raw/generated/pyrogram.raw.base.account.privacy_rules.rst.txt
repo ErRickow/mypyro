@@ -1,0 +1,12 @@
+pyrogram.raw.base.account.privacy\_rules
+========================================
+
+.. automodule:: pyrogram.raw.base.account.privacy_rules
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PrivacyRules
+   

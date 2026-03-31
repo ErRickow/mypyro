@@ -1,0 +1,12 @@
+pyrogram.types.input\_media.input\_media\_video
+===============================================
+
+.. automodule:: pyrogram.types.input_media.input_media_video
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMediaVideo
+   

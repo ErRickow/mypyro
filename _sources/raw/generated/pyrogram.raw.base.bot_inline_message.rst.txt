@@ -1,0 +1,12 @@
+pyrogram.raw.base.bot\_inline\_message
+======================================
+
+.. automodule:: pyrogram.raw.base.bot_inline_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotInlineMessage
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_extended\_media
+====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_extended_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetExtendedMedia
+   

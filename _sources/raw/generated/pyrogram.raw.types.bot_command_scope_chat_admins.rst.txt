@@ -1,0 +1,12 @@
+pyrogram.raw.types.bot\_command\_scope\_chat\_admins
+====================================================
+
+.. automodule:: pyrogram.raw.types.bot_command_scope_chat_admins
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotCommandScopeChatAdmins
+   

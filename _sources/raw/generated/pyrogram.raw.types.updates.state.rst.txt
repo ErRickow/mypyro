@@ -1,0 +1,12 @@
+pyrogram.raw.types.updates.state
+================================
+
+.. automodule:: pyrogram.raw.types.updates.state
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      State
+   

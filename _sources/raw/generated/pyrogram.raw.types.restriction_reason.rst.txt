@@ -1,0 +1,12 @@
+pyrogram.raw.types.restriction\_reason
+======================================
+
+.. automodule:: pyrogram.raw.types.restriction_reason
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RestrictionReason
+   

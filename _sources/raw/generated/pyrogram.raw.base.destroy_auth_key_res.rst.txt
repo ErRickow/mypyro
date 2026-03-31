@@ -1,0 +1,12 @@
+pyrogram.raw.base.destroy\_auth\_key\_res
+=========================================
+
+.. automodule:: pyrogram.raw.base.destroy_auth_key_res
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DestroyAuthKeyRes
+   

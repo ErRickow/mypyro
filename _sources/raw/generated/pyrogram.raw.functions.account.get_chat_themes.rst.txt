@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_chat\_themes
+================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_chat_themes
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChatThemes
+   

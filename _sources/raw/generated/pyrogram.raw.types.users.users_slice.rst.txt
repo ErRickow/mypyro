@@ -1,0 +1,12 @@
+pyrogram.raw.types.users.users\_slice
+=====================================
+
+.. automodule:: pyrogram.raw.types.users.users_slice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UsersSlice
+   

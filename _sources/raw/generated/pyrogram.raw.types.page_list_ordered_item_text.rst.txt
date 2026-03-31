@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_list\_ordered\_item\_text
+==================================================
+
+.. automodule:: pyrogram.raw.types.page_list_ordered_item_text
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageListOrderedItemText
+   

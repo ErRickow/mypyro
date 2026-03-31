@@ -1,0 +1,12 @@
+pyrogram.raw.base.top\_peer\_category
+=====================================
+
+.. automodule:: pyrogram.raw.base.top_peer_category
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TopPeerCategory
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.check\_can\_send\_gift\_result
+=========================================================
+
+.. automodule:: pyrogram.raw.base.payments.check_can_send_gift_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckCanSendGiftResult
+   

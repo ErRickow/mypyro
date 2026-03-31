@@ -1,0 +1,12 @@
+pyrogram.raw.base.inline\_query\_peer\_type
+===========================================
+
+.. automodule:: pyrogram.raw.base.inline_query_peer_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineQueryPeerType
+   

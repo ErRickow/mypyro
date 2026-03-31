@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.content\_settings
+============================================
+
+.. automodule:: pyrogram.raw.types.account.content_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ContentSettings
+   

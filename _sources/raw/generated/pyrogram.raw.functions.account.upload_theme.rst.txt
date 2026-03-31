@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.upload\_theme
+============================================
+
+.. automodule:: pyrogram.raw.functions.account.upload_theme
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UploadTheme
+   

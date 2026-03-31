@@ -1,0 +1,12 @@
+pyrogram.raw.types.photo\_path\_size
+====================================
+
+.. automodule:: pyrogram.raw.types.photo_path_size
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhotoPathSize
+   

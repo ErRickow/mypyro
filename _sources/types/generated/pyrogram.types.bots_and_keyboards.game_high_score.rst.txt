@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.game\_high\_score
+=====================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.game_high_score
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GameHighScore
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.encrypted\_message
+====================================
+
+.. automodule:: pyrogram.raw.base.encrypted_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EncryptedMessage
+   

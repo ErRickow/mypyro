@@ -1,0 +1,12 @@
+pyrogram.raw.functions.chatlists.edit\_exported\_invite
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.chatlists.edit_exported_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditExportedInvite
+   

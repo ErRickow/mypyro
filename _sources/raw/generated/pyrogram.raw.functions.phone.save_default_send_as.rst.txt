@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.save\_default\_send\_as
+====================================================
+
+.. automodule:: pyrogram.raw.functions.phone.save_default_send_as
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveDefaultSendAs
+   

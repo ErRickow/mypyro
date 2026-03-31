@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.set\_chat\_available\_reactions
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.set_chat_available_reactions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetChatAvailableReactions
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_ton\_amount
+=====================================
+
+.. automodule:: pyrogram.raw.types.stars_ton_amount
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsTonAmount
+   

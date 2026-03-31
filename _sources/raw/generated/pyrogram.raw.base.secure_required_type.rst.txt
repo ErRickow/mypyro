@@ -1,0 +1,12 @@
+pyrogram.raw.base.secure\_required\_type
+========================================
+
+.. automodule:: pyrogram.raw.base.secure_required_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureRequiredType
+   

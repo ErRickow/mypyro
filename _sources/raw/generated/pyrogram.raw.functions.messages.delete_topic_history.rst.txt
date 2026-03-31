@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.delete\_topic\_history
+======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.delete_topic_history
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteTopicHistory
+   

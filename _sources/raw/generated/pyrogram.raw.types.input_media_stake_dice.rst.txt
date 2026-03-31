@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_media\_stake\_dice
+============================================
+
+.. automodule:: pyrogram.raw.types.input_media_stake_dice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMediaStakeDice
+   

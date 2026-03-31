@@ -1,0 +1,12 @@
+pyrogram.enums.chat\_event\_action
+==================================
+
+.. automodule:: pyrogram.enums.chat_event_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatEventAction
+   

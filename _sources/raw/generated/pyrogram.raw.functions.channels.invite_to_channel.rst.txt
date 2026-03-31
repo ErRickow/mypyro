@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.invite\_to\_channel
+===================================================
+
+.. automodule:: pyrogram.raw.functions.channels.invite_to_channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InviteToChannel
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.chat\_photo
+==============================
+
+.. automodule:: pyrogram.raw.types.chat_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatPhoto
+   

@@ -1,0 +1,12 @@
+pyrogram.types.inline\_mode.inline\_query
+=========================================
+
+.. automodule:: pyrogram.types.inline_mode.inline_query
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineQuery
+   

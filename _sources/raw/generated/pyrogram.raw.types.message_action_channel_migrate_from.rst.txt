@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_channel\_migrate\_from
+==========================================================
+
+.. automodule:: pyrogram.raw.types.message_action_channel_migrate_from
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionChannelMigrateFrom
+   

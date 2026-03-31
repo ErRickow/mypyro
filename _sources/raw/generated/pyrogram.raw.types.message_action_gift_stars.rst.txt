@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_gift\_stars
+===============================================
+
+.. automodule:: pyrogram.raw.types.message_action_gift_stars
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionGiftStars
+   

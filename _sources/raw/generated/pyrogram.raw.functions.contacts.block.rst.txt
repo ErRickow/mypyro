@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.block
+=====================================
+
+.. automodule:: pyrogram.raw.functions.contacts.block
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Block
+   

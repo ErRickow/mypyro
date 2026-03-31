@@ -1,0 +1,12 @@
+pyrogram.raw.types.auth.login\_token\_migrate\_to
+=================================================
+
+.. automodule:: pyrogram.raw.types.auth.login_token_migrate_to
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LoginTokenMigrateTo
+   

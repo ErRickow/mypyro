@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.verify\_phone
+============================================
+
+.. automodule:: pyrogram.raw.functions.account.verify_phone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VerifyPhone
+   

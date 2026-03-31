@@ -1,0 +1,15 @@
+pyrogram.raw.base.premium
+=========================
+
+.. automodule:: pyrogram.raw.base.premium
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   boosts_list
+   boosts_status
+   my_boosts

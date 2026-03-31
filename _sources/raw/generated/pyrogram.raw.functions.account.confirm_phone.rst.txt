@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.confirm\_phone
+=============================================
+
+.. automodule:: pyrogram.raw.functions.account.confirm_phone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ConfirmPhone
+   

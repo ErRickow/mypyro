@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_admin\_log\_event\_action\_change\_linked\_chat
+===========================================================================
+
+.. automodule:: pyrogram.raw.types.channel_admin_log_event_action_change_linked_chat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEventActionChangeLinkedChat
+   

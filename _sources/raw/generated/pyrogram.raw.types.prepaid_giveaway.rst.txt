@@ -1,0 +1,12 @@
+pyrogram.raw.types.prepaid\_giveaway
+====================================
+
+.. automodule:: pyrogram.raw.types.prepaid_giveaway
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PrepaidGiveaway
+   

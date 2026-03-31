@@ -1,0 +1,12 @@
+pyrogram.raw.base.updates\_t
+============================
+
+.. automodule:: pyrogram.raw.base.updates_t
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Updates
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_formatted\_date
+===================================================
+
+.. automodule:: pyrogram.raw.types.message_entity_formatted_date
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityFormattedDate
+   

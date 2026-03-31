@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_peer\_wallpaper
+==========================================
+
+.. automodule:: pyrogram.raw.types.update_peer_wallpaper
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdatePeerWallpaper
+   

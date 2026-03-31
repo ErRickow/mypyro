@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.toggle\_sponsored\_messages
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.account.toggle_sponsored_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleSponsoredMessages
+   

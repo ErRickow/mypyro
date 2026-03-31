@@ -1,0 +1,12 @@
+pyrogram.raw.types.premium\_subscription\_option
+================================================
+
+.. automodule:: pyrogram.raw.types.premium_subscription_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PremiumSubscriptionOption
+   

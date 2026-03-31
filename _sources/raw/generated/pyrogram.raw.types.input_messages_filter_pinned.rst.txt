@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_messages\_filter\_pinned
+==================================================
+
+.. automodule:: pyrogram.raw.types.input_messages_filter_pinned
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessagesFilterPinned
+   

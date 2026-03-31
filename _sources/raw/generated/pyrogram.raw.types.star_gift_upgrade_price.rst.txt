@@ -1,0 +1,12 @@
+pyrogram.raw.types.star\_gift\_upgrade\_price
+=============================================
+
+.. automodule:: pyrogram.raw.types.star_gift_upgrade_price
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftUpgradePrice
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.stars\_revenue\_ads\_account\_url
+=============================================================
+
+.. automodule:: pyrogram.raw.types.payments.stars_revenue_ads_account_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsRevenueAdsAccountUrl
+   

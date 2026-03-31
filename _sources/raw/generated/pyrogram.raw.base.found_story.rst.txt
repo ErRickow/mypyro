@@ -1,0 +1,12 @@
+pyrogram.raw.base.found\_story
+==============================
+
+.. automodule:: pyrogram.raw.base.found_story
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FoundStory
+   

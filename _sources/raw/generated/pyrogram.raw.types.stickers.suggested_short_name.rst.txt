@@ -1,0 +1,12 @@
+pyrogram.raw.types.stickers.suggested\_short\_name
+==================================================
+
+.. automodule:: pyrogram.raw.types.stickers.suggested_short_name
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SuggestedShortName
+   

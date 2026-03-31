@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_folder\_peer
+======================================
+
+.. automodule:: pyrogram.raw.types.input_folder_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputFolderPeer
+   

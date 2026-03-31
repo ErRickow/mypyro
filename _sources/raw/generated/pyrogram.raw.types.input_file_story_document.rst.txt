@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_file\_story\_document
+===============================================
+
+.. automodule:: pyrogram.raw.types.input_file_story_document
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputFileStoryDocument
+   

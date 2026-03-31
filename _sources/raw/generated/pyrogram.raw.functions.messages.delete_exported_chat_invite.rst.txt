@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.delete\_exported\_chat\_invite
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.delete_exported_chat_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteExportedChatInvite
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.import\_contact\_token
+======================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.import_contact_token
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ImportContactToken
+   

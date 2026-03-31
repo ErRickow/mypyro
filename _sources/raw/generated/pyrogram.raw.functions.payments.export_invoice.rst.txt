@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.export\_invoice
+===============================================
+
+.. automodule:: pyrogram.raw.functions.payments.export_invoice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportInvoice
+   

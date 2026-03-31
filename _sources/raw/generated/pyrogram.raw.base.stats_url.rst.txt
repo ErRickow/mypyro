@@ -1,0 +1,12 @@
+pyrogram.raw.base.stats\_url
+============================
+
+.. automodule:: pyrogram.raw.base.stats_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsURL
+   

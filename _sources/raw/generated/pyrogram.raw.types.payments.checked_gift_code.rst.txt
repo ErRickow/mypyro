@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.checked\_gift\_code
+===============================================
+
+.. automodule:: pyrogram.raw.types.payments.checked_gift_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckedGiftCode
+   

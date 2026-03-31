@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats\_graph\_error
+======================================
+
+.. automodule:: pyrogram.raw.types.stats_graph_error
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsGraphError
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.report\_spam
+============================================
+
+.. automodule:: pyrogram.raw.functions.channels.report_spam
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportSpam
+   

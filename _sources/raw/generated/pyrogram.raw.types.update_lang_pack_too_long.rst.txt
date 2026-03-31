@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_lang\_pack\_too\_long
+================================================
+
+.. automodule:: pyrogram.raw.types.update_lang_pack_too_long
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateLangPackTooLong
+   

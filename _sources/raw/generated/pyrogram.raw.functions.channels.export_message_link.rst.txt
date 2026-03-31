@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.export\_message\_link
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.channels.export_message_link
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportMessageLink
+   

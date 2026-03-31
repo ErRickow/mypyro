@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.sticker
+===========================================
+
+.. automodule:: pyrogram.types.messages_and_media.sticker
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Sticker
+   

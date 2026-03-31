@@ -1,0 +1,12 @@
+pyrogram.raw.base.report\_result
+================================
+
+.. automodule:: pyrogram.raw.base.report_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportResult
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_bank\_statement
+=======================================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_bank_statement
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypeBankStatement
+   

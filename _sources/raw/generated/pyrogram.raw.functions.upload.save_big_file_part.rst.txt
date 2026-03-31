@@ -1,0 +1,12 @@
+pyrogram.raw.functions.upload.save\_big\_file\_part
+===================================================
+
+.. automodule:: pyrogram.raw.functions.upload.save_big_file_part
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveBigFilePart
+   

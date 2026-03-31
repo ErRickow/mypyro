@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.request\_encryption
+===================================================
+
+.. automodule:: pyrogram.raw.functions.messages.request_encryption
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequestEncryption
+   

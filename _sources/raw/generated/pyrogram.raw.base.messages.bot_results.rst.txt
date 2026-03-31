@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.bot\_results
+=======================================
+
+.. automodule:: pyrogram.raw.base.messages.bot_results
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotResults
+   

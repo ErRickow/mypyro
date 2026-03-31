@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_secure\_file\_location
+================================================
+
+.. automodule:: pyrogram.raw.types.input_secure_file_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputSecureFileLocation
+   

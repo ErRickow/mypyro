@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.edit\_user\_info
+============================================
+
+.. automodule:: pyrogram.raw.functions.help.edit_user_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditUserInfo
+   

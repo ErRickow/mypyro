@@ -1,0 +1,12 @@
+pyrogram.raw.types.sticker\_pack
+================================
+
+.. automodule:: pyrogram.raw.types.sticker_pack
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StickerPack
+   

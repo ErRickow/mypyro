@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.start\_live
+==========================================
+
+.. automodule:: pyrogram.raw.functions.stories.start_live
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StartLive
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.unique\_star\_gift
+=============================================
+
+.. automodule:: pyrogram.raw.base.payments.unique_star_gift
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UniqueStarGift
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.fulfill\_stars\_subscription
+============================================================
+
+.. automodule:: pyrogram.raw.functions.payments.fulfill_stars_subscription
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FulfillStarsSubscription
+   

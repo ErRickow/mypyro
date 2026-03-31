@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.get\_located
+============================================
+
+.. automodule:: pyrogram.raw.functions.contacts.get_located
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetLocated
+   

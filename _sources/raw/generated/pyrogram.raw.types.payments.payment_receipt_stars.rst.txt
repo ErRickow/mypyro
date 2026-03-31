@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.payment\_receipt\_stars
+===================================================
+
+.. automodule:: pyrogram.raw.types.payments.payment_receipt_stars
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PaymentReceiptStars
+   

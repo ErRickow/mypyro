@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.accept\_authorization
+====================================================
+
+.. automodule:: pyrogram.raw.functions.account.accept_authorization
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AcceptAuthorization
+   

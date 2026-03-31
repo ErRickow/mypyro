@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_list
+====================================
+
+.. automodule:: pyrogram.raw.types.page_block_list
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockList
+   

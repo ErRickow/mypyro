@@ -1,0 +1,12 @@
+pyrogram.raw.base.stats\_group\_top\_admin
+==========================================
+
+.. automodule:: pyrogram.raw.base.stats_group_top_admin
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsGroupTopAdmin
+   

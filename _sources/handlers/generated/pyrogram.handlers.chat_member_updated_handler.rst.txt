@@ -1,0 +1,12 @@
+pyrogram.handlers.chat\_member\_updated\_handler
+================================================
+
+.. automodule:: pyrogram.handlers.chat_member_updated_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatMemberUpdatedHandler
+   

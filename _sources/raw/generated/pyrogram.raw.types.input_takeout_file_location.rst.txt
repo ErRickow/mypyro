@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_takeout\_file\_location
+=================================================
+
+.. automodule:: pyrogram.raw.types.input_takeout_file_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputTakeoutFileLocation
+   

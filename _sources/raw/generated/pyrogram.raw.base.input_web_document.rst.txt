@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_web\_document
+======================================
+
+.. automodule:: pyrogram.raw.base.input_web_document
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputWebDocument
+   

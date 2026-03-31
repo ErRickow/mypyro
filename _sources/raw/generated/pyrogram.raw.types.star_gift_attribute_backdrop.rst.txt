@@ -1,0 +1,12 @@
+pyrogram.raw.types.star\_gift\_attribute\_backdrop
+==================================================
+
+.. automodule:: pyrogram.raw.types.star_gift_attribute_backdrop
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftAttributeBackdrop
+   

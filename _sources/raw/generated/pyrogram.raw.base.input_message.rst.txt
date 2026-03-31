@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_message
+================================
+
+.. automodule:: pyrogram.raw.base.input_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessage
+   

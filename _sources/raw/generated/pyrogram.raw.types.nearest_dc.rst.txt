@@ -1,0 +1,12 @@
+pyrogram.raw.types.nearest\_dc
+==============================
+
+.. automodule:: pyrogram.raw.types.nearest_dc
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NearestDc
+   

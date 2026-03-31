@@ -1,0 +1,27 @@
+﻿pyrogram.enums
+==============
+
+.. automodule:: pyrogram.enums
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   auto_name
+   chat_action
+   chat_event_action
+   chat_member_status
+   chat_members_filter
+   chat_type
+   message_entity_type
+   message_media_type
+   message_service_type
+   messages_filter
+   next_code_type
+   parse_mode
+   poll_type
+   sent_code_type
+   user_status

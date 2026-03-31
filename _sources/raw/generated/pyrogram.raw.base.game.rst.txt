@@ -1,0 +1,12 @@
+pyrogram.raw.base.game
+======================
+
+.. automodule:: pyrogram.raw.base.game
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Game
+   

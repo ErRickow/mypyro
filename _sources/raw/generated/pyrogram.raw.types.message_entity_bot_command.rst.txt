@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_bot\_command
+================================================
+
+.. automodule:: pyrogram.raw.types.message_entity_bot_command
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityBotCommand
+   

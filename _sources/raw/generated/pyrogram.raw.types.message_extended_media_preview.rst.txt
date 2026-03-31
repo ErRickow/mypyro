@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_extended\_media\_preview
+====================================================
+
+.. automodule:: pyrogram.raw.types.message_extended_media_preview
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageExtendedMediaPreview
+   

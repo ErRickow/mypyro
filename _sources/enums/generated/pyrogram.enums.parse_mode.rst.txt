@@ -1,0 +1,12 @@
+pyrogram.enums.parse\_mode
+==========================
+
+.. automodule:: pyrogram.enums.parse_mode
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ParseMode
+   

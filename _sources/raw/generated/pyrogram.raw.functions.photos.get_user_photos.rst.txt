@@ -1,0 +1,12 @@
+pyrogram.raw.functions.photos.get\_user\_photos
+===============================================
+
+.. automodule:: pyrogram.raw.functions.photos.get_user_photos
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetUserPhotos
+   

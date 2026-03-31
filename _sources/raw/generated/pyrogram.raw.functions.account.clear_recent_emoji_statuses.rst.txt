@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.clear\_recent\_emoji\_statuses
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.account.clear_recent_emoji_statuses
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ClearRecentEmojiStatuses
+   

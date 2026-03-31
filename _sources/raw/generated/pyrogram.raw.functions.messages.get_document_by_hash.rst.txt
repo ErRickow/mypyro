@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_document\_by\_hash
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_document_by_hash
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDocumentByHash
+   

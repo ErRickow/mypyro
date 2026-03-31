@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.dh\_config
+=====================================
+
+.. automodule:: pyrogram.raw.base.messages.dh_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DhConfig
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.check\_quick\_reply\_shortcut
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.check_quick_reply_shortcut
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckQuickReplyShortcut
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.invoke\_without\_updates
+===============================================
+
+.. automodule:: pyrogram.raw.functions.invoke_without_updates
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InvokeWithoutUpdates
+   

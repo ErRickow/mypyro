@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_web\_view\_result\_sent
+==================================================
+
+.. automodule:: pyrogram.raw.types.update_web_view_result_sent
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateWebViewResultSent
+   

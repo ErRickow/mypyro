@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.saved\_info
+======================================
+
+.. automodule:: pyrogram.raw.base.payments.saved_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedInfo
+   

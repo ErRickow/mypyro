@@ -1,0 +1,12 @@
+pyrogram.raw.types.chat\_participant\_creator
+=============================================
+
+.. automodule:: pyrogram.raw.types.chat_participant_creator
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatParticipantCreator
+   

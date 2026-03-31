@@ -1,0 +1,12 @@
+pyrogram.raw.types.privacy\_key\_star\_gifts\_auto\_save
+========================================================
+
+.. automodule:: pyrogram.raw.types.privacy_key_star_gifts_auto_save
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PrivacyKeyStarGiftsAutoSave
+   

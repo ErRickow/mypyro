@@ -1,0 +1,12 @@
+pyrogram.raw.functions.chatlists.get\_leave\_chatlist\_suggestions
+==================================================================
+
+.. automodule:: pyrogram.raw.functions.chatlists.get_leave_chatlist_suggestions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetLeaveChatlistSuggestions
+   

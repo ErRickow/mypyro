@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.can\_purchase\_store
+====================================================
+
+.. automodule:: pyrogram.raw.functions.payments.can_purchase_store
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CanPurchaseStore
+   

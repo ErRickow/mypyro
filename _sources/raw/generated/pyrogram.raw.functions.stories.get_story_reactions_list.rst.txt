@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.get\_story\_reactions\_list
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.stories.get_story_reactions_list
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStoryReactionsList
+   

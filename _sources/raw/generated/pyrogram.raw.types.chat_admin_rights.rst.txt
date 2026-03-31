@@ -1,0 +1,12 @@
+pyrogram.raw.types.chat\_admin\_rights
+======================================
+
+.. automodule:: pyrogram.raw.types.chat_admin_rights
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatAdminRights
+   

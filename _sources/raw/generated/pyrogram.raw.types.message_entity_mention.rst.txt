@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_mention
+===========================================
+
+.. automodule:: pyrogram.raw.types.message_entity_mention
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityMention
+   

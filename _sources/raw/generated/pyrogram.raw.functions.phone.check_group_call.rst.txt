@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.check\_group\_call
+===============================================
+
+.. automodule:: pyrogram.raw.functions.phone.check_group_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckGroupCall
+   

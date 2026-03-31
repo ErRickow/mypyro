@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_blockquote
+==========================================
+
+.. automodule:: pyrogram.raw.types.page_block_blockquote
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockBlockquote
+   

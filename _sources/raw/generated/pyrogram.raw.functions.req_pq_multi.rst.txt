@@ -1,0 +1,12 @@
+pyrogram.raw.functions.req\_pq\_multi
+=====================================
+
+.. automodule:: pyrogram.raw.functions.req_pq_multi
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReqPqMulti
+   

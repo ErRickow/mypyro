@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_encrypted\_file
+========================================
+
+.. automodule:: pyrogram.raw.base.input_encrypted_file
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputEncryptedFile
+   

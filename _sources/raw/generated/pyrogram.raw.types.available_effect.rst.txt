@@ -1,0 +1,12 @@
+pyrogram.raw.types.available\_effect
+====================================
+
+.. automodule:: pyrogram.raw.types.available_effect
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AvailableEffect
+   

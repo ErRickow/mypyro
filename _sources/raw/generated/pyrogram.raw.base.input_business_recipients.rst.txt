@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_business\_recipients
+=============================================
+
+.. automodule:: pyrogram.raw.base.input_business_recipients
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputBusinessRecipients
+   

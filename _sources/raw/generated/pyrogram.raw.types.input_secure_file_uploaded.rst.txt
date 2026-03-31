@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_secure\_file\_uploaded
+================================================
+
+.. automodule:: pyrogram.raw.types.input_secure_file_uploaded
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputSecureFileUploaded
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_location\_empty
+===========================================
+
+.. automodule:: pyrogram.raw.types.channel_location_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelLocationEmpty
+   

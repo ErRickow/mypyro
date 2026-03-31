@@ -1,0 +1,12 @@
+pyrogram.raw.types.json\_bool
+=============================
+
+.. automodule:: pyrogram.raw.types.json_bool
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JsonBool
+   

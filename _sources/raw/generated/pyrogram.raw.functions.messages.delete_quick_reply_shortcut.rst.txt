@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.delete\_quick\_reply\_shortcut
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.delete_quick_reply_shortcut
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteQuickReplyShortcut
+   

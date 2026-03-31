@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_gift\_option
+======================================
+
+.. automodule:: pyrogram.raw.types.stars_gift_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsGiftOption
+   

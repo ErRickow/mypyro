@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.send\_screenshot\_notification
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.send_screenshot_notification
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendScreenshotNotification
+   

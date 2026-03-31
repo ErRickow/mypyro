@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_web\_page
+==============================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_web_page
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetWebPage
+   

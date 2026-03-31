@@ -1,0 +1,12 @@
+pyrogram.enums.message\_entity\_type
+====================================
+
+.. automodule:: pyrogram.enums.message_entity_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityType
+   

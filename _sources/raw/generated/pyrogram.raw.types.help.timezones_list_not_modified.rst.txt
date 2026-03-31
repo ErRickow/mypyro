@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.timezones\_list\_not\_modified
+======================================================
+
+.. automodule:: pyrogram.raw.types.help.timezones_list_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TimezonesListNotModified
+   

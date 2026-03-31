@@ -1,0 +1,12 @@
+pyrogram.raw.base.channel\_location
+===================================
+
+.. automodule:: pyrogram.raw.base.channel_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelLocation
+   

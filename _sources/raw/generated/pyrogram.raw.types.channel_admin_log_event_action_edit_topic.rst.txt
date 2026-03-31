@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_admin\_log\_event\_action\_edit\_topic
+==================================================================
+
+.. automodule:: pyrogram.raw.types.channel_admin_log_event_action_edit_topic
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEventActionEditTopic
+   

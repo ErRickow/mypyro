@@ -1,0 +1,12 @@
+pyrogram.raw.functions.invoke\_after\_msgs
+==========================================
+
+.. automodule:: pyrogram.raw.functions.invoke_after_msgs
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InvokeAfterMsgs
+   

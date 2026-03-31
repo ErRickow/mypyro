@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stats.get\_megagroup\_stats
+==================================================
+
+.. automodule:: pyrogram.raw.functions.stats.get_megagroup_stats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetMegagroupStats
+   

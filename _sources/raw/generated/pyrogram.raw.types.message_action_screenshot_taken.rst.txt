@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_screenshot\_taken
+=====================================================
+
+.. automodule:: pyrogram.raw.types.message_action_screenshot_taken
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionScreenshotTaken
+   

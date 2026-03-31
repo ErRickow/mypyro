@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.send\_code
+======================================
+
+.. automodule:: pyrogram.raw.functions.auth.send_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendCode
+   

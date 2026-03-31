@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.web\_app\_info
+==================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.web_app_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebAppInfo
+   

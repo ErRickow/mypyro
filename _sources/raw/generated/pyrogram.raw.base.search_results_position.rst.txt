@@ -1,0 +1,12 @@
+pyrogram.raw.base.search\_results\_position
+===========================================
+
+.. automodule:: pyrogram.raw.base.search_results_position
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchResultsPosition
+   

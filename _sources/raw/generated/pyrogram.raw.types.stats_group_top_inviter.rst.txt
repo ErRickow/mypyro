@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats\_group\_top\_inviter
+=============================================
+
+.. automodule:: pyrogram.raw.types.stats_group_top_inviter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsGroupTopInviter
+   

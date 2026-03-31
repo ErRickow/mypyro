@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.user\_info\_empty
+=========================================
+
+.. automodule:: pyrogram.raw.types.help.user_info_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UserInfoEmpty
+   

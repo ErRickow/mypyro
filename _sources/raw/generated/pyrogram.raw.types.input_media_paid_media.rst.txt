@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_media\_paid\_media
+============================================
+
+.. automodule:: pyrogram.raw.types.input_media_paid_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMediaPaidMedia
+   

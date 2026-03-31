@@ -1,0 +1,12 @@
+pyrogram.raw.functions.updates.get\_difference
+==============================================
+
+.. automodule:: pyrogram.raw.functions.updates.get_difference
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDifference
+   

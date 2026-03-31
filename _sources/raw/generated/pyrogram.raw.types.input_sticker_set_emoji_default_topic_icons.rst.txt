@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_sticker\_set\_emoji\_default\_topic\_icons
+====================================================================
+
+.. automodule:: pyrogram.raw.types.input_sticker_set_emoji_default_topic_icons
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetEmojiDefaultTopicIcons
+   

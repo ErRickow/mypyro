@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_read\_channel\_discussion\_outbox
+============================================================
+
+.. automodule:: pyrogram.raw.types.update_read_channel_discussion_outbox
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateReadChannelDiscussionOutbox
+   

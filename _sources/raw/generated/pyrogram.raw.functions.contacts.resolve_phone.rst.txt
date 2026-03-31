@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.resolve\_phone
+==============================================
+
+.. automodule:: pyrogram.raw.functions.contacts.resolve_phone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResolvePhone
+   

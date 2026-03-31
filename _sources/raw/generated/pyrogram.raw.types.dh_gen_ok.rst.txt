@@ -1,0 +1,12 @@
+pyrogram.raw.types.dh\_gen\_ok
+==============================
+
+.. automodule:: pyrogram.raw.types.dh_gen_ok
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DhGenOk
+   

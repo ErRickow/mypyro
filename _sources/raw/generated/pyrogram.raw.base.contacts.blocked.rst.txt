@@ -1,0 +1,12 @@
+pyrogram.raw.base.contacts.blocked
+==================================
+
+.. automodule:: pyrogram.raw.base.contacts.blocked
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Blocked
+   

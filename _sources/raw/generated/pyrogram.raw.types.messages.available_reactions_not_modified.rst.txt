@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.available\_reactions\_not\_modified
+===============================================================
+
+.. automodule:: pyrogram.raw.types.messages.available_reactions_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AvailableReactionsNotModified
+   

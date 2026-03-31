@@ -1,0 +1,12 @@
+pyrogram.raw.types.server\_dh\_params\_ok
+=========================================
+
+.. automodule:: pyrogram.raw.types.server_dh_params_ok
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ServerDHParamsOk
+   

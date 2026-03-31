@@ -1,0 +1,12 @@
+pyrogram.handlers.poll\_handler
+===============================
+
+.. automodule:: pyrogram.handlers.poll_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PollHandler
+   

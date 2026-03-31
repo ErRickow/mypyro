@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stats.get\_message\_stats
+================================================
+
+.. automodule:: pyrogram.raw.functions.stats.get_message_stats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetMessageStats
+   

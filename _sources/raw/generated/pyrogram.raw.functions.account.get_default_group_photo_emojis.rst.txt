@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_default\_group\_photo\_emojis
+=================================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_default_group_photo_emojis
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDefaultGroupPhotoEmojis
+   

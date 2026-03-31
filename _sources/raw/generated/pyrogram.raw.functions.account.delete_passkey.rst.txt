@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.delete\_passkey
+==============================================
+
+.. automodule:: pyrogram.raw.functions.account.delete_passkey
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeletePasskey
+   

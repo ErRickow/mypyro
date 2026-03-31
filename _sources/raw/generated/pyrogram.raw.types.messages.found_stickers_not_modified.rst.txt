@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.found\_stickers\_not\_modified
+==========================================================
+
+.. automodule:: pyrogram.raw.types.messages.found_stickers_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FoundStickersNotModified
+   

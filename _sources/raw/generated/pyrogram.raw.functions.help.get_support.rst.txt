@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_support
+========================================
+
+.. automodule:: pyrogram.raw.functions.help.get_support
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSupport
+   

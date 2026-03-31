@@ -1,0 +1,12 @@
+pyrogram.enums.messages\_filter
+===============================
+
+.. automodule:: pyrogram.enums.messages_filter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessagesFilter
+   

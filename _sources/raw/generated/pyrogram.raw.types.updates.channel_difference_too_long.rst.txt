@@ -1,0 +1,12 @@
+pyrogram.raw.types.updates.channel\_difference\_too\_long
+=========================================================
+
+.. automodule:: pyrogram.raw.types.updates.channel_difference_too_long
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelDifferenceTooLong
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.notify\_peer
+===============================
+
+.. automodule:: pyrogram.raw.types.notify_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NotifyPeer
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_user\_info
+===========================================
+
+.. automodule:: pyrogram.raw.functions.help.get_user_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetUserInfo
+   

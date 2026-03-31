@@ -1,0 +1,12 @@
+pyrogram.raw.base.config
+========================
+
+.. automodule:: pyrogram.raw.base.config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Config
+   

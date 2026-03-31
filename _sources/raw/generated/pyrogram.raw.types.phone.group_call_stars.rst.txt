@@ -1,0 +1,12 @@
+pyrogram.raw.types.phone.group\_call\_stars
+===========================================
+
+.. automodule:: pyrogram.raw.types.phone.group_call_stars
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GroupCallStars
+   

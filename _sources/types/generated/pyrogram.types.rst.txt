@@ -1,0 +1,22 @@
+﻿pyrogram.types
+==============
+
+.. automodule:: pyrogram.types
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   authorization
+   bots_and_keyboards
+   inline_mode
+   input_media
+   input_message_content
+   list
+   messages_and_media
+   object
+   update
+   user_and_chats

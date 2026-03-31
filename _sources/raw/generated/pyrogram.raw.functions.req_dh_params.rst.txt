@@ -1,0 +1,12 @@
+pyrogram.raw.functions.req\_dh\_params
+======================================
+
+.. automodule:: pyrogram.raw.functions.req_dh_params
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReqDHParams
+   

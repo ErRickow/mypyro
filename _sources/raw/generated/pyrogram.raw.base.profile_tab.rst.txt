@@ -1,0 +1,12 @@
+pyrogram.raw.base.profile\_tab
+==============================
+
+.. automodule:: pyrogram.raw.base.profile_tab
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ProfileTab
+   

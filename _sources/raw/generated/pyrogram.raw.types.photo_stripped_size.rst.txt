@@ -1,0 +1,12 @@
+pyrogram.raw.types.photo\_stripped\_size
+========================================
+
+.. automodule:: pyrogram.raw.types.photo_stripped_size
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhotoStrippedSize
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.destroy\_auth\_key\_fail
+===========================================
+
+.. automodule:: pyrogram.raw.types.destroy_auth_key_fail
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DestroyAuthKeyFail
+   

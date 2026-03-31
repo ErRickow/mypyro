@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.search
+======================================
+
+.. automodule:: pyrogram.raw.functions.messages.search
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Search
+   

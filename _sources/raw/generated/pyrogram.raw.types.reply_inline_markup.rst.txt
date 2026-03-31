@@ -1,0 +1,12 @@
+pyrogram.raw.types.reply\_inline\_markup
+========================================
+
+.. automodule:: pyrogram.raw.types.reply_inline_markup
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReplyInlineMarkup
+   

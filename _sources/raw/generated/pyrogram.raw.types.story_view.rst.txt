@@ -1,0 +1,12 @@
+pyrogram.raw.types.story\_view
+==============================
+
+.. automodule:: pyrogram.raw.types.story_view
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StoryView
+   

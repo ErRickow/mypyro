@@ -1,0 +1,12 @@
+pyrogram.raw.types.emoji\_group
+===============================
+
+.. automodule:: pyrogram.raw.types.emoji_group
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiGroup
+   

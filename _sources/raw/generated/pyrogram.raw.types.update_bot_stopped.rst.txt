@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_bot\_stopped
+=======================================
+
+.. automodule:: pyrogram.raw.types.update_bot_stopped
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBotStopped
+   

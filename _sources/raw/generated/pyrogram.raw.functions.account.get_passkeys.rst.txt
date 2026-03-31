@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_passkeys
+============================================
+
+.. automodule:: pyrogram.raw.functions.account.get_passkeys
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPasskeys
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.upload\_encrypted\_file
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.upload_encrypted_file
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UploadEncryptedFile
+   

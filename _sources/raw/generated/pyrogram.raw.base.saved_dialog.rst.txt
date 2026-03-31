@@ -1,0 +1,12 @@
+pyrogram.raw.base.saved\_dialog
+===============================
+
+.. automodule:: pyrogram.raw.base.saved_dialog
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedDialog
+   

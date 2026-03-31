@@ -1,0 +1,12 @@
+pyrogram.raw.base.outbox\_read\_date
+====================================
+
+.. automodule:: pyrogram.raw.base.outbox_read_date
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      OutboxReadDate
+   

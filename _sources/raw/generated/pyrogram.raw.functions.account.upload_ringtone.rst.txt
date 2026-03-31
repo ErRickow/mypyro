@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.upload\_ringtone
+===============================================
+
+.. automodule:: pyrogram.raw.functions.account.upload_ringtone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UploadRingtone
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.business\_work\_hours
+=======================================
+
+.. automodule:: pyrogram.raw.base.business_work_hours
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessWorkHours
+   

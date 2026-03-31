@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_business\_greeting\_message
+==================================================================
+
+.. automodule:: pyrogram.raw.functions.account.update_business_greeting_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBusinessGreetingMessage
+   

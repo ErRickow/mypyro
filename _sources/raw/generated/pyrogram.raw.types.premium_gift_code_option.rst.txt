@@ -1,0 +1,12 @@
+pyrogram.raw.types.premium\_gift\_code\_option
+==============================================
+
+.. automodule:: pyrogram.raw.types.premium_gift_code_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PremiumGiftCodeOption
+   

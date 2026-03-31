@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.send\_conference\_call\_broadcast
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.phone.send_conference_call_broadcast
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendConferenceCallBroadcast
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.set\_boosts\_to\_unblock\_restrictions
+======================================================================
+
+.. automodule:: pyrogram.raw.functions.channels.set_boosts_to_unblock_restrictions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetBoostsToUnblockRestrictions
+   

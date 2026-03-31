@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.accept\_call
+=========================================
+
+.. automodule:: pyrogram.raw.functions.phone.accept_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AcceptCall
+   

@@ -1,0 +1,13 @@
+pyrogram.raw.types.fragment
+===========================
+
+.. automodule:: pyrogram.raw.types.fragment
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   collectible_info

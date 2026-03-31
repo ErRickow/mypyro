@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_saved\_star\_gift
+==========================================
+
+.. automodule:: pyrogram.raw.base.input_saved_star_gift
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputSavedStarGift
+   

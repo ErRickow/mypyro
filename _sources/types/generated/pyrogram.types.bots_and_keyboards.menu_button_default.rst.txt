@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.menu\_button\_default
+=========================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.menu_button_default
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MenuButtonDefault
+   

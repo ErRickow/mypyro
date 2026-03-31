@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.check\_username
+===============================================
+
+.. automodule:: pyrogram.raw.functions.channels.check_username
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckUsername
+   

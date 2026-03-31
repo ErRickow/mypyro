@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.keyboard\_button
+====================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.keyboard_button
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      KeyboardButton
+   

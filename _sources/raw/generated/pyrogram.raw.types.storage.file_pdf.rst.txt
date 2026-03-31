@@ -1,0 +1,12 @@
+pyrogram.raw.types.storage.file\_pdf
+====================================
+
+.. automodule:: pyrogram.raw.types.storage.file_pdf
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FilePdf
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.storage.file\_jpeg
+=====================================
+
+.. automodule:: pyrogram.raw.types.storage.file_jpeg
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileJpeg
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.text\_concat
+===============================
+
+.. automodule:: pyrogram.raw.types.text_concat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextConcat
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.channels.channel\_participant
+===============================================
+
+.. automodule:: pyrogram.raw.base.channels.channel_participant
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelParticipant
+   

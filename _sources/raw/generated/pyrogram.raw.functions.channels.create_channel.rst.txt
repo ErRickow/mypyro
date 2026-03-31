@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.create\_channel
+===============================================
+
+.. automodule:: pyrogram.raw.functions.channels.create_channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CreateChannel
+   

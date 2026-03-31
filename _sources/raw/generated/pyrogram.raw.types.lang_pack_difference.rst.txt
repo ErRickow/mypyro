@@ -1,0 +1,12 @@
+pyrogram.raw.types.lang\_pack\_difference
+=========================================
+
+.. automodule:: pyrogram.raw.types.lang_pack_difference
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LangPackDifference
+   

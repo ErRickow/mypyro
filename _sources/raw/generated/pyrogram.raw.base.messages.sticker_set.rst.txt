@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.sticker\_set
+=======================================
+
+.. automodule:: pyrogram.raw.base.messages.sticker_set
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StickerSet
+   

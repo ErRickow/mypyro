@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_change\_creator
+===================================================
+
+.. automodule:: pyrogram.raw.types.message_action_change_creator
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionChangeCreator
+   

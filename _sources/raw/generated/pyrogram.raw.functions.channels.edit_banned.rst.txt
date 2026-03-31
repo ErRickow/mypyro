@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.edit\_banned
+============================================
+
+.. automodule:: pyrogram.raw.functions.channels.edit_banned
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditBanned
+   

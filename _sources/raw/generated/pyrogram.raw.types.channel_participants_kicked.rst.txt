@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_participants\_kicked
+================================================
+
+.. automodule:: pyrogram.raw.types.channel_participants_kicked
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelParticipantsKicked
+   

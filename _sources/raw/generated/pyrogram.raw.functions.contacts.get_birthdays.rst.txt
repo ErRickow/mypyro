@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.get\_birthdays
+==============================================
+
+.. automodule:: pyrogram.raw.functions.contacts.get_birthdays
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetBirthdays
+   

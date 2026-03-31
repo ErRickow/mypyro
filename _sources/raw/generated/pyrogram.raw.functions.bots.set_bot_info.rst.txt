@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.set\_bot\_info
+==========================================
+
+.. automodule:: pyrogram.raw.functions.bots.set_bot_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetBotInfo
+   

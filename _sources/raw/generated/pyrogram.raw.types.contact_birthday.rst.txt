@@ -1,0 +1,12 @@
+pyrogram.raw.types.contact\_birthday
+====================================
+
+.. automodule:: pyrogram.raw.types.contact_birthday
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ContactBirthday
+   

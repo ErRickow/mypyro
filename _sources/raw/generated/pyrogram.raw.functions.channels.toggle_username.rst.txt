@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.toggle\_username
+================================================
+
+.. automodule:: pyrogram.raw.functions.channels.toggle_username
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleUsername
+   

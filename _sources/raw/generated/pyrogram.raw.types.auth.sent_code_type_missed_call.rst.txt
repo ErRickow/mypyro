@@ -1,0 +1,12 @@
+pyrogram.raw.types.auth.sent\_code\_type\_missed\_call
+======================================================
+
+.. automodule:: pyrogram.raw.types.auth.sent_code_type_missed_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SentCodeTypeMissedCall
+   

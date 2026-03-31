@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_user\_from\_message
+=============================================
+
+.. automodule:: pyrogram.raw.types.input_user_from_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputUserFromMessage
+   

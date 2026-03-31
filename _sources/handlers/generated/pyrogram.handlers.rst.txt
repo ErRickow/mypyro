@@ -1,0 +1,25 @@
+﻿pyrogram.handlers
+=================
+
+.. automodule:: pyrogram.handlers
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   callback_query_handler
+   chat_join_request_handler
+   chat_member_updated_handler
+   chosen_inline_result_handler
+   deleted_messages_handler
+   disconnect_handler
+   edited_message_handler
+   handler
+   inline_query_handler
+   message_handler
+   poll_handler
+   raw_update_handler
+   user_status_handler

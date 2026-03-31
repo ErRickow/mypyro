@@ -1,0 +1,12 @@
+pyrogram.raw.base.web\_page
+===========================
+
+.. automodule:: pyrogram.raw.base.web_page
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebPage
+   

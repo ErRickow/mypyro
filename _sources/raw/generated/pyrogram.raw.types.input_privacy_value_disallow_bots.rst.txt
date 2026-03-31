@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_privacy\_value\_disallow\_bots
+========================================================
+
+.. automodule:: pyrogram.raw.types.input_privacy_value_disallow_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPrivacyValueDisallowBots
+   

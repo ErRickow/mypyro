@@ -1,0 +1,12 @@
+pyrogram.raw.types.dialog\_filter\_suggested
+============================================
+
+.. automodule:: pyrogram.raw.types.dialog_filter_suggested
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DialogFilterSuggested
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_no\_forwards\_toggle
+========================================================
+
+.. automodule:: pyrogram.raw.types.message_action_no_forwards_toggle
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionNoForwardsToggle
+   

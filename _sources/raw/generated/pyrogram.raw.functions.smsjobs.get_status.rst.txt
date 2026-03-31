@@ -1,0 +1,12 @@
+pyrogram.raw.functions.smsjobs.get\_status
+==========================================
+
+.. automodule:: pyrogram.raw.functions.smsjobs.get_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStatus
+   

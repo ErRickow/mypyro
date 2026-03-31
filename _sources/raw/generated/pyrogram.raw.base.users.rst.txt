@@ -1,0 +1,15 @@
+pyrogram.raw.base.users
+=======================
+
+.. automodule:: pyrogram.raw.base.users
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   saved_music
+   user_full
+   users

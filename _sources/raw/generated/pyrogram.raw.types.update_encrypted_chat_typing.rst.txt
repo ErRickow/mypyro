@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_encrypted\_chat\_typing
+==================================================
+
+.. automodule:: pyrogram.raw.types.update_encrypted_chat_typing
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateEncryptedChatTyping
+   

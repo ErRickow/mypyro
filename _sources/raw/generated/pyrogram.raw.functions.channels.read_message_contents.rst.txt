@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.read\_message\_contents
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.channels.read_message_contents
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReadMessageContents
+   

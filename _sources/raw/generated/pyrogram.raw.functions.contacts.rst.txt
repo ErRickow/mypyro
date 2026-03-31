@@ -1,0 +1,40 @@
+pyrogram.raw.functions.contacts
+===============================
+
+.. automodule:: pyrogram.raw.functions.contacts
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   accept_contact
+   add_contact
+   block
+   block_from_replies
+   delete_by_phones
+   delete_contacts
+   edit_close_friends
+   export_contact_token
+   get_birthdays
+   get_blocked
+   get_contact_i_ds
+   get_contacts
+   get_located
+   get_saved
+   get_sponsored_peers
+   get_statuses
+   get_top_peers
+   import_contact_token
+   import_contacts
+   reset_saved
+   reset_top_peer_rating
+   resolve_phone
+   resolve_username
+   search
+   set_blocked
+   toggle_top_peers
+   unblock
+   update_contact_note

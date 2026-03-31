@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.start\_bot
+==========================================
+
+.. automodule:: pyrogram.raw.functions.messages.start_bot
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StartBot
+   

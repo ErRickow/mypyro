@@ -1,0 +1,56 @@
+﻿pyrogram.raw.functions
+======================
+
+.. automodule:: pyrogram.raw.functions
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   account
+   auth
+   bots
+   channels
+   chatlists
+   contacts
+   contest
+   destroy_auth_key
+   destroy_session
+   folders
+   fragment
+   get_future_salts
+   help
+   init_connection
+   invoke_after_msg
+   invoke_after_msgs
+   invoke_with_apns_secret
+   invoke_with_business_connection
+   invoke_with_google_play_integrity
+   invoke_with_layer
+   invoke_with_messages_range
+   invoke_with_re_captcha
+   invoke_with_takeout
+   invoke_without_updates
+   langpack
+   messages
+   payments
+   phone
+   photos
+   ping
+   ping_delay_disconnect
+   premium
+   req_dh_params
+   req_pq
+   req_pq_multi
+   rpc_drop_answer
+   set_client_dh_params
+   smsjobs
+   stats
+   stickers
+   stories
+   updates
+   upload
+   users

@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_chat\_delete\_photo
+=======================================================
+
+.. automodule:: pyrogram.raw.types.message_action_chat_delete_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionChatDeletePhoto
+   

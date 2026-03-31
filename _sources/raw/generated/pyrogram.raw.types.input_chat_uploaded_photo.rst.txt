@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_chat\_uploaded\_photo
+===============================================
+
+.. automodule:: pyrogram.raw.types.input_chat_uploaded_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputChatUploadedPhoto
+   

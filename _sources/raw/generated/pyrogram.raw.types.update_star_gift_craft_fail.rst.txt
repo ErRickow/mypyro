@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_star\_gift\_craft\_fail
+==================================================
+
+.. automodule:: pyrogram.raw.types.update_star_gift_craft_fail
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateStarGiftCraftFail
+   

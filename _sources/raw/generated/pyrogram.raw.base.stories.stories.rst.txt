@@ -1,0 +1,12 @@
+pyrogram.raw.base.stories.stories
+=================================
+
+.. automodule:: pyrogram.raw.base.stories.stories
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Stories
+   

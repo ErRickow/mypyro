@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_transaction
+=====================================
+
+.. automodule:: pyrogram.raw.types.stars_transaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsTransaction
+   

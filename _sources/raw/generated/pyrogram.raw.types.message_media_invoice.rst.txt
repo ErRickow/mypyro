@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_invoice
+==========================================
+
+.. automodule:: pyrogram.raw.types.message_media_invoice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaInvoice
+   

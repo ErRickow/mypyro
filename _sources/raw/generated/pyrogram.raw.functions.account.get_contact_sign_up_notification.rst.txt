@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_contact\_sign\_up\_notification
+===================================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_contact_sign_up_notification
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetContactSignUpNotification
+   

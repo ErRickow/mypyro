@@ -1,0 +1,12 @@
+pyrogram.raw.types.pong
+=======================
+
+.. automodule:: pyrogram.raw.types.pong
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Pong
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.phone.exported\_group\_call\_invite
+=====================================================
+
+.. automodule:: pyrogram.raw.base.phone.exported_group_call_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportedGroupCallInvite
+   

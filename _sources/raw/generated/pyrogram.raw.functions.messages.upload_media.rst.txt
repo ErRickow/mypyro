@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.upload\_media
+=============================================
+
+.. automodule:: pyrogram.raw.functions.messages.upload_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UploadMedia
+   

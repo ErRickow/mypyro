@@ -1,0 +1,12 @@
+pyrogram.raw.types.upload.cdn\_file\_reupload\_needed
+=====================================================
+
+.. automodule:: pyrogram.raw.types.upload.cdn_file_reupload_needed
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CdnFileReuploadNeeded
+   

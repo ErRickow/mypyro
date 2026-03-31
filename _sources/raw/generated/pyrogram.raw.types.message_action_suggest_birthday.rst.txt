@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_suggest\_birthday
+=====================================================
+
+.. automodule:: pyrogram.raw.types.message_action_suggest_birthday
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionSuggestBirthday
+   

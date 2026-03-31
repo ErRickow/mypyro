@@ -1,0 +1,103 @@
+pyrogram.raw.types.messages
+===========================
+
+.. automodule:: pyrogram.raw.types.messages
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   affected_found_messages
+   affected_history
+   affected_messages
+   all_stickers
+   all_stickers_not_modified
+   archived_stickers
+   available_effects
+   available_effects_not_modified
+   available_reactions
+   available_reactions_not_modified
+   bot_app
+   bot_callback_answer
+   bot_prepared_inline_message
+   bot_results
+   channel_messages
+   chat_admins_with_invites
+   chat_full
+   chat_invite_importers
+   chats
+   chats_slice
+   checked_history_import_peer
+   dh_config
+   dh_config_not_modified
+   dialog_filters
+   dialogs
+   dialogs_not_modified
+   dialogs_slice
+   discussion_message
+   emoji_game_dice_info
+   emoji_game_outcome
+   emoji_game_unavailable
+   emoji_groups
+   emoji_groups_not_modified
+   exported_chat_invite
+   exported_chat_invite_replaced
+   exported_chat_invites
+   faved_stickers
+   faved_stickers_not_modified
+   featured_stickers
+   featured_stickers_not_modified
+   forum_topics
+   found_sticker_sets
+   found_sticker_sets_not_modified
+   found_stickers
+   found_stickers_not_modified
+   high_scores
+   history_import
+   history_import_parsed
+   inactive_chats
+   invited_users
+   message_edit_data
+   message_reactions_list
+   message_views
+   messages
+   messages_not_modified
+   messages_slice
+   my_stickers
+   peer_dialogs
+   peer_settings
+   prepared_inline_message
+   quick_replies
+   quick_replies_not_modified
+   reactions
+   reactions_not_modified
+   recent_stickers
+   recent_stickers_not_modified
+   saved_dialogs
+   saved_dialogs_not_modified
+   saved_dialogs_slice
+   saved_gifs
+   saved_gifs_not_modified
+   saved_reaction_tags
+   saved_reaction_tags_not_modified
+   search_counter
+   search_results_calendar
+   search_results_positions
+   sent_encrypted_file
+   sent_encrypted_message
+   sponsored_messages
+   sponsored_messages_empty
+   sticker_set
+   sticker_set_install_result_archive
+   sticker_set_install_result_success
+   sticker_set_not_modified
+   stickers
+   stickers_not_modified
+   transcribed_audio
+   translate_result
+   votes_list
+   web_page
+   web_page_preview

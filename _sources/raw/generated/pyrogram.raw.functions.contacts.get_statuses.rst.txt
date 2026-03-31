@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.get\_statuses
+=============================================
+
+.. automodule:: pyrogram.raw.functions.contacts.get_statuses
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStatuses
+   

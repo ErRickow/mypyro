@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_channel\_restricted\_status\_emojis
+=======================================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_channel_restricted_status_emojis
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChannelRestrictedStatusEmojis
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.toggle\_slow\_mode
+==================================================
+
+.. automodule:: pyrogram.raw.functions.channels.toggle_slow_mode
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleSlowMode
+   

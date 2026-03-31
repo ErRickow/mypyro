@@ -1,0 +1,12 @@
+pyrogram.raw.types.video\_size
+==============================
+
+.. automodule:: pyrogram.raw.types.video_size
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VideoSize
+   

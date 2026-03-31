@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_slideshow
+=========================================
+
+.. automodule:: pyrogram.raw.types.page_block_slideshow
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockSlideshow
+   

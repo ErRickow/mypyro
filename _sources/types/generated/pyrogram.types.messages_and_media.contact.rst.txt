@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.contact
+===========================================
+
+.. automodule:: pyrogram.types.messages_and_media.contact
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Contact
+   

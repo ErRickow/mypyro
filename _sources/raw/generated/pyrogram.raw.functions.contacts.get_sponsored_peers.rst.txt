@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.get\_sponsored\_peers
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.get_sponsored_peers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSponsoredPeers
+   

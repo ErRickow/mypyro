@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_history\_clear
+==================================================
+
+.. automodule:: pyrogram.raw.types.message_action_history_clear
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionHistoryClear
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.storage.file\_gif
+====================================
+
+.. automodule:: pyrogram.raw.types.storage.file_gif
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileGif
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_web\_file\_audio\_album\_thumb\_location
+==================================================================
+
+.. automodule:: pyrogram.raw.types.input_web_file_audio_album_thumb_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputWebFileAudioAlbumThumbLocation
+   

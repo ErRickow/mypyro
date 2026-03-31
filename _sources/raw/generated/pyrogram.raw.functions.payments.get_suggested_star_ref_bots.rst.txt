@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_suggested\_star\_ref\_bots
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_suggested_star_ref_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSuggestedStarRefBots
+   

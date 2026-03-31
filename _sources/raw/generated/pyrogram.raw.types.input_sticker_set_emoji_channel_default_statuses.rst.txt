@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_sticker\_set\_emoji\_channel\_default\_statuses
+=========================================================================
+
+.. automodule:: pyrogram.raw.types.input_sticker_set_emoji_channel_default_statuses
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetEmojiChannelDefaultStatuses
+   

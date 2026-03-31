@@ -1,0 +1,12 @@
+pyrogram.raw.base.stats\_abs\_value\_and\_prev
+==============================================
+
+.. automodule:: pyrogram.raw.base.stats_abs_value_and_prev
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsAbsValueAndPrev
+   

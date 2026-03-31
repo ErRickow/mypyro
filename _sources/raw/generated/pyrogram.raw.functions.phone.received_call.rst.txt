@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.received\_call
+===========================================
+
+.. automodule:: pyrogram.raw.functions.phone.received_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReceivedCall
+   

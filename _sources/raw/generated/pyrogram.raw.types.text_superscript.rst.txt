@@ -1,0 +1,12 @@
+pyrogram.raw.types.text\_superscript
+====================================
+
+.. automodule:: pyrogram.raw.types.text_superscript
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextSuperscript
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.check\_download\_file\_params
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.bots.check_download_file_params
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckDownloadFileParams
+   

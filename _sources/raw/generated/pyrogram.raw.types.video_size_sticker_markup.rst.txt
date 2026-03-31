@@ -1,0 +1,12 @@
+pyrogram.raw.types.video\_size\_sticker\_markup
+===============================================
+
+.. automodule:: pyrogram.raw.types.video_size_sticker_markup
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VideoSizeStickerMarkup
+   

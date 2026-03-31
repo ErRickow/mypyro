@@ -1,0 +1,12 @@
+pyrogram.raw.base.web\_page\_attribute
+======================================
+
+.. automodule:: pyrogram.raw.base.web_page_attribute
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebPageAttribute
+   

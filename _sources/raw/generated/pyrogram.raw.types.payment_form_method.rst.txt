@@ -1,0 +1,12 @@
+pyrogram.raw.types.payment\_form\_method
+========================================
+
+.. automodule:: pyrogram.raw.types.payment_form_method
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PaymentFormMethod
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.notification\_sound\_ringtone
+================================================
+
+.. automodule:: pyrogram.raw.types.notification_sound_ringtone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NotificationSoundRingtone
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.users.suggest\_birthday
+==============================================
+
+.. automodule:: pyrogram.raw.functions.users.suggest_birthday
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SuggestBirthday
+   

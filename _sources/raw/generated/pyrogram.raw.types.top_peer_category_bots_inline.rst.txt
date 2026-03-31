@@ -1,0 +1,12 @@
+pyrogram.raw.types.top\_peer\_category\_bots\_inline
+====================================================
+
+.. automodule:: pyrogram.raw.types.top_peer_category_bots_inline
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TopPeerCategoryBotsInline
+   

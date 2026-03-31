@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.set\_chat\_wall\_paper
+======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.set_chat_wall_paper
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetChatWallPaper
+   

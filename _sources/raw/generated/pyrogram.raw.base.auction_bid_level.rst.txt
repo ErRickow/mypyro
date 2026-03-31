@@ -1,0 +1,12 @@
+pyrogram.raw.base.auction\_bid\_level
+=====================================
+
+.. automodule:: pyrogram.raw.base.auction_bid_level
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AuctionBidLevel
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.toggle\_autotranslation
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.channels.toggle_autotranslation
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleAutotranslation
+   

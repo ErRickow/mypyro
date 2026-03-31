@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.increment\_story\_views
+======================================================
+
+.. automodule:: pyrogram.raw.functions.stories.increment_story_views
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      IncrementStoryViews
+   

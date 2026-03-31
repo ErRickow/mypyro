@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_saved\_music\_ids
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_saved_music_ids
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSavedMusicIds
+   

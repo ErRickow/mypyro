@@ -1,0 +1,12 @@
+pyrogram.raw.types.business\_away\_message\_schedule\_custom
+============================================================
+
+.. automodule:: pyrogram.raw.types.business_away_message_schedule_custom
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessAwayMessageScheduleCustom
+   

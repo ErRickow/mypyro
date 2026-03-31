@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.request\_url\_auth
+==================================================
+
+.. automodule:: pyrogram.raw.functions.messages.request_url_auth
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequestUrlAuth
+   

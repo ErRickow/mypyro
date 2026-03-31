@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.convert\_to\_gigagroup
+======================================================
+
+.. automodule:: pyrogram.raw.functions.channels.convert_to_gigagroup
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ConvertToGigagroup
+   

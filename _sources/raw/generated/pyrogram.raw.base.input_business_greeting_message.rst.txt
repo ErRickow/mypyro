@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_business\_greeting\_message
+====================================================
+
+.. automodule:: pyrogram.raw.base.input_business_greeting_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputBusinessGreetingMessage
+   

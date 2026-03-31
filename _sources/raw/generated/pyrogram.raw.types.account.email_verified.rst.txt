@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.email\_verified
+==========================================
+
+.. automodule:: pyrogram.raw.types.account.email_verified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmailVerified
+   

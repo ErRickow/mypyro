@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.inactive\_chats
+==========================================
+
+.. automodule:: pyrogram.raw.base.messages.inactive_chats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InactiveChats
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.json\_object\_value
+=====================================
+
+.. automodule:: pyrogram.raw.base.json_object_value
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JSONObjectValue
+   

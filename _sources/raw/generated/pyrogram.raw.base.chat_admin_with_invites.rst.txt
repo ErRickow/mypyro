@@ -1,0 +1,12 @@
+pyrogram.raw.base.chat\_admin\_with\_invites
+============================================
+
+.. automodule:: pyrogram.raw.base.chat_admin_with_invites
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatAdminWithInvites
+   

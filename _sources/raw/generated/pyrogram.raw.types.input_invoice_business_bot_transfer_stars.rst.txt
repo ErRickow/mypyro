@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_invoice\_business\_bot\_transfer\_stars
+=================================================================
+
+.. automodule:: pyrogram.raw.types.input_invoice_business_bot_transfer_stars
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputInvoiceBusinessBotTransferStars
+   

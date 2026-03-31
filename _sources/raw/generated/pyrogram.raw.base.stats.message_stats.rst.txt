@@ -1,0 +1,12 @@
+pyrogram.raw.base.stats.message\_stats
+======================================
+
+.. automodule:: pyrogram.raw.base.stats.message_stats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageStats
+   

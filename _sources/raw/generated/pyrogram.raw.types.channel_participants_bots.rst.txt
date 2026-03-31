@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_participants\_bots
+==============================================
+
+.. automodule:: pyrogram.raw.types.channel_participants_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelParticipantsBots
+   

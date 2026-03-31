@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_channel\_from\_message
+================================================
+
+.. automodule:: pyrogram.raw.types.input_channel_from_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputChannelFromMessage
+   

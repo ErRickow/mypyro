@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stats.get\_story\_public\_forwards
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.stats.get_story_public_forwards
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStoryPublicForwards
+   

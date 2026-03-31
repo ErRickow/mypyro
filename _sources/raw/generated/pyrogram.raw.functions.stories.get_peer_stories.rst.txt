@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.get\_peer\_stories
+=================================================
+
+.. automodule:: pyrogram.raw.functions.stories.get_peer_stories
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPeerStories
+   

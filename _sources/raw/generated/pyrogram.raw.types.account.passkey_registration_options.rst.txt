@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.passkey\_registration\_options
+=========================================================
+
+.. automodule:: pyrogram.raw.types.account.passkey_registration_options
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PasskeyRegistrationOptions
+   

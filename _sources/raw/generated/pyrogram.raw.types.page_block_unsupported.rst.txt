@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_unsupported
+===========================================
+
+.. automodule:: pyrogram.raw.types.page_block_unsupported
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockUnsupported
+   

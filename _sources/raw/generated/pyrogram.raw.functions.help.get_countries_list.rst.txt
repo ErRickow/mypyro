@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_countries\_list
+================================================
+
+.. automodule:: pyrogram.raw.functions.help.get_countries_list
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetCountriesList
+   

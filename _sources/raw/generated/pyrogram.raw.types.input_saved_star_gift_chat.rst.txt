@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_saved\_star\_gift\_chat
+=================================================
+
+.. automodule:: pyrogram.raw.types.input_saved_star_gift_chat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputSavedStarGiftChat
+   

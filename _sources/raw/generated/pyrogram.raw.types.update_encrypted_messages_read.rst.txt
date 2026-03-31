@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_encrypted\_messages\_read
+====================================================
+
+.. automodule:: pyrogram.raw.types.update_encrypted_messages_read
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateEncryptedMessagesRead
+   

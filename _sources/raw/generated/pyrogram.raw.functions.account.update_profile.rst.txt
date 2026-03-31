@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_profile
+==============================================
+
+.. automodule:: pyrogram.raw.functions.account.update_profile
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateProfile
+   

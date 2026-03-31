@@ -1,0 +1,12 @@
+pyrogram.raw.types.email\_verification\_code
+============================================
+
+.. automodule:: pyrogram.raw.types.email_verification_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmailVerificationCode
+   

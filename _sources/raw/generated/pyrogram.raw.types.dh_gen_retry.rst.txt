@@ -1,0 +1,12 @@
+pyrogram.raw.types.dh\_gen\_retry
+=================================
+
+.. automodule:: pyrogram.raw.types.dh_gen_retry
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DhGenRetry
+   

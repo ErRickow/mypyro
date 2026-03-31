@@ -1,0 +1,12 @@
+pyrogram.raw.base.chatlists.chatlist\_updates
+=============================================
+
+.. automodule:: pyrogram.raw.base.chatlists.chatlist_updates
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatlistUpdates
+   

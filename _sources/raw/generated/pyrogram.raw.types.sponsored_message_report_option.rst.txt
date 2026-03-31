@@ -1,0 +1,12 @@
+pyrogram.raw.types.sponsored\_message\_report\_option
+=====================================================
+
+.. automodule:: pyrogram.raw.types.sponsored_message_report_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SponsoredMessageReportOption
+   

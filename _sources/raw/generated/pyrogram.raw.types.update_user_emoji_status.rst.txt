@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_user\_emoji\_status
+==============================================
+
+.. automodule:: pyrogram.raw.types.update_user_emoji_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateUserEmojiStatus
+   

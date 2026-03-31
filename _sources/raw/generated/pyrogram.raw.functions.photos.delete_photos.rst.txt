@@ -1,0 +1,12 @@
+pyrogram.raw.functions.photos.delete\_photos
+============================================
+
+.. automodule:: pyrogram.raw.functions.photos.delete_photos
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeletePhotos
+   

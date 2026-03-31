@@ -1,0 +1,12 @@
+pyrogram.raw.types.missing\_invitee
+===================================
+
+.. automodule:: pyrogram.raw.types.missing_invitee
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MissingInvitee
+   

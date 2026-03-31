@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.message\_reactions
+======================================================
+
+.. automodule:: pyrogram.types.messages_and_media.message_reactions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageReactions
+   

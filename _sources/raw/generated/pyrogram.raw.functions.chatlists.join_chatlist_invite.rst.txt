@@ -1,0 +1,12 @@
+pyrogram.raw.functions.chatlists.join\_chatlist\_invite
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.chatlists.join_chatlist_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JoinChatlistInvite
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_participants\_search
+================================================
+
+.. automodule:: pyrogram.raw.types.channel_participants_search
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelParticipantsSearch
+   

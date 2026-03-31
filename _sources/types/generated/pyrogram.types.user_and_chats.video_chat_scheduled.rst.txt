@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.video\_chat\_scheduled
+======================================================
+
+.. automodule:: pyrogram.types.user_and_chats.video_chat_scheduled
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VideoChatScheduled
+   

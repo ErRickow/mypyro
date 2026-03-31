@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_quick\_replies
+=========================================
+
+.. automodule:: pyrogram.raw.types.update_quick_replies
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateQuickReplies
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.delete\_channel
+===============================================
+
+.. automodule:: pyrogram.raw.functions.channels.delete_channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteChannel
+   

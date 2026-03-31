@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.unregister\_device
+=================================================
+
+.. automodule:: pyrogram.raw.functions.account.unregister_device
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UnregisterDevice
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.terms\_of\_service
+==========================================
+
+.. automodule:: pyrogram.raw.types.help.terms_of_service
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TermsOfService
+   

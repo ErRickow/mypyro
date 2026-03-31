@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_required\_type\_one\_of
+==================================================
+
+.. automodule:: pyrogram.raw.types.secure_required_type_one_of
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureRequiredTypeOneOf
+   

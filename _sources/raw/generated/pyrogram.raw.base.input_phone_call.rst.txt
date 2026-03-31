@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_phone\_call
+====================================
+
+.. automodule:: pyrogram.raw.base.input_phone_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPhoneCall
+   

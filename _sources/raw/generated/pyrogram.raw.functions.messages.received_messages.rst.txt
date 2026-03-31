@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.received\_messages
+==================================================
+
+.. automodule:: pyrogram.raw.functions.messages.received_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReceivedMessages
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_admins\_with\_invites
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_admins_with_invites
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetAdminsWithInvites
+   

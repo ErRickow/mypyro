@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.set\_game\_score
+================================================
+
+.. automodule:: pyrogram.raw.functions.messages.set_game_score
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetGameScore
+   

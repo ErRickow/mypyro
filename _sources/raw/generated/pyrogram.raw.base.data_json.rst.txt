@@ -1,0 +1,12 @@
+pyrogram.raw.base.data\_json
+============================
+
+.. automodule:: pyrogram.raw.base.data_json
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DataJSON
+   

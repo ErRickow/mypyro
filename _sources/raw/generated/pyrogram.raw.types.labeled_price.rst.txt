@@ -1,0 +1,12 @@
+pyrogram.raw.types.labeled\_price
+=================================
+
+.. automodule:: pyrogram.raw.types.labeled_price
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LabeledPrice
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_custom\_emoji
+=================================================
+
+.. automodule:: pyrogram.raw.types.message_entity_custom_emoji
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityCustomEmoji
+   

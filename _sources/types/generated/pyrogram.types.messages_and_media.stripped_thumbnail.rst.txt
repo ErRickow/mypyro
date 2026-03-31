@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.stripped\_thumbnail
+=======================================================
+
+.. automodule:: pyrogram.types.messages_and_media.stripped_thumbnail
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StrippedThumbnail
+   

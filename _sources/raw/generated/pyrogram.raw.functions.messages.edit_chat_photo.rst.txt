@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.edit\_chat\_photo
+=================================================
+
+.. automodule:: pyrogram.raw.functions.messages.edit_chat_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditChatPhoto
+   

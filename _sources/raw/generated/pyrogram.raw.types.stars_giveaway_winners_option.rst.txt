@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_giveaway\_winners\_option
+===================================================
+
+.. automodule:: pyrogram.raw.types.stars_giveaway_winners_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsGiveawayWinnersOption
+   

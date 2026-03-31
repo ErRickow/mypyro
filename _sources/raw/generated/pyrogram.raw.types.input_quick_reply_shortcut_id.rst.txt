@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_quick\_reply\_shortcut\_id
+====================================================
+
+.. automodule:: pyrogram.raw.types.input_quick_reply_shortcut_id
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputQuickReplyShortcutId
+   

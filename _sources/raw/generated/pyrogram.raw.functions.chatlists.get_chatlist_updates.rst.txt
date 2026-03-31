@@ -1,0 +1,12 @@
+pyrogram.raw.functions.chatlists.get\_chatlist\_updates
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.chatlists.get_chatlist_updates
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChatlistUpdates
+   

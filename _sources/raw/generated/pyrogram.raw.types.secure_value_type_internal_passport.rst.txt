@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_internal\_passport
+==========================================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_internal_passport
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypeInternalPassport
+   

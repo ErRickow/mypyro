@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_emoji\_url
+===============================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_emoji_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetEmojiURL
+   

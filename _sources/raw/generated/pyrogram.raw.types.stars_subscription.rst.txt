@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_subscription
+======================================
+
+.. automodule:: pyrogram.raw.types.stars_subscription
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsSubscription
+   

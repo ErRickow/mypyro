@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.reorder\_sticker\_sets
+======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.reorder_sticker_sets
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReorderStickerSets
+   

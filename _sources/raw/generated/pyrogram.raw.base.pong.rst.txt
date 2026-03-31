@@ -1,0 +1,12 @@
+pyrogram.raw.base.pong
+======================
+
+.. automodule:: pyrogram.raw.base.pong
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Pong
+   

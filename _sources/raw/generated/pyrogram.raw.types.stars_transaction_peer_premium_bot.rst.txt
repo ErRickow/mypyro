@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_transaction\_peer\_premium\_bot
+=========================================================
+
+.. automodule:: pyrogram.raw.types.stars_transaction_peer_premium_bot
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsTransactionPeerPremiumBot
+   

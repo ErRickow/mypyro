@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.dialogs\_slice
+==========================================
+
+.. automodule:: pyrogram.raw.types.messages.dialogs_slice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DialogsSlice
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.translated\_text
+===========================================
+
+.. automodule:: pyrogram.raw.base.messages.translated_text
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TranslatedText
+   

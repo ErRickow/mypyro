@@ -1,0 +1,12 @@
+pyrogram.types.authorization.terms\_of\_service
+===============================================
+
+.. automodule:: pyrogram.types.authorization.terms_of_service
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TermsOfService
+   

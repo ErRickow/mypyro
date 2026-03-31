@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_sticker\_set\_item
+===========================================
+
+.. automodule:: pyrogram.raw.base.input_sticker_set_item
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetItem
+   

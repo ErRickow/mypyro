@@ -1,0 +1,13 @@
+pyrogram.raw.functions.folders
+==============================
+
+.. automodule:: pyrogram.raw.functions.folders
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   edit_peer_folders

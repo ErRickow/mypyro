@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_unique\_star\_gift\_value\_info
+====================================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_unique_star_gift_value_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetUniqueStarGiftValueInfo
+   

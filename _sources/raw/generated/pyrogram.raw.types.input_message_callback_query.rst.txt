@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_message\_callback\_query
+==================================================
+
+.. automodule:: pyrogram.raw.types.input_message_callback_query
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessageCallbackQuery
+   

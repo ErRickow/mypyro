@@ -1,0 +1,12 @@
+pyrogram.raw.types.text\_anchor
+===============================
+
+.. automodule:: pyrogram.raw.types.text_anchor
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextAnchor
+   

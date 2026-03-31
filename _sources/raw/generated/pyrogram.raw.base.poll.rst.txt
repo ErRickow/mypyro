@@ -1,0 +1,12 @@
+pyrogram.raw.base.poll
+======================
+
+.. automodule:: pyrogram.raw.base.poll
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Poll
+   

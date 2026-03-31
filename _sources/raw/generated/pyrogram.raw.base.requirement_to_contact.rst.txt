@@ -1,0 +1,12 @@
+pyrogram.raw.base.requirement\_to\_contact
+==========================================
+
+.. automodule:: pyrogram.raw.base.requirement_to_contact
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequirementToContact
+   

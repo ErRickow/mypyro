@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_email
+=========================================
+
+.. automodule:: pyrogram.raw.types.message_entity_email
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityEmail
+   

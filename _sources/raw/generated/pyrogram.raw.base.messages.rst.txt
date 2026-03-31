@@ -1,0 +1,74 @@
+pyrogram.raw.base.messages
+==========================
+
+.. automodule:: pyrogram.raw.base.messages
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   affected_found_messages
+   affected_history
+   affected_messages
+   all_stickers
+   archived_stickers
+   available_effects
+   available_reactions
+   bot_app
+   bot_callback_answer
+   bot_prepared_inline_message
+   bot_results
+   chat_admins_with_invites
+   chat_full
+   chat_invite_importers
+   chats
+   checked_history_import_peer
+   dh_config
+   dialog_filters
+   dialogs
+   discussion_message
+   emoji_game_info
+   emoji_game_outcome
+   emoji_groups
+   exported_chat_invite
+   exported_chat_invites
+   faved_stickers
+   featured_stickers
+   forum_topics
+   found_sticker_sets
+   found_stickers
+   high_scores
+   history_import
+   history_import_parsed
+   inactive_chats
+   invited_users
+   message_edit_data
+   message_reactions_list
+   message_views
+   messages
+   my_stickers
+   peer_dialogs
+   peer_settings
+   prepared_inline_message
+   quick_replies
+   reactions
+   recent_stickers
+   saved_dialogs
+   saved_gifs
+   saved_reaction_tags
+   search_counter
+   search_results_calendar
+   search_results_positions
+   sent_encrypted_message
+   sponsored_messages
+   sticker_set
+   sticker_set_install_result
+   stickers
+   transcribed_audio
+   translated_text
+   votes_list
+   web_page
+   web_page_preview

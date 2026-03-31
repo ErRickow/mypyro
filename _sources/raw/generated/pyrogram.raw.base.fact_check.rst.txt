@@ -1,0 +1,12 @@
+pyrogram.raw.base.fact\_check
+=============================
+
+.. automodule:: pyrogram.raw.base.fact_check
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FactCheck
+   

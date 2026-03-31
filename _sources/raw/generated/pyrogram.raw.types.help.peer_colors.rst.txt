@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.peer\_colors
+====================================
+
+.. automodule:: pyrogram.raw.types.help.peer_colors
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeerColors
+   

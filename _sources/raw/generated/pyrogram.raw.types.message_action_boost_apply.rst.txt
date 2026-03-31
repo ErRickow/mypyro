@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_boost\_apply
+================================================
+
+.. automodule:: pyrogram.raw.types.message_action_boost_apply
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionBoostApply
+   

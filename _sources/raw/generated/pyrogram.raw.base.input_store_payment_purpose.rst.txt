@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_store\_payment\_purpose
+================================================
+
+.. automodule:: pyrogram.raw.base.input_store_payment_purpose
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStorePaymentPurpose
+   

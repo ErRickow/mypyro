@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_app\_update
+============================================
+
+.. automodule:: pyrogram.raw.functions.help.get_app_update
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetAppUpdate
+   

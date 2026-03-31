@@ -1,0 +1,12 @@
+pyrogram.raw.base.bot\_command\_scope
+=====================================
+
+.. automodule:: pyrogram.raw.base.bot_command_scope
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotCommandScope
+   

@@ -1,0 +1,13 @@
+pyrogram.raw.types.stickers
+===========================
+
+.. automodule:: pyrogram.raw.types.stickers
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   suggested_short_name

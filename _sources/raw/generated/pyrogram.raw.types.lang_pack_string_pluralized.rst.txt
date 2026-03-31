@@ -1,0 +1,12 @@
+pyrogram.raw.types.lang\_pack\_string\_pluralized
+=================================================
+
+.. automodule:: pyrogram.raw.types.lang_pack_string_pluralized
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LangPackStringPluralized
+   

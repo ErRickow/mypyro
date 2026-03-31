@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.emoji\_statuses
+==========================================
+
+.. automodule:: pyrogram.raw.types.account.emoji_statuses
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiStatuses
+   

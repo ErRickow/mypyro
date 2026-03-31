@@ -1,0 +1,12 @@
+pyrogram.raw.types.wall\_paper\_settings
+========================================
+
+.. automodule:: pyrogram.raw.types.wall_paper_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WallPaperSettings
+   

@@ -1,0 +1,15 @@
+pyrogram.raw.base.upload
+========================
+
+.. automodule:: pyrogram.raw.base.upload
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   cdn_file
+   file
+   web_file

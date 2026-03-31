@@ -1,0 +1,12 @@
+pyrogram.types.inline\_mode.inline\_query\_result\_contact
+==========================================================
+
+.. automodule:: pyrogram.types.inline_mode.inline_query_result_contact
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineQueryResultContact
+   

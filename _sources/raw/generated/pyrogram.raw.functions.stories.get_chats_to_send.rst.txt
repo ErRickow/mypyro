@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.get\_chats\_to\_send
+===================================================
+
+.. automodule:: pyrogram.raw.functions.stories.get_chats_to_send
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChatsToSend
+   

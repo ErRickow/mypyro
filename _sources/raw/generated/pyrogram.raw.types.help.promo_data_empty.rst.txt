@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.promo\_data\_empty
+==========================================
+
+.. automodule:: pyrogram.raw.types.help.promo_data_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PromoDataEmpty
+   

@@ -1,0 +1,13 @@
+pyrogram.raw.base.storage
+=========================
+
+.. automodule:: pyrogram.raw.base.storage
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   file_type

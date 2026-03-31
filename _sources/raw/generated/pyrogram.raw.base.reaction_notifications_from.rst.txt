@@ -1,0 +1,12 @@
+pyrogram.raw.base.reaction\_notifications\_from
+===============================================
+
+.. automodule:: pyrogram.raw.base.reaction_notifications_from
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReactionNotificationsFrom
+   

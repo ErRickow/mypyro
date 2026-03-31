@@ -1,0 +1,12 @@
+pyrogram.raw.types.privacy\_key\_chat\_invite
+=============================================
+
+.. automodule:: pyrogram.raw.types.privacy_key_chat_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PrivacyKeyChatInvite
+   

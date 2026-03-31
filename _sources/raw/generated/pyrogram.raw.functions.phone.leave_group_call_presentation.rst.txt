@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.leave\_group\_call\_presentation
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.phone.leave_group_call_presentation
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LeaveGroupCallPresentation
+   

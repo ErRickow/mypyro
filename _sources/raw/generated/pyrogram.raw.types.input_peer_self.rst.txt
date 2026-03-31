@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_peer\_self
+====================================
+
+.. automodule:: pyrogram.raw.types.input_peer_self
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPeerSelf
+   

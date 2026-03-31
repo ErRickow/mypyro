@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.delete\_business\_chat\_link
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.account.delete_business_chat_link
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteBusinessChatLink
+   

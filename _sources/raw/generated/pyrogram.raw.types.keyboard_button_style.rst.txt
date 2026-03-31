@@ -1,0 +1,12 @@
+pyrogram.raw.types.keyboard\_button\_style
+==========================================
+
+.. automodule:: pyrogram.raw.types.keyboard_button_style
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      KeyboardButtonStyle
+   

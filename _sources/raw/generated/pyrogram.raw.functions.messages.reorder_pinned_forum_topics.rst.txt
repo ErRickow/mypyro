@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.reorder\_pinned\_forum\_topics
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.reorder_pinned_forum_topics
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReorderPinnedForumTopics
+   

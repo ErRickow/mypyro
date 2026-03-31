@@ -1,0 +1,40 @@
+pyrogram.raw.base.account
+=========================
+
+.. automodule:: pyrogram.raw.base.account
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   authorization_form
+   authorizations
+   auto_download_settings
+   auto_save_settings
+   business_chat_links
+   chat_themes
+   connected_bots
+   content_settings
+   email_verified
+   emoji_statuses
+   paid_messages_revenue
+   passkey_registration_options
+   passkeys
+   password
+   password_input_settings
+   password_settings
+   privacy_rules
+   reset_password_result
+   resolved_business_chat_links
+   saved_music_ids
+   saved_ringtone
+   saved_ringtones
+   sent_email_code
+   takeout
+   themes
+   tmp_password
+   wall_papers
+   web_authorizations

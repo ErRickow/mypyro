@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_invoice\_premium\_auth\_code
+======================================================
+
+.. automodule:: pyrogram.raw.types.input_invoice_premium_auth_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputInvoicePremiumAuthCode
+   

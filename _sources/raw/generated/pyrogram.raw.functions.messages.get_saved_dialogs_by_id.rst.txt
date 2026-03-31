@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_saved\_dialogs\_by\_id
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_saved_dialogs_by_id
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSavedDialogsByID
+   

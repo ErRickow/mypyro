@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_game
+=============================
+
+.. automodule:: pyrogram.raw.base.input_game
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputGame
+   

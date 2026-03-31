@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_error\_translation\_file
+==========================================================
+
+.. automodule:: pyrogram.raw.types.secure_value_error_translation_file
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueErrorTranslationFile
+   

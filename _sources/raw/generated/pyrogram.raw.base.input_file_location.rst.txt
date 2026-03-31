@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_file\_location
+=======================================
+
+.. automodule:: pyrogram.raw.base.input_file_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputFileLocation
+   

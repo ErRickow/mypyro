@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.paid\_messages\_revenue
+==================================================
+
+.. automodule:: pyrogram.raw.types.account.paid_messages_revenue
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PaidMessagesRevenue
+   

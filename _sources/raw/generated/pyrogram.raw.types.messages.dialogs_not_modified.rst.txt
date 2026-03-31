@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.dialogs\_not\_modified
+==================================================
+
+.. automodule:: pyrogram.raw.types.messages.dialogs_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DialogsNotModified
+   

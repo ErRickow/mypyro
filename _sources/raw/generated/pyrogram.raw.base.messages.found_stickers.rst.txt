@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.found\_stickers
+==========================================
+
+.. automodule:: pyrogram.raw.base.messages.found_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FoundStickers
+   

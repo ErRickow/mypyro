@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.chat\_event\_filter
+===================================================
+
+.. automodule:: pyrogram.types.user_and_chats.chat_event_filter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatEventFilter
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.keyboard\_button\_web\_view
+==============================================
+
+.. automodule:: pyrogram.raw.types.keyboard_button_web_view
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      KeyboardButtonWebView
+   

@@ -1,0 +1,37 @@
+pyrogram.raw.functions.help
+===========================
+
+.. automodule:: pyrogram.raw.functions.help
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   accept_terms_of_service
+   dismiss_suggestion
+   edit_user_info
+   get_app_config
+   get_app_update
+   get_cdn_config
+   get_config
+   get_countries_list
+   get_deep_link_info
+   get_invite_text
+   get_nearest_dc
+   get_passport_config
+   get_peer_colors
+   get_peer_profile_colors
+   get_premium_promo
+   get_promo_data
+   get_recent_me_urls
+   get_support
+   get_support_name
+   get_terms_of_service_update
+   get_timezones_list
+   get_user_info
+   hide_promo_data
+   save_app_log
+   set_bot_updates_status

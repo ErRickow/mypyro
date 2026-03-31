@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_edit\_channel\_message
+=================================================
+
+.. automodule:: pyrogram.raw.types.update_edit_channel_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateEditChannelMessage
+   

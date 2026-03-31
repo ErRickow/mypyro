@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.init\_passkey\_login
+================================================
+
+.. automodule:: pyrogram.raw.functions.auth.init_passkey_login
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InitPasskeyLogin
+   

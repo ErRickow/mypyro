@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.get\_albums
+==========================================
+
+.. automodule:: pyrogram.raw.functions.stories.get_albums
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetAlbums
+   

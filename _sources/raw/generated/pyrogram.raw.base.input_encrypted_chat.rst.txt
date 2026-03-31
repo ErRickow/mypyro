@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_encrypted\_chat
+========================================
+
+.. automodule:: pyrogram.raw.base.input_encrypted_chat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputEncryptedChat
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.smsjobs.update\_settings
+===============================================
+
+.. automodule:: pyrogram.raw.functions.smsjobs.update_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateSettings
+   

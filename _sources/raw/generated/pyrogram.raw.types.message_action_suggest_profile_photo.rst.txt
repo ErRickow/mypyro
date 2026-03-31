@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_suggest\_profile\_photo
+===========================================================
+
+.. automodule:: pyrogram.raw.types.message_action_suggest_profile_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionSuggestProfilePhoto
+   

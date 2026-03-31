@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.toggle\_signatures
+==================================================
+
+.. automodule:: pyrogram.raw.functions.channels.toggle_signatures
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleSignatures
+   

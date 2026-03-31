@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_views
+=================================
+
+.. automodule:: pyrogram.raw.types.message_views
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageViews
+   

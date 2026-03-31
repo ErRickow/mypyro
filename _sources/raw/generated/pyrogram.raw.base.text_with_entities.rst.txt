@@ -1,0 +1,12 @@
+pyrogram.raw.base.text\_with\_entities
+======================================
+
+.. automodule:: pyrogram.raw.base.text_with_entities
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextWithEntities
+   

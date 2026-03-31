@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_peer\_channel
+=======================================
+
+.. automodule:: pyrogram.raw.types.input_peer_channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPeerChannel
+   

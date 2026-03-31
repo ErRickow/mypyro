@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.get\_stories\_archive
+====================================================
+
+.. automodule:: pyrogram.raw.functions.stories.get_stories_archive
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStoriesArchive
+   

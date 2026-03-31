@@ -1,0 +1,12 @@
+pyrogram.raw.base.star\_gift\_collection
+========================================
+
+.. automodule:: pyrogram.raw.base.star_gift_collection
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftCollection
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_bot\_shipping\_query
+===============================================
+
+.. automodule:: pyrogram.raw.types.update_bot_shipping_query
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBotShippingQuery
+   

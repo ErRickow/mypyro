@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_admin\_log\_event\_action\_toggle\_signature\_profiles
+==================================================================================
+
+.. automodule:: pyrogram.raw.types.channel_admin_log_event_action_toggle_signature_profiles
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEventActionToggleSignatureProfiles
+   

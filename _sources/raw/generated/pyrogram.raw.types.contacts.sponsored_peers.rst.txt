@@ -1,0 +1,12 @@
+pyrogram.raw.types.contacts.sponsored\_peers
+============================================
+
+.. automodule:: pyrogram.raw.types.contacts.sponsored_peers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SponsoredPeers
+   

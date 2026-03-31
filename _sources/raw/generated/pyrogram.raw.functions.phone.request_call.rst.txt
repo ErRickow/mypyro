@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.request\_call
+==========================================
+
+.. automodule:: pyrogram.raw.functions.phone.request_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequestCall
+   

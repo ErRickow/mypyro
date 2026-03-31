@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_bot\_business\_connection
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_bot_business_connection
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetBotBusinessConnection
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.keyboard\_button\_request\_peer
+==================================================
+
+.. automodule:: pyrogram.raw.types.keyboard_button_request_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      KeyboardButtonRequestPeer
+   

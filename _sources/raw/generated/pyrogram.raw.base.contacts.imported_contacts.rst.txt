@@ -1,0 +1,12 @@
+pyrogram.raw.base.contacts.imported\_contacts
+=============================================
+
+.. automodule:: pyrogram.raw.base.contacts.imported_contacts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ImportedContacts
+   

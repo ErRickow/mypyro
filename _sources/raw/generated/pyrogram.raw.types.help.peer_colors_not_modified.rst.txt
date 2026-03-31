@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.peer\_colors\_not\_modified
+===================================================
+
+.. automodule:: pyrogram.raw.types.help.peer_colors_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeerColorsNotModified
+   

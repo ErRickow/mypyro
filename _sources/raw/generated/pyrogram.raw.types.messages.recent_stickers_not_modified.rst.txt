@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.recent\_stickers\_not\_modified
+===========================================================
+
+.. automodule:: pyrogram.raw.types.messages.recent_stickers_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RecentStickersNotModified
+   

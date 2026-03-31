@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_photo\_legacy\_file\_location
+=======================================================
+
+.. automodule:: pyrogram.raw.types.input_photo_legacy_file_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPhotoLegacyFileLocation
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.found\_sticker\_sets
+===============================================
+
+.. automodule:: pyrogram.raw.base.messages.found_sticker_sets
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FoundStickerSets
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.delete\_phone\_call\_history
+============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.delete_phone_call_history
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeletePhoneCallHistory
+   

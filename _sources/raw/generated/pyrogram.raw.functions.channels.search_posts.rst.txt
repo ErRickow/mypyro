@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.search\_posts
+=============================================
+
+.. automodule:: pyrogram.raw.functions.channels.search_posts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchPosts
+   

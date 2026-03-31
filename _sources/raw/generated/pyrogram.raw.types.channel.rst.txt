@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel
+==========================
+
+.. automodule:: pyrogram.raw.types.channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Channel
+   

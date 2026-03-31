@@ -1,0 +1,12 @@
+pyrogram.raw.types.emoji\_list\_not\_modified
+=============================================
+
+.. automodule:: pyrogram.raw.types.emoji_list_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiListNotModified
+   

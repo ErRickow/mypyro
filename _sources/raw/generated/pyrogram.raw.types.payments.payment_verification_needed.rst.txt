@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.payment\_verification\_needed
+=========================================================
+
+.. automodule:: pyrogram.raw.types.payments.payment_verification_needed
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PaymentVerificationNeeded
+   

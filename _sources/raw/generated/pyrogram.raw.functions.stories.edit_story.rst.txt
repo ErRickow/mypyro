@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.edit\_story
+==========================================
+
+.. automodule:: pyrogram.raw.functions.stories.edit_story
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditStory
+   

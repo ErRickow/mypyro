@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.invite\_text
+====================================
+
+.. automodule:: pyrogram.raw.types.help.invite_text
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InviteText
+   

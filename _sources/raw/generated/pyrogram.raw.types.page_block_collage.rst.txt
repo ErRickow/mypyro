@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_collage
+=======================================
+
+.. automodule:: pyrogram.raw.types.page_block_collage
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockCollage
+   

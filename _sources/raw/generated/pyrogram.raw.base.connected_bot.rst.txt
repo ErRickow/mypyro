@@ -1,0 +1,12 @@
+pyrogram.raw.base.connected\_bot
+================================
+
+.. automodule:: pyrogram.raw.base.connected_bot
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ConnectedBot
+   

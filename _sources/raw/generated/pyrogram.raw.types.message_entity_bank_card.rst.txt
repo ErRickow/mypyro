@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_bank\_card
+==============================================
+
+.. automodule:: pyrogram.raw.types.message_entity_bank_card
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityBankCard
+   

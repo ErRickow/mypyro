@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.create\_conference\_call
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.phone.create_conference_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CreateConferenceCall
+   

@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.username
+========================================
+
+.. automodule:: pyrogram.types.user_and_chats.username
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Username
+   

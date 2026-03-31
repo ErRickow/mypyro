@@ -1,0 +1,12 @@
+pyrogram.raw.base.smsjobs.status
+================================
+
+.. automodule:: pyrogram.raw.base.smsjobs.status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Status
+   

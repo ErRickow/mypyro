@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_chats
+==========================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_chats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChats
+   

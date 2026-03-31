@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.check\_chat\_invite
+===================================================
+
+.. automodule:: pyrogram.raw.functions.messages.check_chat_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckChatInvite
+   

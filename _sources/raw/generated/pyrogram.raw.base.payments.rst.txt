@@ -1,0 +1,40 @@
+pyrogram.raw.base.payments
+==========================
+
+.. automodule:: pyrogram.raw.base.payments
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   bank_card_data
+   check_can_send_gift_result
+   checked_gift_code
+   connected_star_ref_bots
+   exported_invoice
+   giveaway_info
+   payment_form
+   payment_receipt
+   payment_result
+   resale_star_gifts
+   saved_info
+   saved_star_gifts
+   star_gift_active_auctions
+   star_gift_auction_acquired_gifts
+   star_gift_auction_state
+   star_gift_collections
+   star_gift_upgrade_attributes
+   star_gift_upgrade_preview
+   star_gift_withdrawal_url
+   star_gifts
+   stars_revenue_ads_account_url
+   stars_revenue_stats
+   stars_revenue_withdrawal_url
+   stars_status
+   suggested_star_ref_bots
+   unique_star_gift
+   unique_star_gift_value_info
+   validated_requested_info

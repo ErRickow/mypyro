@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stickers.replace\_sticker
+================================================
+
+.. automodule:: pyrogram.raw.functions.stickers.replace_sticker
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReplaceSticker
+   

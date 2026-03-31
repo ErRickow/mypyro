@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.edit\_inline\_bot\_message
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.edit_inline_bot_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditInlineBotMessage
+   

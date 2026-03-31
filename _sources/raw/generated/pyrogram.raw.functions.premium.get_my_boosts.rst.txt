@@ -1,0 +1,12 @@
+pyrogram.raw.functions.premium.get\_my\_boosts
+==============================================
+
+.. automodule:: pyrogram.raw.functions.premium.get_my_boosts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetMyBoosts
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.leave\_channel
+==============================================
+
+.. automodule:: pyrogram.raw.functions.channels.leave_channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LeaveChannel
+   

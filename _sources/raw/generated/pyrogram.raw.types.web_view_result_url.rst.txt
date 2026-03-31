@@ -1,0 +1,12 @@
+pyrogram.raw.types.web\_view\_result\_url
+=========================================
+
+.. automodule:: pyrogram.raw.types.web_view_result_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebViewResultUrl
+   

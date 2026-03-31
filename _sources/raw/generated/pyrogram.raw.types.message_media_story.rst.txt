@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_story
+========================================
+
+.. automodule:: pyrogram.raw.types.message_media_story
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaStory
+   

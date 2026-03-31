@@ -1,0 +1,12 @@
+pyrogram.raw.base.photo
+=======================
+
+.. automodule:: pyrogram.raw.base.photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Photo
+   

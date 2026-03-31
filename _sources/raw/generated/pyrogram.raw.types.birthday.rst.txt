@@ -1,0 +1,12 @@
+pyrogram.raw.types.birthday
+===========================
+
+.. automodule:: pyrogram.raw.types.birthday
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Birthday
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_notify\_broadcasts
+============================================
+
+.. automodule:: pyrogram.raw.types.input_notify_broadcasts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputNotifyBroadcasts
+   

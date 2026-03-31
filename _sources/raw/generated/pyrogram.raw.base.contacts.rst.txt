@@ -1,0 +1,20 @@
+pyrogram.raw.base.contacts
+==========================
+
+.. automodule:: pyrogram.raw.base.contacts
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   blocked
+   contact_birthdays
+   contacts
+   found
+   imported_contacts
+   resolved_peer
+   sponsored_peers
+   top_peers

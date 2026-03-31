@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.connected\_star\_ref\_bots
+=====================================================
+
+.. automodule:: pyrogram.raw.base.payments.connected_star_ref_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ConnectedStarRefBots
+   

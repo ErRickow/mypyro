@@ -1,0 +1,12 @@
+pyrogram.raw.base.user\_profile\_photo
+======================================
+
+.. automodule:: pyrogram.raw.base.user_profile_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UserProfilePhoto
+   

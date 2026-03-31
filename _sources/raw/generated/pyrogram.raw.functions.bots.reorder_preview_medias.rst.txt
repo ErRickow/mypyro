@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.reorder\_preview\_medias
+====================================================
+
+.. automodule:: pyrogram.raw.functions.bots.reorder_preview_medias
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReorderPreviewMedias
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_peer\_vote\_multiple
+================================================
+
+.. automodule:: pyrogram.raw.types.message_peer_vote_multiple
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessagePeerVoteMultiple
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.chat\_invite\_public\_join\_requests
+=======================================================
+
+.. automodule:: pyrogram.raw.types.chat_invite_public_join_requests
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatInvitePublicJoinRequests
+   

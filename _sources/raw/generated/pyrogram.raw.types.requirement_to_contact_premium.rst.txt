@@ -1,0 +1,12 @@
+pyrogram.raw.types.requirement\_to\_contact\_premium
+====================================================
+
+.. automodule:: pyrogram.raw.types.requirement_to_contact_premium
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequirementToContactPremium
+   

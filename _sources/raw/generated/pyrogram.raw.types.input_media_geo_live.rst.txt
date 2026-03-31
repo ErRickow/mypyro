@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_media\_geo\_live
+==========================================
+
+.. automodule:: pyrogram.raw.types.input_media_geo_live
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMediaGeoLive
+   

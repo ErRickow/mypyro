@@ -1,0 +1,15 @@
+pyrogram.raw.types.photos
+=========================
+
+.. automodule:: pyrogram.raw.types.photos
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   photo
+   photos
+   photos_slice

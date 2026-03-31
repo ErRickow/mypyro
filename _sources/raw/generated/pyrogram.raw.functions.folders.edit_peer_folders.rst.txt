@@ -1,0 +1,12 @@
+pyrogram.raw.functions.folders.edit\_peer\_folders
+==================================================
+
+.. automodule:: pyrogram.raw.functions.folders.edit_peer_folders
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditPeerFolders
+   

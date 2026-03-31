@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.payment\_result
+===========================================
+
+.. automodule:: pyrogram.raw.types.payments.payment_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PaymentResult
+   

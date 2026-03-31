@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_privacy\_value\_allow\_chat\_participants
+===================================================================
+
+.. automodule:: pyrogram.raw.types.input_privacy_value_allow_chat_participants
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPrivacyValueAllowChatParticipants
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.peer\_settings
+==========================================
+
+.. automodule:: pyrogram.raw.types.messages.peer_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeerSettings
+   

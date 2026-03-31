@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.delete\_messages
+================================================
+
+.. automodule:: pyrogram.raw.functions.channels.delete_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteMessages
+   

@@ -1,0 +1,14 @@
+pyrogram.raw.base.smsjobs
+=========================
+
+.. automodule:: pyrogram.raw.base.smsjobs
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   eligibility_to_join
+   status

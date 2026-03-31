@@ -1,0 +1,12 @@
+pyrogram.raw.base.recent\_story
+===============================
+
+.. automodule:: pyrogram.raw.base.recent_story
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RecentStory
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_stars\_transaction
+===========================================
+
+.. automodule:: pyrogram.raw.base.input_stars_transaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStarsTransaction
+   

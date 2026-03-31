@@ -1,0 +1,20 @@
+pyrogram.raw.types.updates
+==========================
+
+.. automodule:: pyrogram.raw.types.updates
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   channel_difference
+   channel_difference_empty
+   channel_difference_too_long
+   difference
+   difference_empty
+   difference_slice
+   difference_too_long
+   state

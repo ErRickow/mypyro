@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_group\_call
+====================================
+
+.. automodule:: pyrogram.raw.base.input_group_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputGroupCall
+   

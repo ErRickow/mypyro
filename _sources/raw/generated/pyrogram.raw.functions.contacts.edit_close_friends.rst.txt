@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.edit\_close\_friends
+====================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.edit_close_friends
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditCloseFriends
+   

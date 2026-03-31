@@ -1,0 +1,12 @@
+pyrogram.raw.base.requested\_peer
+=================================
+
+.. automodule:: pyrogram.raw.base.requested_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequestedPeer
+   

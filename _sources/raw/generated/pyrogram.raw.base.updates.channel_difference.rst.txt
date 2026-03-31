@@ -1,0 +1,12 @@
+pyrogram.raw.base.updates.channel\_difference
+=============================================
+
+.. automodule:: pyrogram.raw.base.updates.channel_difference
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelDifference
+   

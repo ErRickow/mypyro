@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stickers.change\_sticker\_position
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.stickers.change_sticker_position
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChangeStickerPosition
+   

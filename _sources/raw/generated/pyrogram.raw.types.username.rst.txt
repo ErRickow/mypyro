@@ -1,0 +1,12 @@
+pyrogram.raw.types.username
+===========================
+
+.. automodule:: pyrogram.raw.types.username
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Username
+   

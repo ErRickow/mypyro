@@ -1,0 +1,12 @@
+pyrogram.raw.types.bot\_app\_not\_modified
+==========================================
+
+.. automodule:: pyrogram.raw.types.bot_app_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotAppNotModified
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.channel\_admin\_log\_event
+============================================
+
+.. automodule:: pyrogram.raw.base.channel_admin_log_event
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEvent
+   

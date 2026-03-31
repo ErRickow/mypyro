@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_fact\_check
+================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_fact_check
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetFactCheck
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.prepared\_inline\_message
+====================================================
+
+.. automodule:: pyrogram.raw.base.messages.prepared_inline_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PreparedInlineMessage
+   

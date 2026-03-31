@@ -1,0 +1,42 @@
+pyrogram.raw.functions.bots
+===========================
+
+.. automodule:: pyrogram.raw.functions.bots
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   add_preview_media
+   allow_send_message
+   answer_webhook_json_query
+   can_send_message
+   check_download_file_params
+   delete_preview_media
+   edit_preview_media
+   get_admined_bots
+   get_bot_commands
+   get_bot_info
+   get_bot_menu_button
+   get_bot_recommendations
+   get_popular_app_bots
+   get_preview_info
+   get_preview_medias
+   invoke_web_view_custom_method
+   reorder_preview_medias
+   reorder_usernames
+   reset_bot_commands
+   send_custom_request
+   set_bot_broadcast_default_admin_rights
+   set_bot_commands
+   set_bot_group_default_admin_rights
+   set_bot_info
+   set_bot_menu_button
+   set_custom_verification
+   toggle_user_emoji_status_permission
+   toggle_username
+   update_star_ref_program
+   update_user_emoji_status

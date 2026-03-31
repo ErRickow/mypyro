@@ -1,0 +1,12 @@
+pyrogram.raw.functions.chatlists.hide\_chatlist\_updates
+========================================================
+
+.. automodule:: pyrogram.raw.functions.chatlists.hide_chatlist_updates
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      HideChatlistUpdates
+   

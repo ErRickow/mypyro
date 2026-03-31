@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_bot\_new\_business\_message
+======================================================
+
+.. automodule:: pyrogram.raw.types.update_bot_new_business_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBotNewBusinessMessage
+   

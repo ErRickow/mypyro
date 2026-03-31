@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.report\_encrypted\_spam
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.report_encrypted_spam
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportEncryptedSpam
+   

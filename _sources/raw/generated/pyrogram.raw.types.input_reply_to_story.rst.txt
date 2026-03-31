@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_reply\_to\_story
+==========================================
+
+.. automodule:: pyrogram.raw.types.input_reply_to_story
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputReplyToStory
+   

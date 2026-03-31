@@ -1,0 +1,12 @@
+pyrogram.raw.base.read\_participant\_date
+=========================================
+
+.. automodule:: pyrogram.raw.base.read_participant_date
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReadParticipantDate
+   

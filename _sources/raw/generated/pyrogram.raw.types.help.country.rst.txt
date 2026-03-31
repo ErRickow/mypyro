@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.country
+===============================
+
+.. automodule:: pyrogram.raw.types.help.country
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Country
+   

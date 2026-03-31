@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.get\_top\_peers
+===============================================
+
+.. automodule:: pyrogram.raw.functions.contacts.get_top_peers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetTopPeers
+   

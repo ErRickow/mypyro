@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.web\_page\_preview
+=============================================
+
+.. automodule:: pyrogram.raw.base.messages.web_page_preview
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebPagePreview
+   

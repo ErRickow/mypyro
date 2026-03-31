@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_secure\_value
+=================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_secure_value
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSecureValue
+   

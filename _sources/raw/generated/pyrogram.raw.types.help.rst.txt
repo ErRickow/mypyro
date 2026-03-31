@@ -1,0 +1,44 @@
+pyrogram.raw.types.help
+=======================
+
+.. automodule:: pyrogram.raw.types.help
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   app_config
+   app_config_not_modified
+   app_update
+   config_simple
+   countries_list
+   countries_list_not_modified
+   country
+   country_code
+   deep_link_info
+   deep_link_info_empty
+   invite_text
+   no_app_update
+   passport_config
+   passport_config_not_modified
+   peer_color_option
+   peer_color_profile_set
+   peer_color_set
+   peer_colors
+   peer_colors_not_modified
+   premium_promo
+   promo_data
+   promo_data_empty
+   recent_me_urls
+   support
+   support_name
+   terms_of_service
+   terms_of_service_update
+   terms_of_service_update_empty
+   timezones_list
+   timezones_list_not_modified
+   user_info
+   user_info_empty

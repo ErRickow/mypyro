@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_messages\_filter\_video
+=================================================
+
+.. automodule:: pyrogram.raw.types.input_messages_filter_video
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessagesFilterVideo
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.star\_gift\_auction\_user\_state
+==================================================
+
+.. automodule:: pyrogram.raw.base.star_gift_auction_user_state
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftAuctionUserState
+   

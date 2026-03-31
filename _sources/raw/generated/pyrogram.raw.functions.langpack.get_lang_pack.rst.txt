@@ -1,0 +1,12 @@
+pyrogram.raw.functions.langpack.get\_lang\_pack
+===============================================
+
+.. automodule:: pyrogram.raw.functions.langpack.get_lang_pack
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetLangPack
+   

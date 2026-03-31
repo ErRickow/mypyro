@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_kicker
+======================================
+
+.. automodule:: pyrogram.raw.types.page_block_kicker
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockKicker
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.search\_posts
+============================================
+
+.. automodule:: pyrogram.raw.functions.stories.search_posts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchPosts
+   

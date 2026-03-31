@@ -1,0 +1,12 @@
+pyrogram.raw.base.business\_location
+====================================
+
+.. automodule:: pyrogram.raw.base.business_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessLocation
+   

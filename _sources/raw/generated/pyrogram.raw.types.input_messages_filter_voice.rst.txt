@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_messages\_filter\_voice
+=================================================
+
+.. automodule:: pyrogram.raw.types.input_messages_filter_voice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessagesFilterVoice
+   

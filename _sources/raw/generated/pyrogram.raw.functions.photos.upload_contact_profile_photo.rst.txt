@@ -1,0 +1,12 @@
+pyrogram.raw.functions.photos.upload\_contact\_profile\_photo
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.photos.upload_contact_profile_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UploadContactProfilePhoto
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.suggested\_post
+==================================
+
+.. automodule:: pyrogram.raw.types.suggested_post
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SuggestedPost
+   

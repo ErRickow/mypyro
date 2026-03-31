@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_chat\_joined\_by\_request
+=============================================================
+
+.. automodule:: pyrogram.raw.types.message_action_chat_joined_by_request
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionChatJoinedByRequest
+   

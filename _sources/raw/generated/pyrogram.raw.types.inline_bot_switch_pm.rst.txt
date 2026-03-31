@@ -1,0 +1,12 @@
+pyrogram.raw.types.inline\_bot\_switch\_pm
+==========================================
+
+.. automodule:: pyrogram.raw.types.inline_bot_switch_pm
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineBotSwitchPM
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.get\_channels
+=============================================
+
+.. automodule:: pyrogram.raw.functions.channels.get_channels
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChannels
+   

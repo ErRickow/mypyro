@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.toggle\_star\_gifts\_pinned\_to\_top
+====================================================================
+
+.. automodule:: pyrogram.raw.functions.payments.toggle_star_gifts_pinned_to_top
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleStarGiftsPinnedToTop
+   

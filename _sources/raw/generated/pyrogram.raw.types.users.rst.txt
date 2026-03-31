@@ -1,0 +1,17 @@
+pyrogram.raw.types.users
+========================
+
+.. automodule:: pyrogram.raw.types.users
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   saved_music
+   saved_music_not_modified
+   user_full
+   users
+   users_slice

@@ -1,0 +1,12 @@
+pyrogram.raw.types.dh\_gen\_fail
+================================
+
+.. automodule:: pyrogram.raw.types.dh_gen_fail
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DhGenFail
+   

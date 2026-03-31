@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.refund\_stars\_charge
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.payments.refund_stars_charge
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RefundStarsCharge
+   

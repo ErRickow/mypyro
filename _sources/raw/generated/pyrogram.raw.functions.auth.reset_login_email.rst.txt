@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.reset\_login\_email
+===============================================
+
+.. automodule:: pyrogram.raw.functions.auth.reset_login_email
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResetLoginEmail
+   

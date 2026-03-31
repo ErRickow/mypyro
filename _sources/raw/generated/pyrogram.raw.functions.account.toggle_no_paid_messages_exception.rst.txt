@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.toggle\_no\_paid\_messages\_exception
+====================================================================
+
+.. automodule:: pyrogram.raw.functions.account.toggle_no_paid_messages_exception
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleNoPaidMessagesException
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_cdn\_config
+============================================
+
+.. automodule:: pyrogram.raw.functions.help.get_cdn_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetCdnConfig
+   

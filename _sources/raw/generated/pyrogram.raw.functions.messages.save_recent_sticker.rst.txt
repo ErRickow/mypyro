@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.save\_recent\_sticker
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.save_recent_sticker
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveRecentSticker
+   

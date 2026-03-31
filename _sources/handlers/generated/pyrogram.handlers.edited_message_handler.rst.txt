@@ -1,0 +1,12 @@
+pyrogram.handlers.edited\_message\_handler
+==========================================
+
+.. automodule:: pyrogram.handlers.edited_message_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditedMessageHandler
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.attach\_menu\_peer\_type\_broadcast
+======================================================
+
+.. automodule:: pyrogram.raw.types.attach_menu_peer_type_broadcast
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AttachMenuPeerTypeBroadcast
+   

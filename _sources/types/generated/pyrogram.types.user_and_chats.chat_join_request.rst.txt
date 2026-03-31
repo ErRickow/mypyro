@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.chat\_join\_request
+===================================================
+
+.. automodule:: pyrogram.types.user_and_chats.chat_join_request
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatJoinRequest
+   

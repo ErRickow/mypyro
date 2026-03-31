@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.app\_update
+===================================
+
+.. automodule:: pyrogram.raw.types.help.app_update
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AppUpdate
+   

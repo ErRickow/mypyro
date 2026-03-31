@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_default\_emoji\_statuses
+============================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_default_emoji_statuses
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDefaultEmojiStatuses
+   

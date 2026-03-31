@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.send\_media
+===========================================
+
+.. automodule:: pyrogram.raw.functions.messages.send_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendMedia
+   

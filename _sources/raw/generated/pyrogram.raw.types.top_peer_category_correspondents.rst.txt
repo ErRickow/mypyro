@@ -1,0 +1,12 @@
+pyrogram.raw.types.top\_peer\_category\_correspondents
+======================================================
+
+.. automodule:: pyrogram.raw.types.top_peer_category_correspondents
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TopPeerCategoryCorrespondents
+   

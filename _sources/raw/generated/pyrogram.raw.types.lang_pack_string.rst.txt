@@ -1,0 +1,12 @@
+pyrogram.raw.types.lang\_pack\_string
+=====================================
+
+.. automodule:: pyrogram.raw.types.lang_pack_string
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LangPackString
+   

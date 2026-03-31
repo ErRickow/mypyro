@@ -1,0 +1,12 @@
+pyrogram.raw.types.media\_area\_star\_gift
+==========================================
+
+.. automodule:: pyrogram.raw.types.media_area_star_gift
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MediaAreaStarGift
+   

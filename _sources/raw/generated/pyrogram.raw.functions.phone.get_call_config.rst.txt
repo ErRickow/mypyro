@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.get\_call\_config
+==============================================
+
+.. automodule:: pyrogram.raw.functions.phone.get_call_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetCallConfig
+   

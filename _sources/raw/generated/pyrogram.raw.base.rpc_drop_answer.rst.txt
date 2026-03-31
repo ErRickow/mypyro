@@ -1,0 +1,12 @@
+pyrogram.raw.base.rpc\_drop\_answer
+===================================
+
+.. automodule:: pyrogram.raw.base.rpc_drop_answer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RpcDropAnswer
+   

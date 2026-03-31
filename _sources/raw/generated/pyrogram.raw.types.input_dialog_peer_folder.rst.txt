@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_dialog\_peer\_folder
+==============================================
+
+.. automodule:: pyrogram.raw.types.input_dialog_peer_folder
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputDialogPeerFolder
+   

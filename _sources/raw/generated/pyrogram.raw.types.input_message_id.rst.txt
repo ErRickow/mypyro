@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_message\_id
+=====================================
+
+.. automodule:: pyrogram.raw.types.input_message_id
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessageID
+   

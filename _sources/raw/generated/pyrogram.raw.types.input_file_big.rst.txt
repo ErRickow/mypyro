@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_file\_big
+===================================
+
+.. automodule:: pyrogram.raw.types.input_file_big
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputFileBig
+   

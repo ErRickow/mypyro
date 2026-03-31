@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.import\_bot\_authorization
+======================================================
+
+.. automodule:: pyrogram.raw.functions.auth.import_bot_authorization
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ImportBotAuthorization
+   

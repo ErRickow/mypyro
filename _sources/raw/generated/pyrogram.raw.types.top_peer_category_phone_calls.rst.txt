@@ -1,0 +1,12 @@
+pyrogram.raw.types.top\_peer\_category\_phone\_calls
+====================================================
+
+.. automodule:: pyrogram.raw.types.top_peer_category_phone_calls
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TopPeerCategoryPhoneCalls
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.read\_stories
+============================================
+
+.. automodule:: pyrogram.raw.functions.stories.read_stories
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReadStories
+   

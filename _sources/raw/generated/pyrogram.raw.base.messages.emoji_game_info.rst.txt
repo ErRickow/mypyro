@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.emoji\_game\_info
+============================================
+
+.. automodule:: pyrogram.raw.base.messages.emoji_game_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiGameInfo
+   

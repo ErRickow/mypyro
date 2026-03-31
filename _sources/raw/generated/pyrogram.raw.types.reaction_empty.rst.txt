@@ -1,0 +1,12 @@
+pyrogram.raw.types.reaction\_empty
+==================================
+
+.. automodule:: pyrogram.raw.types.reaction_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReactionEmpty
+   

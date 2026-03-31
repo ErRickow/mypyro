@@ -1,0 +1,14 @@
+pyrogram.types.input\_message\_content
+======================================
+
+.. automodule:: pyrogram.types.input_message_content
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   input_message_content
+   input_text_message_content

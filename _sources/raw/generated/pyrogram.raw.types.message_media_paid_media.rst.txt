@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_paid\_media
+==============================================
+
+.. automodule:: pyrogram.raw.types.message_media_paid_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaPaidMedia
+   

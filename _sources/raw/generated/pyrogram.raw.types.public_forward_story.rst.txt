@@ -1,0 +1,12 @@
+pyrogram.raw.types.public\_forward\_story
+=========================================
+
+.. automodule:: pyrogram.raw.types.public_forward_story
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PublicForwardStory
+   

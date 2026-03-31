@@ -1,0 +1,12 @@
+pyrogram.raw.types.email\_verify\_purpose\_passport
+===================================================
+
+.. automodule:: pyrogram.raw.types.email_verify_purpose_passport
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmailVerifyPurposePassport
+   

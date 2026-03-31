@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.stars\_status
+========================================
+
+.. automodule:: pyrogram.raw.base.payments.stars_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsStatus
+   

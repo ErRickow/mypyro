@@ -1,0 +1,12 @@
+pyrogram.raw.types.emoji\_group\_premium
+========================================
+
+.. automodule:: pyrogram.raw.types.emoji_group_premium
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiGroupPremium
+   

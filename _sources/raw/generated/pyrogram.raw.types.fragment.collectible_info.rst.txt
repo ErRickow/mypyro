@@ -1,0 +1,12 @@
+pyrogram.raw.types.fragment.collectible\_info
+=============================================
+
+.. automodule:: pyrogram.raw.types.fragment.collectible_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CollectibleInfo
+   

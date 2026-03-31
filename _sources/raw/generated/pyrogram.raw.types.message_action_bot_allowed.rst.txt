@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_bot\_allowed
+================================================
+
+.. automodule:: pyrogram.raw.types.message_action_bot_allowed
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionBotAllowed
+   

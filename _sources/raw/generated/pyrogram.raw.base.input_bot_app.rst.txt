@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_bot\_app
+=================================
+
+.. automodule:: pyrogram.raw.base.input_bot_app
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputBotApp
+   

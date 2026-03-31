@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.emoji\_groups
+========================================
+
+.. automodule:: pyrogram.raw.base.messages.emoji_groups
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiGroups
+   

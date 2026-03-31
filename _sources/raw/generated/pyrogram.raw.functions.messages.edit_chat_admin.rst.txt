@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.edit\_chat\_admin
+=================================================
+
+.. automodule:: pyrogram.raw.functions.messages.edit_chat_admin
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditChatAdmin
+   

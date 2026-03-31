@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_video\_stream
+================================================
+
+.. automodule:: pyrogram.raw.types.message_media_video_stream
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaVideoStream
+   

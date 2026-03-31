@@ -1,0 +1,12 @@
+pyrogram.raw.types.recent\_me\_url\_unknown
+===========================================
+
+.. automodule:: pyrogram.raw.types.recent_me_url_unknown
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RecentMeUrlUnknown
+   

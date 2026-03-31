@@ -1,0 +1,12 @@
+pyrogram.raw.types.chat\_invite\_peek
+=====================================
+
+.. automodule:: pyrogram.raw.types.chat_invite_peek
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatInvitePeek
+   

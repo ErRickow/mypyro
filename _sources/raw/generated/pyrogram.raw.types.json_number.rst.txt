@@ -1,0 +1,12 @@
+pyrogram.raw.types.json\_number
+===============================
+
+.. automodule:: pyrogram.raw.types.json_number
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JsonNumber
+   

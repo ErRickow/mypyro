@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.toggle\_forum
+=============================================
+
+.. automodule:: pyrogram.raw.functions.channels.toggle_forum
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleForum
+   

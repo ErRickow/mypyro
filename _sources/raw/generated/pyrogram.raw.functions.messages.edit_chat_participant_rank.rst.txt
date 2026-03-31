@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.edit\_chat\_participant\_rank
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.edit_chat_participant_rank
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditChatParticipantRank
+   

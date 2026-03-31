@@ -1,0 +1,12 @@
+pyrogram.raw.base.pending\_suggestion
+=====================================
+
+.. automodule:: pyrogram.raw.base.pending_suggestion
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PendingSuggestion
+   

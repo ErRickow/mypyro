@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_rental\_agreement
+=========================================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_rental_agreement
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypeRentalAgreement
+   

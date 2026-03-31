@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_unsupported
+==============================================
+
+.. automodule:: pyrogram.raw.types.message_media_unsupported
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaUnsupported
+   

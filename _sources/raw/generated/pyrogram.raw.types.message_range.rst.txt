@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_range
+=================================
+
+.. automodule:: pyrogram.raw.types.message_range
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageRange
+   

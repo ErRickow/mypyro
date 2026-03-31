@@ -1,0 +1,12 @@
+pyrogram.raw.base.exported\_contact\_token
+==========================================
+
+.. automodule:: pyrogram.raw.base.exported_contact_token
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportedContactToken
+   

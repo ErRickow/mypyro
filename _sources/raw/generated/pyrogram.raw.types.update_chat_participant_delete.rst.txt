@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_chat\_participant\_delete
+====================================================
+
+.. automodule:: pyrogram.raw.types.update_chat_participant_delete
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateChatParticipantDelete
+   

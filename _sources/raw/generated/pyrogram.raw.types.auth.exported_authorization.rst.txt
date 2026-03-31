@@ -1,0 +1,12 @@
+pyrogram.raw.types.auth.exported\_authorization
+===============================================
+
+.. automodule:: pyrogram.raw.types.auth.exported_authorization
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportedAuthorization
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.toggle\_top\_peers
+==================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.toggle_top_peers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleTopPeers
+   

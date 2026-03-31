@@ -1,0 +1,12 @@
+pyrogram.raw.base.group\_call
+=============================
+
+.. automodule:: pyrogram.raw.base.group_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GroupCall
+   

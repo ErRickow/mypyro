@@ -1,0 +1,12 @@
+pyrogram.raw.types.report\_result\_add\_comment
+===============================================
+
+.. automodule:: pyrogram.raw.types.report_result_add_comment
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportResultAddComment
+   

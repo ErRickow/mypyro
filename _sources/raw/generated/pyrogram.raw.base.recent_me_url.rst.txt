@@ -1,0 +1,12 @@
+pyrogram.raw.base.recent\_me\_url
+=================================
+
+.. automodule:: pyrogram.raw.base.recent_me_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RecentMeUrl
+   

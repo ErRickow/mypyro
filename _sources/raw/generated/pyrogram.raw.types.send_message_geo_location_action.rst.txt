@@ -1,0 +1,12 @@
+pyrogram.raw.types.send\_message\_geo\_location\_action
+=======================================================
+
+.. automodule:: pyrogram.raw.types.send_message_geo_location_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendMessageGeoLocationAction
+   

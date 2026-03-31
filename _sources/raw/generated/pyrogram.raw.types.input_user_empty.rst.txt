@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_user\_empty
+=====================================
+
+.. automodule:: pyrogram.raw.types.input_user_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputUserEmpty
+   

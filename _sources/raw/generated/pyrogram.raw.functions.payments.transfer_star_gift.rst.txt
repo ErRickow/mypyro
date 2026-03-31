@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.transfer\_star\_gift
+====================================================
+
+.. automodule:: pyrogram.raw.functions.payments.transfer_star_gift
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TransferStarGift
+   

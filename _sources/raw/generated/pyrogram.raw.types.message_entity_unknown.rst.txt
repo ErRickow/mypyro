@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_unknown
+===========================================
+
+.. automodule:: pyrogram.raw.types.message_entity_unknown
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityUnknown
+   

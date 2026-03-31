@@ -1,0 +1,12 @@
+pyrogram.raw.types.business\_weekly\_open
+=========================================
+
+.. automodule:: pyrogram.raw.types.business_weekly_open
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessWeeklyOpen
+   

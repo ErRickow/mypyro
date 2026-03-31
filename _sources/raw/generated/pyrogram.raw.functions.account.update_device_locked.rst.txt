@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_device\_locked
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.account.update_device_locked
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateDeviceLocked
+   

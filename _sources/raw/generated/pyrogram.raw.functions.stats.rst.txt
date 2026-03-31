@@ -1,0 +1,19 @@
+pyrogram.raw.functions.stats
+============================
+
+.. automodule:: pyrogram.raw.functions.stats
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   get_broadcast_stats
+   get_megagroup_stats
+   get_message_public_forwards
+   get_message_stats
+   get_story_public_forwards
+   get_story_stats
+   load_async_graph

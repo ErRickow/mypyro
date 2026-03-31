@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.export\_authorization
+=================================================
+
+.. automodule:: pyrogram.raw.functions.auth.export_authorization
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ExportAuthorization
+   

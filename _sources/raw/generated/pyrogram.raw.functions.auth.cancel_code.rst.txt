@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.cancel\_code
+========================================
+
+.. automodule:: pyrogram.raw.functions.auth.cancel_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CancelCode
+   

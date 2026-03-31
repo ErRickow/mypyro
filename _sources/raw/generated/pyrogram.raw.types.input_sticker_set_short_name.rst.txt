@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_sticker\_set\_short\_name
+===================================================
+
+.. automodule:: pyrogram.raw.types.input_sticker_set_short_name
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetShortName
+   

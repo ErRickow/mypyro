@@ -1,0 +1,17 @@
+pyrogram.raw.functions.premium
+==============================
+
+.. automodule:: pyrogram.raw.functions.premium
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   apply_boost
+   get_boosts_list
+   get_boosts_status
+   get_my_boosts
+   get_user_boosts

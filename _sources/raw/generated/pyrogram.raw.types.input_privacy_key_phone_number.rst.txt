@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_privacy\_key\_phone\_number
+=====================================================
+
+.. automodule:: pyrogram.raw.types.input_privacy_key_phone_number
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPrivacyKeyPhoneNumber
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_collectible\_phone
+============================================
+
+.. automodule:: pyrogram.raw.types.input_collectible_phone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputCollectiblePhone
+   

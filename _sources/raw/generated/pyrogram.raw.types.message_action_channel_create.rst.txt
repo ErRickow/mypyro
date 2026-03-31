@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_channel\_create
+===================================================
+
+.. automodule:: pyrogram.raw.types.message_action_channel_create
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionChannelCreate
+   

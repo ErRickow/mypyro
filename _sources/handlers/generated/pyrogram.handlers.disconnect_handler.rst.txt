@@ -1,0 +1,12 @@
+pyrogram.handlers.disconnect\_handler
+=====================================
+
+.. automodule:: pyrogram.handlers.disconnect_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DisconnectHandler
+   

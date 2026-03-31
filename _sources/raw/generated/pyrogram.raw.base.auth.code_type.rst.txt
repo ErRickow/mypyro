@@ -1,0 +1,12 @@
+pyrogram.raw.base.auth.code\_type
+=================================
+
+.. automodule:: pyrogram.raw.base.auth.code_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CodeType
+   

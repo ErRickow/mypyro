@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.get\_contact\_i\_ds
+===================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.get_contact_i_ds
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetContactIDs
+   

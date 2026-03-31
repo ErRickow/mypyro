@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.faved\_stickers
+==========================================
+
+.. automodule:: pyrogram.raw.base.messages.faved_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FavedStickers
+   

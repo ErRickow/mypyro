@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.hide\_all\_chat\_join\_requests
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.hide_all_chat_join_requests
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      HideAllChatJoinRequests
+   

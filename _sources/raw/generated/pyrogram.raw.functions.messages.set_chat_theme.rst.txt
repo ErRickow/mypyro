@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.set\_chat\_theme
+================================================
+
+.. automodule:: pyrogram.raw.functions.messages.set_chat_theme
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetChatTheme
+   

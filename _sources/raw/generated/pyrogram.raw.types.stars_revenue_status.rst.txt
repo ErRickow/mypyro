@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_revenue\_status
+=========================================
+
+.. automodule:: pyrogram.raw.types.stars_revenue_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsRevenueStatus
+   

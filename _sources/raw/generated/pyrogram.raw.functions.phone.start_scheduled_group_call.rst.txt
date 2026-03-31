@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.start\_scheduled\_group\_call
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.phone.start_scheduled_group_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StartScheduledGroupCall
+   

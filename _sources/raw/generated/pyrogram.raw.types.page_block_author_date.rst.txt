@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_author\_date
+============================================
+
+.. automodule:: pyrogram.raw.types.page_block_author_date
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockAuthorDate
+   

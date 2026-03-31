@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.report\_missing\_code
+=================================================
+
+.. automodule:: pyrogram.raw.functions.auth.report_missing_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportMissingCode
+   

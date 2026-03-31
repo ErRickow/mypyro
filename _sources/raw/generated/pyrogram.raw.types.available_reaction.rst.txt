@@ -1,0 +1,12 @@
+pyrogram.raw.types.available\_reaction
+======================================
+
+.. automodule:: pyrogram.raw.types.available_reaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AvailableReaction
+   

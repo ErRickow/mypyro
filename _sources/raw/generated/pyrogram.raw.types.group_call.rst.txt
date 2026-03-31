@@ -1,0 +1,12 @@
+pyrogram.raw.types.group\_call
+==============================
+
+.. automodule:: pyrogram.raw.types.group_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GroupCall
+   

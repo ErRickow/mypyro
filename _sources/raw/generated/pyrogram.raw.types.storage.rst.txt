@@ -1,0 +1,22 @@
+pyrogram.raw.types.storage
+==========================
+
+.. automodule:: pyrogram.raw.types.storage
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   file_gif
+   file_jpeg
+   file_mov
+   file_mp3
+   file_mp4
+   file_partial
+   file_pdf
+   file_png
+   file_unknown
+   file_webp

@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.chat\_privileges
+================================================
+
+.. automodule:: pyrogram.types.user_and_chats.chat_privileges
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatPrivileges
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.storage.file\_partial
+========================================
+
+.. automodule:: pyrogram.raw.types.storage.file_partial
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FilePartial
+   

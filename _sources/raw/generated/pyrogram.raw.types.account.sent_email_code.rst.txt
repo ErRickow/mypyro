@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.sent\_email\_code
+============================================
+
+.. automodule:: pyrogram.raw.types.account.sent_email_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SentEmailCode
+   

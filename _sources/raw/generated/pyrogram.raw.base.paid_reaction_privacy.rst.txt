@@ -1,0 +1,12 @@
+pyrogram.raw.base.paid\_reaction\_privacy
+=========================================
+
+.. automodule:: pyrogram.raw.base.paid_reaction_privacy
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PaidReactionPrivacy
+   

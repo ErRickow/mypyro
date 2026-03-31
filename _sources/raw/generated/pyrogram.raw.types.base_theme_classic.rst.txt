@@ -1,0 +1,12 @@
+pyrogram.raw.types.base\_theme\_classic
+=======================================
+
+.. automodule:: pyrogram.raw.types.base_theme_classic
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BaseThemeClassic
+   

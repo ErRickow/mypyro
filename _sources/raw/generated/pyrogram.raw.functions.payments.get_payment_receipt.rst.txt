@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_payment\_receipt
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_payment_receipt
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPaymentReceipt
+   

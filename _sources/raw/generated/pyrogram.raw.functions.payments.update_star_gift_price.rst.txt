@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.update\_star\_gift\_price
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.payments.update_star_gift_price
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateStarGiftPrice
+   

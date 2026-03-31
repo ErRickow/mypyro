@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.toggle\_all\_stories\_hidden
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.stories.toggle_all_stories_hidden
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleAllStoriesHidden
+   

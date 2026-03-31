@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_contact\_sign\_up
+=====================================================
+
+.. automodule:: pyrogram.raw.types.message_action_contact_sign_up
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionContactSignUp
+   

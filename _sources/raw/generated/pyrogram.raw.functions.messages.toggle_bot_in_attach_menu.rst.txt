@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.toggle\_bot\_in\_attach\_menu
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.toggle_bot_in_attach_menu
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ToggleBotInAttachMenu
+   

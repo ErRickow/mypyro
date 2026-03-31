@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_theme\_slug
+=====================================
+
+.. automodule:: pyrogram.raw.types.input_theme_slug
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputThemeSlug
+   

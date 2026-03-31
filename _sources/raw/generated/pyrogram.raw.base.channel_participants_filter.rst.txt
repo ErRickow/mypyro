@@ -1,0 +1,12 @@
+pyrogram.raw.base.channel\_participants\_filter
+===============================================
+
+.. automodule:: pyrogram.raw.base.channel_participants_filter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelParticipantsFilter
+   

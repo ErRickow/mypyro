@@ -1,0 +1,12 @@
+pyrogram.raw.base.rich\_text
+============================
+
+.. automodule:: pyrogram.raw.base.rich_text
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RichText
+   

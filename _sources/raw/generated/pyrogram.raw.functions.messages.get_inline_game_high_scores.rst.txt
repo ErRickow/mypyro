@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_inline\_game\_high\_scores
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_inline_game_high_scores
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetInlineGameHighScores
+   

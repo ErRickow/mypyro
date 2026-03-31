@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_web\_view\_data\_sent
+=========================================================
+
+.. automodule:: pyrogram.raw.types.message_action_web_view_data_sent
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionWebViewDataSent
+   

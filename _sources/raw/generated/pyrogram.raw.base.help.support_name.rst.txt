@@ -1,0 +1,12 @@
+pyrogram.raw.base.help.support\_name
+====================================
+
+.. automodule:: pyrogram.raw.base.help.support_name
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SupportName
+   

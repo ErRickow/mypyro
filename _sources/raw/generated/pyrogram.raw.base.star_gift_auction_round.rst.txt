@@ -1,0 +1,12 @@
+pyrogram.raw.base.star\_gift\_auction\_round
+============================================
+
+.. automodule:: pyrogram.raw.base.star_gift_auction_round
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftAuctionRound
+   

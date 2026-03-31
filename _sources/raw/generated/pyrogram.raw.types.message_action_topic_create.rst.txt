@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_topic\_create
+=================================================
+
+.. automodule:: pyrogram.raw.types.message_action_topic_create
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionTopicCreate
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.delete\_quick\_reply\_messages
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.delete_quick_reply_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteQuickReplyMessages
+   

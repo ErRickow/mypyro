@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_stickered\_media\_document
+====================================================
+
+.. automodule:: pyrogram.raw.types.input_stickered_media_document
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickeredMediaDocument
+   

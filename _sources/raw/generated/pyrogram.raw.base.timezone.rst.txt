@@ -1,0 +1,12 @@
+pyrogram.raw.base.timezone
+==========================
+
+.. automodule:: pyrogram.raw.base.timezone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Timezone
+   

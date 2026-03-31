@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.search\_emoji\_sticker\_sets
+============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.search_emoji_sticker_sets
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchEmojiStickerSets
+   

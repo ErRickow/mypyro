@@ -1,0 +1,12 @@
+pyrogram.raw.types.sticker\_set\_no\_covered
+============================================
+
+.. automodule:: pyrogram.raw.types.sticker_set_no_covered
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StickerSetNoCovered
+   

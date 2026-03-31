@@ -1,0 +1,12 @@
+pyrogram.raw.base.updates.difference
+====================================
+
+.. automodule:: pyrogram.raw.base.updates.difference
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Difference
+   

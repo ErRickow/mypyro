@@ -1,0 +1,12 @@
+pyrogram.raw.types.request\_peer\_type\_chat
+============================================
+
+.. automodule:: pyrogram.raw.types.request_peer_type_chat
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequestPeerTypeChat
+   

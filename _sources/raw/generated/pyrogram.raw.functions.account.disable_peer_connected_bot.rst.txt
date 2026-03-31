@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.disable\_peer\_connected\_bot
+============================================================
+
+.. automodule:: pyrogram.raw.functions.account.disable_peer_connected_bot
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DisablePeerConnectedBot
+   

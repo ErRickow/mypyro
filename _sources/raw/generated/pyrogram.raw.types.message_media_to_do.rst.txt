@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_to\_do
+=========================================
+
+.. automodule:: pyrogram.raw.types.message_media_to_do
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaToDo
+   

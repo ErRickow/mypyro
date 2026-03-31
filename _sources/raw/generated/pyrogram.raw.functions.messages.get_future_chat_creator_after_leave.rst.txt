@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_future\_chat\_creator\_after\_leave
+========================================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_future_chat_creator_after_leave
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetFutureChatCreatorAfterLeave
+   

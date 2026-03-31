@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_quick\_replies
+===================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_quick_replies
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetQuickReplies
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_search\_counters
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_search_counters
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSearchCounters
+   

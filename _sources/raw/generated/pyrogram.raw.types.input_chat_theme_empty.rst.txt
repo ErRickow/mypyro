@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_chat\_theme\_empty
+============================================
+
+.. automodule:: pyrogram.raw.types.input_chat_theme_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputChatThemeEmpty
+   

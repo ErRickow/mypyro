@@ -1,0 +1,12 @@
+pyrogram.raw.types.url\_auth\_result\_accepted
+==============================================
+
+.. automodule:: pyrogram.raw.types.url_auth_result_accepted
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UrlAuthResultAccepted
+   

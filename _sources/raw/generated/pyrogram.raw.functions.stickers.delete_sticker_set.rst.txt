@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stickers.delete\_sticker\_set
+====================================================
+
+.. automodule:: pyrogram.raw.functions.stickers.delete_sticker_set
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteStickerSet
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.drop\_temp\_auth\_keys
+==================================================
+
+.. automodule:: pyrogram.raw.functions.auth.drop_temp_auth_keys
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DropTempAuthKeys
+   

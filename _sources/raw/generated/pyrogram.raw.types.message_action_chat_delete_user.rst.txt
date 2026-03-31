@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_chat\_delete\_user
+======================================================
+
+.. automodule:: pyrogram.raw.types.message_action_chat_delete_user
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionChatDeleteUser
+   

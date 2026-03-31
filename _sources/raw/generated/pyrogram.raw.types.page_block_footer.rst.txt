@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_footer
+======================================
+
+.. automodule:: pyrogram.raw.types.page_block_footer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockFooter
+   

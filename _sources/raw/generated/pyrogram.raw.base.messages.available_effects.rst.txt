@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.available\_effects
+=============================================
+
+.. automodule:: pyrogram.raw.base.messages.available_effects
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AvailableEffects
+   

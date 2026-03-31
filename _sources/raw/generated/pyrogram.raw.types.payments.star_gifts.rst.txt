@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.star\_gifts
+=======================================
+
+.. automodule:: pyrogram.raw.types.payments.star_gifts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGifts
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.accept\_contact
+===============================================
+
+.. automodule:: pyrogram.raw.functions.contacts.accept_contact
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AcceptContact
+   

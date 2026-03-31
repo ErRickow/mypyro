@@ -1,0 +1,12 @@
+pyrogram.raw.types.theme\_settings
+==================================
+
+.. automodule:: pyrogram.raw.types.theme_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ThemeSettings
+   

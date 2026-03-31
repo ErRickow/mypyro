@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats.megagroup\_stats
+=========================================
+
+.. automodule:: pyrogram.raw.types.stats.megagroup_stats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MegagroupStats
+   

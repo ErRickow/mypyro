@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.edit\_photo
+===========================================
+
+.. automodule:: pyrogram.raw.functions.channels.edit_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EditPhoto
+   

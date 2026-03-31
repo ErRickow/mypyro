@@ -1,0 +1,12 @@
+pyrogram.raw.base.received\_notify\_message
+===========================================
+
+.. automodule:: pyrogram.raw.base.received_notify_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReceivedNotifyMessage
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.text\_bold
+=============================
+
+.. automodule:: pyrogram.raw.types.text_bold
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextBold
+   

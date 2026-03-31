@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_pinned\_messages
+===========================================
+
+.. automodule:: pyrogram.raw.types.update_pinned_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdatePinnedMessages
+   

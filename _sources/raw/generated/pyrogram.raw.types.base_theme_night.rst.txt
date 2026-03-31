@@ -1,0 +1,12 @@
+pyrogram.raw.types.base\_theme\_night
+=====================================
+
+.. automodule:: pyrogram.raw.types.base_theme_night
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BaseThemeNight
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.code\_settings
+================================
+
+.. automodule:: pyrogram.raw.base.code_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CodeSettings
+   

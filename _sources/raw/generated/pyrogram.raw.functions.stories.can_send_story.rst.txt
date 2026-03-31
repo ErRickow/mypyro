@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.can\_send\_story
+===============================================
+
+.. automodule:: pyrogram.raw.functions.stories.can_send_story
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CanSendStory
+   

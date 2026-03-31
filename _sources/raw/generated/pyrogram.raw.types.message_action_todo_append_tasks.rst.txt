@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_todo\_append\_tasks
+=======================================================
+
+.. automodule:: pyrogram.raw.types.message_action_todo_append_tasks
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionTodoAppendTasks
+   

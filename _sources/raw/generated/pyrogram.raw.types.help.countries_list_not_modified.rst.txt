@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.countries\_list\_not\_modified
+======================================================
+
+.. automodule:: pyrogram.raw.types.help.countries_list_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CountriesListNotModified
+   

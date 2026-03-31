@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.invite\_to\_group\_call
+====================================================
+
+.. automodule:: pyrogram.raw.functions.phone.invite_to_group_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InviteToGroupCall
+   

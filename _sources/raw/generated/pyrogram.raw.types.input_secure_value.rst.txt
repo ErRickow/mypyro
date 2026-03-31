@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_secure\_value
+=======================================
+
+.. automodule:: pyrogram.raw.types.input_secure_value
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputSecureValue
+   

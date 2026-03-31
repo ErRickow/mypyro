@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.peer\_dialogs
+=========================================
+
+.. automodule:: pyrogram.raw.types.messages.peer_dialogs
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeerDialogs
+   

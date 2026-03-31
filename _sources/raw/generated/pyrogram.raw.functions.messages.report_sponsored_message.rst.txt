@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.report\_sponsored\_message
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.report_sponsored_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportSponsoredMessage
+   

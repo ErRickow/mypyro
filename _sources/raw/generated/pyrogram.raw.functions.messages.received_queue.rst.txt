@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.received\_queue
+===============================================
+
+.. automodule:: pyrogram.raw.functions.messages.received_queue
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReceivedQueue
+   

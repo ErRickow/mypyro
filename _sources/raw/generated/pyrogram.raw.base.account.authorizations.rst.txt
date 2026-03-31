@@ -1,0 +1,12 @@
+pyrogram.raw.base.account.authorizations
+========================================
+
+.. automodule:: pyrogram.raw.base.account.authorizations
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Authorizations
+   

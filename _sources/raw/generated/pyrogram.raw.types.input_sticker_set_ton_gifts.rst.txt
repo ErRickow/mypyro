@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_sticker\_set\_ton\_gifts
+==================================================
+
+.. automodule:: pyrogram.raw.types.input_sticker_set_ton_gifts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetTonGifts
+   

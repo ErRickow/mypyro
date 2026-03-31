@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_move\_sticker\_set\_to\_top
+======================================================
+
+.. automodule:: pyrogram.raw.types.update_move_sticker_set_to_top
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateMoveStickerSetToTop
+   

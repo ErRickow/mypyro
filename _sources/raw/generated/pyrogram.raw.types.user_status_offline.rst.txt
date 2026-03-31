@@ -1,0 +1,12 @@
+pyrogram.raw.types.user\_status\_offline
+========================================
+
+.. automodule:: pyrogram.raw.types.user_status_offline
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UserStatusOffline
+   

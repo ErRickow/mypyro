@@ -1,0 +1,12 @@
+pyrogram.raw.types.web\_document
+================================
+
+.. automodule:: pyrogram.raw.types.web_document
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebDocument
+   

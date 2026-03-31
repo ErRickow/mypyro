@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_timezones\_list
+================================================
+
+.. automodule:: pyrogram.raw.functions.help.get_timezones_list
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetTimezonesList
+   

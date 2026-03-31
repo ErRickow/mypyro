@@ -1,0 +1,12 @@
+pyrogram.raw.types.channels.sponsored\_message\_report\_result\_choose\_option
+==============================================================================
+
+.. automodule:: pyrogram.raw.types.channels.sponsored_message_report_result_choose_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SponsoredMessageReportResultChooseOption
+   

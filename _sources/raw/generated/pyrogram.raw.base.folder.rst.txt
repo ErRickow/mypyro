@@ -1,0 +1,12 @@
+pyrogram.raw.base.folder
+========================
+
+.. automodule:: pyrogram.raw.base.folder
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Folder
+   

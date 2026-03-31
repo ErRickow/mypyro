@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_search\_results\_calendar
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_search_results_calendar
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSearchResultsCalendar
+   

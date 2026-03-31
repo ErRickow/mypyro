@@ -1,0 +1,12 @@
+pyrogram.raw.types.my\_boost
+============================
+
+.. automodule:: pyrogram.raw.types.my_boost
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MyBoost
+   

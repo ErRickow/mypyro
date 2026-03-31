@@ -1,0 +1,12 @@
+pyrogram.raw.types.saved\_reaction\_tag
+=======================================
+
+.. automodule:: pyrogram.raw.types.saved_reaction_tag
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedReactionTag
+   

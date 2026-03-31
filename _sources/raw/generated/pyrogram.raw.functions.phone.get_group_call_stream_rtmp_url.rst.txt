@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.get\_group\_call\_stream\_rtmp\_url
+================================================================
+
+.. automodule:: pyrogram.raw.functions.phone.get_group_call_stream_rtmp_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetGroupCallStreamRtmpUrl
+   

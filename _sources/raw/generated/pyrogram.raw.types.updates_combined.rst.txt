@@ -1,0 +1,12 @@
+pyrogram.raw.types.updates\_combined
+====================================
+
+.. automodule:: pyrogram.raw.types.updates_combined
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdatesCombined
+   

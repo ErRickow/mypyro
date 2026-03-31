@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.update\_contact\_note
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.update_contact_note
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateContactNote
+   

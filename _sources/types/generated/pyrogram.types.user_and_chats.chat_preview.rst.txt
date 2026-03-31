@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.chat\_preview
+=============================================
+
+.. automodule:: pyrogram.types.user_and_chats.chat_preview
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatPreview
+   

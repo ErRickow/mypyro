@@ -1,0 +1,12 @@
+pyrogram.raw.functions.get\_future\_salts
+=========================================
+
+.. automodule:: pyrogram.raw.functions.get_future_salts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetFutureSalts
+   

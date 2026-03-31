@@ -1,0 +1,12 @@
+pyrogram.raw.types.document
+===========================
+
+.. automodule:: pyrogram.raw.types.document
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Document
+   

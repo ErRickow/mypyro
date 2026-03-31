@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_peer\_settings
+===================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_peer_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPeerSettings
+   

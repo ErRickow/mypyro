@@ -1,0 +1,12 @@
+pyrogram.raw.base.reaction
+==========================
+
+.. automodule:: pyrogram.raw.base.reaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Reaction
+   

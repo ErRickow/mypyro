@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_pin\_message
+================================================
+
+.. automodule:: pyrogram.raw.types.message_action_pin_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionPinMessage
+   

@@ -1,0 +1,19 @@
+pyrogram.raw.functions.users
+============================
+
+.. automodule:: pyrogram.raw.functions.users
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   get_full_user
+   get_requirements_to_contact
+   get_saved_music
+   get_saved_music_by_id
+   get_users
+   set_secure_value_errors
+   suggest_birthday

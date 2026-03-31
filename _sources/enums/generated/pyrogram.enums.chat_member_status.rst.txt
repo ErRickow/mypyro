@@ -1,0 +1,12 @@
+pyrogram.enums.chat\_member\_status
+===================================
+
+.. automodule:: pyrogram.enums.chat_member_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatMemberStatus
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_emoji\_keywords\_languages
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_emoji_keywords_languages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetEmojiKeywordsLanguages
+   

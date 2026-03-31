@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.chat\_admin\_with\_invite\_links
+================================================================
+
+.. automodule:: pyrogram.types.user_and_chats.chat_admin_with_invite_links
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatAdminWithInviteLinks
+   

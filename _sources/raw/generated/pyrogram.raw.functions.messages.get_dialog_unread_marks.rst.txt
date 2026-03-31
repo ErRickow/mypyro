@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_dialog\_unread\_marks
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_dialog_unread_marks
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDialogUnreadMarks
+   

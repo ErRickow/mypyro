@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_peer\_located
+========================================
+
+.. automodule:: pyrogram.raw.types.update_peer_located
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdatePeerLocated
+   

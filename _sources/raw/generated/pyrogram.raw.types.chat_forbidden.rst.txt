@@ -1,0 +1,12 @@
+pyrogram.raw.types.chat\_forbidden
+==================================
+
+.. automodule:: pyrogram.raw.types.chat_forbidden
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatForbidden
+   

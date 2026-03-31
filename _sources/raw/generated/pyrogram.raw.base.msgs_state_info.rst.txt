@@ -1,0 +1,12 @@
+pyrogram.raw.base.msgs\_state\_info
+===================================
+
+.. automodule:: pyrogram.raw.base.msgs_state_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MsgsStateInfo
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.saved\_phone\_contact
+========================================
+
+.. automodule:: pyrogram.raw.types.saved_phone_contact
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedPhoneContact
+   

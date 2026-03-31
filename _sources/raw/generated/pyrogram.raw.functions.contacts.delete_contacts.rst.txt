@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.delete\_contacts
+================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.delete_contacts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteContacts
+   

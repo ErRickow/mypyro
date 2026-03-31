@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.set\_discussion\_group
+======================================================
+
+.. automodule:: pyrogram.raw.functions.channels.set_discussion_group
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetDiscussionGroup
+   

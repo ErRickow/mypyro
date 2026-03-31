@@ -1,0 +1,12 @@
+pyrogram.raw.types.updates.difference\_empty
+============================================
+
+.. automodule:: pyrogram.raw.types.updates.difference_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DifferenceEmpty
+   

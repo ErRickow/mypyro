@@ -1,0 +1,77 @@
+pyrogram.raw.functions.payments
+===============================
+
+.. automodule:: pyrogram.raw.functions.payments
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   apply_gift_code
+   assign_app_store_transaction
+   assign_play_market_transaction
+   bot_cancel_stars_subscription
+   can_purchase_store
+   change_stars_subscription
+   check_can_send_gift
+   check_gift_code
+   clear_saved_info
+   connect_star_ref_bot
+   convert_star_gift
+   craft_star_gift
+   create_star_gift_collection
+   delete_star_gift_collection
+   edit_connected_star_ref_bot
+   export_invoice
+   fulfill_stars_subscription
+   get_bank_card_data
+   get_connected_star_ref_bot
+   get_connected_star_ref_bots
+   get_craft_star_gifts
+   get_giveaway_info
+   get_payment_form
+   get_payment_receipt
+   get_premium_gift_code_options
+   get_resale_star_gifts
+   get_saved_info
+   get_saved_star_gift
+   get_saved_star_gifts
+   get_star_gift_active_auctions
+   get_star_gift_auction_acquired_gifts
+   get_star_gift_auction_state
+   get_star_gift_collections
+   get_star_gift_upgrade_attributes
+   get_star_gift_upgrade_preview
+   get_star_gift_withdrawal_url
+   get_star_gifts
+   get_stars_gift_options
+   get_stars_giveaway_options
+   get_stars_revenue_ads_account_url
+   get_stars_revenue_stats
+   get_stars_revenue_withdrawal_url
+   get_stars_status
+   get_stars_subscriptions
+   get_stars_topup_options
+   get_stars_transactions
+   get_stars_transactions_by_id
+   get_suggested_star_ref_bots
+   get_unique_star_gift
+   get_unique_star_gift_value_info
+   launch_prepaid_giveaway
+   refund_stars_charge
+   reorder_star_gift_collections
+   resolve_star_gift_offer
+   save_star_gift
+   send_payment_form
+   send_star_gift_offer
+   send_stars_form
+   toggle_chat_star_gift_notifications
+   toggle_star_gifts_pinned_to_top
+   transfer_star_gift
+   update_star_gift_collection
+   update_star_gift_price
+   upgrade_star_gift
+   validate_requested_info

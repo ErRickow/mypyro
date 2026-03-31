@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.set\_bot\_updates\_status
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.help.set_bot_updates_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetBotUpdatesStatus
+   

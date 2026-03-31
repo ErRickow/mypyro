@@ -1,0 +1,12 @@
+pyrogram.raw.types.access\_point\_rule
+======================================
+
+.. automodule:: pyrogram.raw.types.access_point_rule
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AccessPointRule
+   

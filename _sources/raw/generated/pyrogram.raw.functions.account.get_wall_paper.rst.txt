@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_wall\_paper
+===============================================
+
+.. automodule:: pyrogram.raw.functions.account.get_wall_paper
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetWallPaper
+   

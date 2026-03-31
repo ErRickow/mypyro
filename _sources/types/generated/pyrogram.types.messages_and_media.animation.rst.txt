@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.animation
+=============================================
+
+.. automodule:: pyrogram.types.messages_and_media.animation
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Animation
+   

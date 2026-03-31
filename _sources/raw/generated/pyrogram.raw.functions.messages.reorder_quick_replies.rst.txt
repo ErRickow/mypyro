@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.reorder\_quick\_replies
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.reorder_quick_replies
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReorderQuickReplies
+   

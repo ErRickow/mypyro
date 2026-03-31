@@ -1,0 +1,12 @@
+pyrogram.raw.types.reply\_keyboard\_markup
+==========================================
+
+.. automodule:: pyrogram.raw.types.reply_keyboard_markup
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReplyKeyboardMarkup
+   

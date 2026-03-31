@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_dialog\_peer
+=====================================
+
+.. automodule:: pyrogram.raw.base.input_dialog_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputDialogPeer
+   

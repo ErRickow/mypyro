@@ -1,0 +1,12 @@
+pyrogram.raw.base.file\_hash
+============================
+
+.. automodule:: pyrogram.raw.base.file_hash
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileHash
+   

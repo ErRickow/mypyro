@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.report\_profile\_photo
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.account.report_profile_photo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportProfilePhoto
+   

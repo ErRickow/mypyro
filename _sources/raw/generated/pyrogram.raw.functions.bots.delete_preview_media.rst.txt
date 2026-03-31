@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.delete\_preview\_media
+==================================================
+
+.. automodule:: pyrogram.raw.functions.bots.delete_preview_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeletePreviewMedia
+   

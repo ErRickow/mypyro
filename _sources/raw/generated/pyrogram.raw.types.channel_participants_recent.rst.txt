@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_participants\_recent
+================================================
+
+.. automodule:: pyrogram.raw.types.channel_participants_recent
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelParticipantsRecent
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.media\_area\_coordinates
+===========================================
+
+.. automodule:: pyrogram.raw.types.media_area_coordinates
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MediaAreaCoordinates
+   

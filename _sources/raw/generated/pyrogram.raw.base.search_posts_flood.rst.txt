@@ -1,0 +1,12 @@
+pyrogram.raw.base.search\_posts\_flood
+======================================
+
+.. automodule:: pyrogram.raw.base.search_posts_flood
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchPostsFlood
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.reply\_keyboard\_hide
+========================================
+
+.. automodule:: pyrogram.raw.types.reply_keyboard_hide
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReplyKeyboardHide
+   

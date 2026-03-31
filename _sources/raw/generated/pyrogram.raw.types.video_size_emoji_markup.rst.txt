@@ -1,0 +1,12 @@
+pyrogram.raw.types.video\_size\_emoji\_markup
+=============================================
+
+.. automodule:: pyrogram.raw.types.video_size_emoji_markup
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VideoSizeEmojiMarkup
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.attach\_menu\_bots
+=====================================
+
+.. automodule:: pyrogram.raw.types.attach_menu_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AttachMenuBots
+   

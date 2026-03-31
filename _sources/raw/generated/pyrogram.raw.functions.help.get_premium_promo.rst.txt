@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_premium\_promo
+===============================================
+
+.. automodule:: pyrogram.raw.functions.help.get_premium_promo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPremiumPromo
+   

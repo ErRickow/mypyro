@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_related\_article
+=========================================
+
+.. automodule:: pyrogram.raw.types.page_related_article
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageRelatedArticle
+   

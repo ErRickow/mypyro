@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.save\_app\_log
+==========================================
+
+.. automodule:: pyrogram.raw.functions.help.save_app_log
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveAppLog
+   

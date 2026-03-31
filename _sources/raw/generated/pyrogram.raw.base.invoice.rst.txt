@@ -1,0 +1,12 @@
+pyrogram.raw.base.invoice
+=========================
+
+.. automodule:: pyrogram.raw.base.invoice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Invoice
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.set\_stickers
+=============================================
+
+.. automodule:: pyrogram.raw.functions.channels.set_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetStickers
+   

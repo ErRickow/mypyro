@@ -1,0 +1,12 @@
+pyrogram.raw.types.pq\_inner\_data
+==================================
+
+.. automodule:: pyrogram.raw.types.pq_inner_data
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PQInnerData
+   

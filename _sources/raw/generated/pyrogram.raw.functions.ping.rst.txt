@@ -1,0 +1,12 @@
+pyrogram.raw.functions.ping
+===========================
+
+.. automodule:: pyrogram.raw.functions.ping
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Ping
+   

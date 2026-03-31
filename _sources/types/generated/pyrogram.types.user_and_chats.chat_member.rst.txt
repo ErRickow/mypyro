@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.chat\_member
+============================================
+
+.. automodule:: pyrogram.types.user_and_chats.chat_member
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatMember
+   

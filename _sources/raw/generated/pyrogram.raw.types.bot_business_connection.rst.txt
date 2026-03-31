@@ -1,0 +1,12 @@
+pyrogram.raw.types.bot\_business\_connection
+============================================
+
+.. automodule:: pyrogram.raw.types.bot_business_connection
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotBusinessConnection
+   

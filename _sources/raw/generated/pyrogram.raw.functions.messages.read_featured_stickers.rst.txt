@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.read\_featured\_stickers
+========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.read_featured_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReadFeaturedStickers
+   

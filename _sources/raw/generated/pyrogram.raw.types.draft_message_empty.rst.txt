@@ -1,0 +1,12 @@
+pyrogram.raw.types.draft\_message\_empty
+========================================
+
+.. automodule:: pyrogram.raw.types.draft_message_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DraftMessageEmpty
+   

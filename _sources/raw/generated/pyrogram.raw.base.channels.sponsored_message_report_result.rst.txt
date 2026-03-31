@@ -1,0 +1,12 @@
+pyrogram.raw.base.channels.sponsored\_message\_report\_result
+=============================================================
+
+.. automodule:: pyrogram.raw.base.channels.sponsored_message_report_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SponsoredMessageReportResult
+   

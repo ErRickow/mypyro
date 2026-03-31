@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.get\_groups\_for\_discussion
+============================================================
+
+.. automodule:: pyrogram.raw.functions.channels.get_groups_for_discussion
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetGroupsForDiscussion
+   

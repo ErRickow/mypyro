@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_pinned\_forum\_topics
+================================================
+
+.. automodule:: pyrogram.raw.types.update_pinned_forum_topics
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdatePinnedForumTopics
+   

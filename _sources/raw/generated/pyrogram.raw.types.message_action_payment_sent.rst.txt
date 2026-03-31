@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_payment\_sent
+=================================================
+
+.. automodule:: pyrogram.raw.types.message_action_payment_sent
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionPaymentSent
+   

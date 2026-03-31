@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.update\_dialog\_filter
+======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.update_dialog_filter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateDialogFilter
+   

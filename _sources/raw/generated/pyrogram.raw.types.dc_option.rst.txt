@@ -1,0 +1,12 @@
+pyrogram.raw.types.dc\_option
+=============================
+
+.. automodule:: pyrogram.raw.types.dc_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DcOption
+   

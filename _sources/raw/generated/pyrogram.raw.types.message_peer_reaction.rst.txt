@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_peer\_reaction
+==========================================
+
+.. automodule:: pyrogram.raw.types.message_peer_reaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessagePeerReaction
+   

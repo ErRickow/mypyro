@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_bot\_delete\_business\_message
+=========================================================
+
+.. automodule:: pyrogram.raw.types.update_bot_delete_business_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBotDeleteBusinessMessage
+   

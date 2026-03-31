@@ -1,0 +1,12 @@
+pyrogram.raw.base.message\_reply\_header
+========================================
+
+.. automodule:: pyrogram.raw.base.message_reply_header
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageReplyHeader
+   

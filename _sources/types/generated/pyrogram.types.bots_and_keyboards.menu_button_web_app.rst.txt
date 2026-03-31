@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.menu\_button\_web\_app
+==========================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.menu_button_web_app
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MenuButtonWebApp
+   

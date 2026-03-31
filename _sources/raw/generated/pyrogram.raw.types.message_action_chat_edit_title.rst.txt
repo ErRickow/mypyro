@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_chat\_edit\_title
+=====================================================
+
+.. automodule:: pyrogram.raw.types.message_action_chat_edit_title
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionChatEditTitle
+   

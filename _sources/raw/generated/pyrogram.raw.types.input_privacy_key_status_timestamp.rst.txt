@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_privacy\_key\_status\_timestamp
+=========================================================
+
+.. automodule:: pyrogram.raw.types.input_privacy_key_status_timestamp
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPrivacyKeyStatusTimestamp
+   

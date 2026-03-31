@@ -1,0 +1,12 @@
+pyrogram.raw.base.stats\_graph
+==============================
+
+.. automodule:: pyrogram.raw.base.stats_graph
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsGraph
+   

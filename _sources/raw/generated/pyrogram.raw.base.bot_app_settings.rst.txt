@@ -1,0 +1,12 @@
+pyrogram.raw.base.bot\_app\_settings
+====================================
+
+.. automodule:: pyrogram.raw.base.bot_app_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotAppSettings
+   

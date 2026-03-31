@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.terms\_of\_service\_update\_empty
+=========================================================
+
+.. automodule:: pyrogram.raw.types.help.terms_of_service_update_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TermsOfServiceUpdateEmpty
+   

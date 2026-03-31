@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.votes\_list
+======================================
+
+.. automodule:: pyrogram.raw.base.messages.votes_list
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VotesList
+   

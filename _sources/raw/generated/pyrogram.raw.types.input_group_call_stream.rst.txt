@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_group\_call\_stream
+=============================================
+
+.. automodule:: pyrogram.raw.types.input_group_call_stream
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputGroupCallStream
+   

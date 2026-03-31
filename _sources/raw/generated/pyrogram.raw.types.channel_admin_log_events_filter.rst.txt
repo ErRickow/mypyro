@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_admin\_log\_events\_filter
+======================================================
+
+.. automodule:: pyrogram.raw.types.channel_admin_log_events_filter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEventsFilter
+   

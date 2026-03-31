@@ -1,0 +1,12 @@
+pyrogram.raw.base.contacts.resolved\_peer
+=========================================
+
+.. automodule:: pyrogram.raw.base.contacts.resolved_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResolvedPeer
+   

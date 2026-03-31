@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.set\_bot\_precheckout\_results
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.set_bot_precheckout_results
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetBotPrecheckoutResults
+   

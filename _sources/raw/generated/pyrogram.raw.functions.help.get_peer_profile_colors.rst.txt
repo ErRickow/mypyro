@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_peer\_profile\_colors
+======================================================
+
+.. automodule:: pyrogram.raw.functions.help.get_peer_profile_colors
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPeerProfileColors
+   

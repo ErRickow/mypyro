@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_privacy\_rule
+======================================
+
+.. automodule:: pyrogram.raw.base.input_privacy_rule
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPrivacyRule
+   

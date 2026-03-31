@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stickers.set\_sticker\_set\_thumb
+========================================================
+
+.. automodule:: pyrogram.raw.functions.stickers.set_sticker_set_thumb
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetStickerSetThumb
+   

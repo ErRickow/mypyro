@@ -1,0 +1,19 @@
+pyrogram.types.input\_media
+===========================
+
+.. automodule:: pyrogram.types.input_media
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   input_media
+   input_media_animation
+   input_media_audio
+   input_media_document
+   input_media_photo
+   input_media_video
+   input_phone_contact

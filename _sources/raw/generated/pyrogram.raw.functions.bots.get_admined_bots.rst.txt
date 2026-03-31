@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.get\_admined\_bots
+==============================================
+
+.. automodule:: pyrogram.raw.functions.bots.get_admined_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetAdminedBots
+   

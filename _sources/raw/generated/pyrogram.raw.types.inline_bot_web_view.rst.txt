@@ -1,0 +1,12 @@
+pyrogram.raw.types.inline\_bot\_web\_view
+=========================================
+
+.. automodule:: pyrogram.raw.types.inline_bot_web_view
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineBotWebView
+   

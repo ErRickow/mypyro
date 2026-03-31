@@ -1,0 +1,12 @@
+pyrogram.raw.types.photos.photos\_slice
+=======================================
+
+.. automodule:: pyrogram.raw.types.photos.photos_slice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhotosSlice
+   

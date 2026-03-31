@@ -1,0 +1,12 @@
+pyrogram.raw.types.reply\_keyboard\_force\_reply
+================================================
+
+.. automodule:: pyrogram.raw.types.reply_keyboard_force_reply
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReplyKeyboardForceReply
+   

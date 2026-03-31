@@ -1,0 +1,21 @@
+pyrogram.raw.base.auth
+======================
+
+.. automodule:: pyrogram.raw.base.auth
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   authorization
+   code_type
+   exported_authorization
+   logged_out
+   login_token
+   passkey_login_options
+   password_recovery
+   sent_code
+   sent_code_type

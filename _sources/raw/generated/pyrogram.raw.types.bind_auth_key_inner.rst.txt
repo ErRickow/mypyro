@@ -1,0 +1,12 @@
+pyrogram.raw.types.bind\_auth\_key\_inner
+=========================================
+
+.. automodule:: pyrogram.raw.types.bind_auth_key_inner
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BindAuthKeyInner
+   

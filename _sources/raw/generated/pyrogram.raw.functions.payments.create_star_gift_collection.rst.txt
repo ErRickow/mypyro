@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.create\_star\_gift\_collection
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.payments.create_star_gift_collection
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CreateStarGiftCollection
+   

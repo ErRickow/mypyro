@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_craft\_star\_gifts
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_craft_star_gifts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetCraftStarGifts
+   

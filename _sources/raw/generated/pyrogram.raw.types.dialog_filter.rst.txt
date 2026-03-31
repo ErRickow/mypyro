@@ -1,0 +1,12 @@
+pyrogram.raw.types.dialog\_filter
+=================================
+
+.. automodule:: pyrogram.raw.types.dialog_filter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DialogFilter
+   

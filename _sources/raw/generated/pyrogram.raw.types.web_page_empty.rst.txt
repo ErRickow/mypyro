@@ -1,0 +1,12 @@
+pyrogram.raw.types.web\_page\_empty
+===================================
+
+.. automodule:: pyrogram.raw.types.web_page_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebPageEmpty
+   

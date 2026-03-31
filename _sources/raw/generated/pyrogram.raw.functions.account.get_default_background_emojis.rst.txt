@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_default\_background\_emojis
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_default_background_emojis
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDefaultBackgroundEmojis
+   

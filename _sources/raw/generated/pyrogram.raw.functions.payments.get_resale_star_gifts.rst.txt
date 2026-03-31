@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_resale\_star\_gifts
+========================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_resale_star_gifts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetResaleStarGifts
+   

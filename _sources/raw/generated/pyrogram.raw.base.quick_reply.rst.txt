@@ -1,0 +1,12 @@
+pyrogram.raw.base.quick\_reply
+==============================
+
+.. automodule:: pyrogram.raw.base.quick_reply
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      QuickReply
+   

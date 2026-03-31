@@ -1,0 +1,12 @@
+pyrogram.raw.types.privacy\_key\_phone\_p2\_p
+=============================================
+
+.. automodule:: pyrogram.raw.types.privacy_key_phone_p2_p
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PrivacyKeyPhoneP2P
+   

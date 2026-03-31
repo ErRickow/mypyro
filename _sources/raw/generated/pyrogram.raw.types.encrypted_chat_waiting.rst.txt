@@ -1,0 +1,12 @@
+pyrogram.raw.types.encrypted\_chat\_waiting
+===========================================
+
+.. automodule:: pyrogram.raw.types.encrypted_chat_waiting
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EncryptedChatWaiting
+   

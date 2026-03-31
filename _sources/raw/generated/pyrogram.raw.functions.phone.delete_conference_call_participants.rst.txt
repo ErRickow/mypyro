@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.delete\_conference\_call\_participants
+===================================================================
+
+.. automodule:: pyrogram.raw.functions.phone.delete_conference_call_participants
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteConferenceCallParticipants
+   

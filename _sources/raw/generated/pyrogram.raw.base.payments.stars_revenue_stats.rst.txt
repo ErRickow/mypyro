@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.stars\_revenue\_stats
+================================================
+
+.. automodule:: pyrogram.raw.base.payments.stars_revenue_stats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsRevenueStats
+   

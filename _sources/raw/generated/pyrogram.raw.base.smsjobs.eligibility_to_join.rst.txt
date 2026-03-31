@@ -1,0 +1,12 @@
+pyrogram.raw.base.smsjobs.eligibility\_to\_join
+===============================================
+
+.. automodule:: pyrogram.raw.base.smsjobs.eligibility_to_join
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EligibilityToJoin
+   

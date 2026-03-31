@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_report\_reason\_personal\_details
+===========================================================
+
+.. automodule:: pyrogram.raw.types.input_report_reason_personal_details
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputReportReasonPersonalDetails
+   

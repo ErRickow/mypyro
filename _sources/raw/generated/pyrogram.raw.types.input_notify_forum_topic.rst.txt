@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_notify\_forum\_topic
+==============================================
+
+.. automodule:: pyrogram.raw.types.input_notify_forum_topic
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputNotifyForumTopic
+   

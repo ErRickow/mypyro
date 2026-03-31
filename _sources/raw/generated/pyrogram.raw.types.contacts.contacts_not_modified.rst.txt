@@ -1,0 +1,12 @@
+pyrogram.raw.types.contacts.contacts\_not\_modified
+===================================================
+
+.. automodule:: pyrogram.raw.types.contacts.contacts_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ContactsNotModified
+   

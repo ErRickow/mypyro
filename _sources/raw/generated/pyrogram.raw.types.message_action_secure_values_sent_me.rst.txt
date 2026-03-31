@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_secure\_values\_sent\_me
+============================================================
+
+.. automodule:: pyrogram.raw.types.message_action_secure_values_sent_me
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionSecureValuesSentMe
+   

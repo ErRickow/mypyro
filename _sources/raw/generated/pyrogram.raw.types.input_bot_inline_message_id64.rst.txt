@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_bot\_inline\_message\_id64
+====================================================
+
+.. automodule:: pyrogram.raw.types.input_bot_inline_message_id64
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputBotInlineMessageID64
+   

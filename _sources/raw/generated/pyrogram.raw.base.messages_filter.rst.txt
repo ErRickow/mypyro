@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages\_filter
+==================================
+
+.. automodule:: pyrogram.raw.base.messages_filter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessagesFilter
+   

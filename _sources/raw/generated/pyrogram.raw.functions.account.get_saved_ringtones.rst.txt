@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_saved\_ringtones
+====================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_saved_ringtones
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSavedRingtones
+   

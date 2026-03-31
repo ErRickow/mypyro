@@ -1,0 +1,12 @@
+pyrogram.raw.functions.upload.get\_cdn\_file
+============================================
+
+.. automodule:: pyrogram.raw.functions.upload.get_cdn_file
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetCdnFile
+   

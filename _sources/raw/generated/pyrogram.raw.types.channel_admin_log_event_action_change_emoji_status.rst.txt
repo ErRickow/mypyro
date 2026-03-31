@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_admin\_log\_event\_action\_change\_emoji\_status
+============================================================================
+
+.. automodule:: pyrogram.raw.types.channel_admin_log_event_action_change_emoji_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelAdminLogEventActionChangeEmojiStatus
+   

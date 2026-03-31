@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_email
+=============================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_email
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypeEmail
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_error\_selfie
+===============================================
+
+.. automodule:: pyrogram.raw.types.secure_value_error_selfie
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueErrorSelfie
+   

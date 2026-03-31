@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_invoice\_chat\_invite\_subscription
+=============================================================
+
+.. automodule:: pyrogram.raw.types.input_invoice_chat_invite_subscription
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputInvoiceChatInviteSubscription
+   

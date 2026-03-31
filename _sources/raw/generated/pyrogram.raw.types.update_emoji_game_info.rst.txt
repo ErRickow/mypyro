@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_emoji\_game\_info
+============================================
+
+.. automodule:: pyrogram.raw.types.update_emoji_game_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateEmojiGameInfo
+   

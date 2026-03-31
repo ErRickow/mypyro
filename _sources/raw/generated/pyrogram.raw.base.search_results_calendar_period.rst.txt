@@ -1,0 +1,12 @@
+pyrogram.raw.base.search\_results\_calendar\_period
+===================================================
+
+.. automodule:: pyrogram.raw.base.search_results_calendar_period
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchResultsCalendarPeriod
+   

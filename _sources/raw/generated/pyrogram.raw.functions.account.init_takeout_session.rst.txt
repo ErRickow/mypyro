@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.init\_takeout\_session
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.account.init_takeout_session
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InitTakeoutSession
+   

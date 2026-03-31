@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_bot\_inline\_send
+============================================
+
+.. automodule:: pyrogram.raw.types.update_bot_inline_send
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBotInlineSend
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.reorder\_pinned\_saved\_dialogs
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.reorder_pinned_saved_dialogs
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReorderPinnedSavedDialogs
+   

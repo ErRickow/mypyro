@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_group\_call
+===============================================
+
+.. automodule:: pyrogram.raw.types.message_action_group_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionGroupCall
+   

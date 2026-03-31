@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_star\_gift\_purchase\_offer\_declined
+=========================================================================
+
+.. automodule:: pyrogram.raw.types.message_action_star_gift_purchase_offer_declined
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionStarGiftPurchaseOfferDeclined
+   

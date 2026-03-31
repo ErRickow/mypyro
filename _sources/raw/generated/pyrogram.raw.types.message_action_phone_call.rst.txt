@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_phone\_call
+===============================================
+
+.. automodule:: pyrogram.raw.types.message_action_phone_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionPhoneCall
+   

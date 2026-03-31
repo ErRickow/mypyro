@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_embed
+=====================================
+
+.. automodule:: pyrogram.raw.types.page_block_embed
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockEmbed
+   

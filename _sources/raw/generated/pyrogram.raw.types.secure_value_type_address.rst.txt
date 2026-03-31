@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_address
+===============================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_address
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypeAddress
+   

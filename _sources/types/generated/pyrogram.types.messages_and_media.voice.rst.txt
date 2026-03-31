@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.voice
+=========================================
+
+.. automodule:: pyrogram.types.messages_and_media.voice
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Voice
+   

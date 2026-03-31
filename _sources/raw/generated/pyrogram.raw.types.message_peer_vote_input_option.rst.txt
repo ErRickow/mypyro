@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_peer\_vote\_input\_option
+=====================================================
+
+.. automodule:: pyrogram.raw.types.message_peer_vote_input_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessagePeerVoteInputOption
+   

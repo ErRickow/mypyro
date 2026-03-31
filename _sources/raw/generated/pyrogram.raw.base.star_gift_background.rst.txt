@@ -1,0 +1,12 @@
+pyrogram.raw.base.star\_gift\_background
+========================================
+
+.. automodule:: pyrogram.raw.base.star_gift_background
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarGiftBackground
+   

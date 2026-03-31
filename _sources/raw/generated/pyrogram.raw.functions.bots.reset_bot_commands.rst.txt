@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.reset\_bot\_commands
+================================================
+
+.. automodule:: pyrogram.raw.functions.bots.reset_bot_commands
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResetBotCommands
+   

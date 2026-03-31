@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_entity\_underline
+=============================================
+
+.. automodule:: pyrogram.raw.types.message_entity_underline
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEntityUnderline
+   

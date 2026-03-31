@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_stars\_giveaway\_options
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_stars_giveaway_options
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStarsGiveawayOptions
+   

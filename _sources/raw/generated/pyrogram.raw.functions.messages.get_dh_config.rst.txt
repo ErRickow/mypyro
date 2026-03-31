@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_dh\_config
+===============================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_dh_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDhConfig
+   

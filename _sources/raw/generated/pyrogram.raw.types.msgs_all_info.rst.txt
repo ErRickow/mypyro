@@ -1,0 +1,12 @@
+pyrogram.raw.types.msgs\_all\_info
+==================================
+
+.. automodule:: pyrogram.raw.types.msgs_all_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MsgsAllInfo
+   

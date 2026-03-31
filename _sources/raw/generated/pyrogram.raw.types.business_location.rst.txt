@@ -1,0 +1,12 @@
+pyrogram.raw.types.business\_location
+=====================================
+
+.. automodule:: pyrogram.raw.types.business_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessLocation
+   

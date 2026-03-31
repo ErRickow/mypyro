@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_action\_new\_creator\_pending
+=========================================================
+
+.. automodule:: pyrogram.raw.types.message_action_new_creator_pending
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageActionNewCreatorPending
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.payment\_receipt
+============================================
+
+.. automodule:: pyrogram.raw.types.payments.payment_receipt
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PaymentReceipt
+   

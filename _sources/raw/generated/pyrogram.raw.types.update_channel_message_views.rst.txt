@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_channel\_message\_views
+==================================================
+
+.. automodule:: pyrogram.raw.types.update_channel_message_views
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateChannelMessageViews
+   

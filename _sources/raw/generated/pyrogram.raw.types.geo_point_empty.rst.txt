@@ -1,0 +1,12 @@
+pyrogram.raw.types.geo\_point\_empty
+====================================
+
+.. automodule:: pyrogram.raw.types.geo_point_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GeoPointEmpty
+   

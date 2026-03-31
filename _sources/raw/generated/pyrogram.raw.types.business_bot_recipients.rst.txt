@@ -1,0 +1,12 @@
+pyrogram.raw.types.business\_bot\_recipients
+============================================
+
+.. automodule:: pyrogram.raw.types.business_bot_recipients
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessBotRecipients
+   

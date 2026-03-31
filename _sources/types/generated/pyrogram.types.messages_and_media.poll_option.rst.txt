@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.poll\_option
+================================================
+
+.. automodule:: pyrogram.types.messages_and_media.poll_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PollOption
+   

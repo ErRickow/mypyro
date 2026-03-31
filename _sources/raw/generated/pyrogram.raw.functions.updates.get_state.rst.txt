@@ -1,0 +1,12 @@
+pyrogram.raw.functions.updates.get\_state
+=========================================
+
+.. automodule:: pyrogram.raw.functions.updates.get_state
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetState
+   

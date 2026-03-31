@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_notify\_settings
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.account.update_notify_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateNotifySettings
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.disallowed\_gifts\_settings
+=============================================
+
+.. automodule:: pyrogram.raw.base.disallowed_gifts_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DisallowedGiftsSettings
+   

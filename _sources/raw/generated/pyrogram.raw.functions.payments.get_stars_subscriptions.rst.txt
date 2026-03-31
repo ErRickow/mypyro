@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_stars\_subscriptions
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_stars_subscriptions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStarsSubscriptions
+   

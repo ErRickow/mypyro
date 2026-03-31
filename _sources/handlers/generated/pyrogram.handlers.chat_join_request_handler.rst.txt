@@ -1,0 +1,12 @@
+pyrogram.handlers.chat\_join\_request\_handler
+==============================================
+
+.. automodule:: pyrogram.handlers.chat_join_request_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatJoinRequestHandler
+   

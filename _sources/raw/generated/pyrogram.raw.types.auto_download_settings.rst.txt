@@ -1,0 +1,12 @@
+pyrogram.raw.types.auto\_download\_settings
+===========================================
+
+.. automodule:: pyrogram.raw.types.auto_download_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AutoDownloadSettings
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.chats
+================================
+
+.. automodule:: pyrogram.raw.base.messages.chats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Chats
+   

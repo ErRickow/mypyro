@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_faved\_stickers
+==========================================
+
+.. automodule:: pyrogram.raw.types.update_faved_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateFavedStickers
+   

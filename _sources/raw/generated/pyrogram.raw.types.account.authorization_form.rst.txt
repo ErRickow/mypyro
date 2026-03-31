@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.authorization\_form
+==============================================
+
+.. automodule:: pyrogram.raw.types.account.authorization_form
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AuthorizationForm
+   

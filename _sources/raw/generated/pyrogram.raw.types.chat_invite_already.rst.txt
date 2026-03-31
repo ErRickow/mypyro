@@ -1,0 +1,12 @@
+pyrogram.raw.types.chat\_invite\_already
+========================================
+
+.. automodule:: pyrogram.raw.types.chat_invite_already
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatInviteAlready
+   

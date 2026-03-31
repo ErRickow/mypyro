@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_messages\_filter\_my\_mentions
+========================================================
+
+.. automodule:: pyrogram.raw.types.input_messages_filter_my_mentions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessagesFilterMyMentions
+   

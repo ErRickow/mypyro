@@ -1,0 +1,12 @@
+pyrogram.raw.types.media\_area\_suggested\_reaction
+===================================================
+
+.. automodule:: pyrogram.raw.types.media_area_suggested_reaction
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MediaAreaSuggestedReaction
+   

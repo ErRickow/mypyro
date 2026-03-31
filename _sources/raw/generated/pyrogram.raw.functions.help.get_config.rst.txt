@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_config
+=======================================
+
+.. automodule:: pyrogram.raw.functions.help.get_config
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetConfig
+   

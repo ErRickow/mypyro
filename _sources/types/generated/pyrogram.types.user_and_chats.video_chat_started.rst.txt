@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.video\_chat\_started
+====================================================
+
+.. automodule:: pyrogram.types.user_and_chats.video_chat_started
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VideoChatStarted
+   

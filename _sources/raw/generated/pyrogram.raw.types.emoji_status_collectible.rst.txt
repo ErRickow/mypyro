@@ -1,0 +1,12 @@
+pyrogram.raw.types.emoji\_status\_collectible
+=============================================
+
+.. automodule:: pyrogram.raw.types.emoji_status_collectible
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiStatusCollectible
+   

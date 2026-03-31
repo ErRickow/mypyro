@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_stars\_transactions
+========================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_stars_transactions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStarsTransactions
+   

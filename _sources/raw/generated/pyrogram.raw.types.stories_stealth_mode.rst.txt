@@ -1,0 +1,12 @@
+pyrogram.raw.types.stories\_stealth\_mode
+=========================================
+
+.. automodule:: pyrogram.raw.types.stories_stealth_mode
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StoriesStealthMode
+   

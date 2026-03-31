@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_history
+============================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_history
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetHistory
+   

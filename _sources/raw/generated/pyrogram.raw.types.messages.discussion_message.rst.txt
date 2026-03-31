@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.discussion\_message
+===============================================
+
+.. automodule:: pyrogram.raw.types.messages.discussion_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DiscussionMessage
+   

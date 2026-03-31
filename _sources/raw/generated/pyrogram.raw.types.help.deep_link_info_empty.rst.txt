@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.deep\_link\_info\_empty
+===============================================
+
+.. automodule:: pyrogram.raw.types.help.deep_link_info_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeepLinkInfoEmpty
+   

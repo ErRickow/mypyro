@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.discard\_call
+==========================================
+
+.. automodule:: pyrogram.raw.functions.phone.discard_call
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DiscardCall
+   

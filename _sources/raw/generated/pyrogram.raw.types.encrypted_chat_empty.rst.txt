@@ -1,0 +1,12 @@
+pyrogram.raw.types.encrypted\_chat\_empty
+=========================================
+
+.. automodule:: pyrogram.raw.types.encrypted_chat_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EncryptedChatEmpty
+   

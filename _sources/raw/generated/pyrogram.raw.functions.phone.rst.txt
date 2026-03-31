@@ -1,0 +1,55 @@
+pyrogram.raw.functions.phone
+============================
+
+.. automodule:: pyrogram.raw.functions.phone
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   accept_call
+   check_group_call
+   confirm_call
+   create_conference_call
+   create_group_call
+   decline_conference_call_invite
+   delete_conference_call_participants
+   delete_group_call_messages
+   delete_group_call_participant_messages
+   discard_call
+   discard_group_call
+   edit_group_call_participant
+   edit_group_call_title
+   export_group_call_invite
+   get_call_config
+   get_group_call
+   get_group_call_chain_blocks
+   get_group_call_join_as
+   get_group_call_stars
+   get_group_call_stream_channels
+   get_group_call_stream_rtmp_url
+   get_group_participants
+   invite_conference_call_participant
+   invite_to_group_call
+   join_group_call
+   join_group_call_presentation
+   leave_group_call
+   leave_group_call_presentation
+   received_call
+   request_call
+   save_call_debug
+   save_call_log
+   save_default_group_call_join_as
+   save_default_send_as
+   send_conference_call_broadcast
+   send_group_call_encrypted_message
+   send_group_call_message
+   send_signaling_data
+   set_call_rating
+   start_scheduled_group_call
+   toggle_group_call_record
+   toggle_group_call_settings
+   toggle_group_call_start_subscription

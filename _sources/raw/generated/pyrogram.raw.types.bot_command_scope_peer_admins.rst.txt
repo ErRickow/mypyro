@@ -1,0 +1,12 @@
+pyrogram.raw.types.bot\_command\_scope\_peer\_admins
+====================================================
+
+.. automodule:: pyrogram.raw.types.bot_command_scope_peer_admins
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotCommandScopePeerAdmins
+   

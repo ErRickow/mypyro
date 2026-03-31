@@ -1,0 +1,12 @@
+pyrogram.raw.types.web\_document\_no\_proxy
+===========================================
+
+.. automodule:: pyrogram.raw.types.web_document_no_proxy
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      WebDocumentNoProxy
+   

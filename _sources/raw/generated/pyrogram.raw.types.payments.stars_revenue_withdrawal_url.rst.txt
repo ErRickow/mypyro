@@ -1,0 +1,12 @@
+pyrogram.raw.types.payments.stars\_revenue\_withdrawal\_url
+===========================================================
+
+.. automodule:: pyrogram.raw.types.payments.stars_revenue_withdrawal_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsRevenueWithdrawalUrl
+   

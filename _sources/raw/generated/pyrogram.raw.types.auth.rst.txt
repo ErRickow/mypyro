@@ -1,0 +1,40 @@
+pyrogram.raw.types.auth
+=======================
+
+.. automodule:: pyrogram.raw.types.auth
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   authorization
+   authorization_sign_up_required
+   code_type_call
+   code_type_flash_call
+   code_type_fragment_sms
+   code_type_missed_call
+   code_type_sms
+   exported_authorization
+   logged_out
+   login_token
+   login_token_migrate_to
+   login_token_success
+   passkey_login_options
+   password_recovery
+   sent_code
+   sent_code_payment_required
+   sent_code_success
+   sent_code_type_app
+   sent_code_type_call
+   sent_code_type_email_code
+   sent_code_type_firebase_sms
+   sent_code_type_flash_call
+   sent_code_type_fragment_sms
+   sent_code_type_missed_call
+   sent_code_type_set_up_email_required
+   sent_code_type_sms
+   sent_code_type_sms_phrase
+   sent_code_type_sms_word

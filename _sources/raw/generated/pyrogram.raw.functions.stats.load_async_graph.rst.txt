@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stats.load\_async\_graph
+===============================================
+
+.. automodule:: pyrogram.raw.functions.stats.load_async_graph
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      LoadAsyncGraph
+   

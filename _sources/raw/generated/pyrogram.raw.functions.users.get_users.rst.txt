@@ -1,0 +1,12 @@
+pyrogram.raw.functions.users.get\_users
+=======================================
+
+.. automodule:: pyrogram.raw.functions.users.get_users
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetUsers
+   

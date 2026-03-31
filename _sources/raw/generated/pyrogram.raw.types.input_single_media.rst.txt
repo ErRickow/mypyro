@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_single\_media
+=======================================
+
+.. automodule:: pyrogram.raw.types.input_single_media
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputSingleMedia
+   

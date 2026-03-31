@@ -1,0 +1,12 @@
+pyrogram.raw.base.stories.peer\_stories
+=======================================
+
+.. automodule:: pyrogram.raw.base.stories.peer_stories
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeerStories
+   

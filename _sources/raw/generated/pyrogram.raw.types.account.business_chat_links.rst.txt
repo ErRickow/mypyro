@@ -1,0 +1,12 @@
+pyrogram.raw.types.account.business\_chat\_links
+================================================
+
+.. automodule:: pyrogram.raw.types.account.business_chat_links
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessChatLinks
+   

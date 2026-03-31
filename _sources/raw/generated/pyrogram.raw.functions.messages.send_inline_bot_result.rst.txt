@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.send\_inline\_bot\_result
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.send_inline_bot_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendInlineBotResult
+   

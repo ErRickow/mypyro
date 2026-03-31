@@ -1,0 +1,12 @@
+pyrogram.raw.types.reaction\_count
+==================================
+
+.. automodule:: pyrogram.raw.types.reaction_count
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReactionCount
+   

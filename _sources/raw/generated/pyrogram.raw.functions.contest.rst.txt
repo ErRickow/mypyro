@@ -1,0 +1,13 @@
+pyrogram.raw.functions.contest
+==============================
+
+.. automodule:: pyrogram.raw.functions.contest
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   save_developer_info

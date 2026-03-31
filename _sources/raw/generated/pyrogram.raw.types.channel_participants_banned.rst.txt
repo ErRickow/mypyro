@@ -1,0 +1,12 @@
+pyrogram.raw.types.channel\_participants\_banned
+================================================
+
+.. automodule:: pyrogram.raw.types.channel_participants_banned
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChannelParticipantsBanned
+   

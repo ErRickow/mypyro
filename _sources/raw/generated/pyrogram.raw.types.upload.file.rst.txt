@@ -1,0 +1,12 @@
+pyrogram.raw.types.upload.file
+==============================
+
+.. automodule:: pyrogram.raw.types.upload.file
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      File
+   

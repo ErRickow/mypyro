@@ -1,0 +1,12 @@
+pyrogram.raw.types.page\_block\_map
+===================================
+
+.. automodule:: pyrogram.raw.types.page_block_map
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageBlockMap
+   

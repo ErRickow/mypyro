@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_sticker\_set\_animated\_emoji
+=======================================================
+
+.. automodule:: pyrogram.raw.types.input_sticker_set_animated_emoji
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetAnimatedEmoji
+   

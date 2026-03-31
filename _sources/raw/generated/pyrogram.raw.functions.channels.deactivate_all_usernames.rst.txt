@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.deactivate\_all\_usernames
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.channels.deactivate_all_usernames
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeactivateAllUsernames
+   

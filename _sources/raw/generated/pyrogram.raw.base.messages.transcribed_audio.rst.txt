@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.transcribed\_audio
+=============================================
+
+.. automodule:: pyrogram.raw.base.messages.transcribed_audio
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TranscribedAudio
+   

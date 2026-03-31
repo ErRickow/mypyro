@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_transaction\_peer\_play\_market
+=========================================================
+
+.. automodule:: pyrogram.raw.types.stars_transaction_peer_play_market
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsTransactionPeerPlayMarket
+   

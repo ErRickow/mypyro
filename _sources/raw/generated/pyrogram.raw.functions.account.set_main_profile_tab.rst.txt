@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.set\_main\_profile\_tab
+======================================================
+
+.. automodule:: pyrogram.raw.functions.account.set_main_profile_tab
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetMainProfileTab
+   

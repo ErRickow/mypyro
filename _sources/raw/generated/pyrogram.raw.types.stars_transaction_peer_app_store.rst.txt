@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_transaction\_peer\_app\_store
+=======================================================
+
+.. automodule:: pyrogram.raw.types.stars_transaction_peer_app_store
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsTransactionPeerAppStore
+   

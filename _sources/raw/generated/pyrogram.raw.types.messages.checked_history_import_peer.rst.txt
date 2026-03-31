@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.checked\_history\_import\_peer
+==========================================================
+
+.. automodule:: pyrogram.raw.types.messages.checked_history_import_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckedHistoryImportPeer
+   

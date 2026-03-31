@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.unblock
+=======================================
+
+.. automodule:: pyrogram.raw.functions.contacts.unblock
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Unblock
+   

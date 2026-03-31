@@ -1,0 +1,12 @@
+pyrogram.raw.types.document\_attribute\_custom\_emoji
+=====================================================
+
+.. automodule:: pyrogram.raw.types.document_attribute_custom_emoji
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DocumentAttributeCustomEmoji
+   

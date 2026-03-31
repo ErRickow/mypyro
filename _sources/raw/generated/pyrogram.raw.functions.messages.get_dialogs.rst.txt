@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_dialogs
+============================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_dialogs
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetDialogs
+   

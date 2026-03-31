@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.save\_call\_log
+============================================
+
+.. automodule:: pyrogram.raw.functions.phone.save_call_log
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveCallLog
+   

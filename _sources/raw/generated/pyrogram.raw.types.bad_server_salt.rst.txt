@@ -1,0 +1,12 @@
+pyrogram.raw.types.bad\_server\_salt
+====================================
+
+.. automodule:: pyrogram.raw.types.bad_server_salt
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BadServerSalt
+   

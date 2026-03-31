@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_read\_featured\_stickers
+===================================================
+
+.. automodule:: pyrogram.raw.types.update_read_featured_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateReadFeaturedStickers
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_quick\_reply\_shortcut
+===============================================
+
+.. automodule:: pyrogram.raw.base.input_quick_reply_shortcut
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputQuickReplyShortcut
+   

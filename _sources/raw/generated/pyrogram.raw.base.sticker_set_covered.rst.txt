@@ -1,0 +1,12 @@
+pyrogram.raw.base.sticker\_set\_covered
+=======================================
+
+.. automodule:: pyrogram.raw.base.sticker_set_covered
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StickerSetCovered
+   

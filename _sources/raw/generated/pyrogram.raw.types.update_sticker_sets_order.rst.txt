@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_sticker\_sets\_order
+===============================================
+
+.. automodule:: pyrogram.raw.types.update_sticker_sets_order
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateStickerSetsOrder
+   

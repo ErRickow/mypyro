@@ -1,0 +1,12 @@
+pyrogram.raw.types.storage.file\_webp
+=====================================
+
+.. automodule:: pyrogram.raw.types.storage.file_webp
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileWebp
+   

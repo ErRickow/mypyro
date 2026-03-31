@@ -1,0 +1,12 @@
+pyrogram.raw.functions.langpack.get\_strings
+============================================
+
+.. automodule:: pyrogram.raw.functions.langpack.get_strings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetStrings
+   

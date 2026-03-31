@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.bot\_command\_scope\_chat\_member
+=====================================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.bot_command_scope_chat_member
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotCommandScopeChatMember
+   

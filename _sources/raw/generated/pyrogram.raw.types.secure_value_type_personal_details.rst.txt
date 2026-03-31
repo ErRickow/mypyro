@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_personal\_details
+=========================================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_personal_details
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypePersonalDetails
+   

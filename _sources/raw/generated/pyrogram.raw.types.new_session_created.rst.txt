@@ -1,0 +1,12 @@
+pyrogram.raw.types.new\_session\_created
+========================================
+
+.. automodule:: pyrogram.raw.types.new_session_created
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      NewSessionCreated
+   

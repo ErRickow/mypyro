@@ -1,0 +1,12 @@
+pyrogram.types.messages\_and\_media.video
+=========================================
+
+.. automodule:: pyrogram.types.messages_and_media.video
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Video
+   

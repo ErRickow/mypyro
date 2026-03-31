@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_sticker\_set\_thumb
+=============================================
+
+.. automodule:: pyrogram.raw.types.input_sticker_set_thumb
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputStickerSetThumb
+   

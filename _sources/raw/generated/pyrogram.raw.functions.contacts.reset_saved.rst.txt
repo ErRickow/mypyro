@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.reset\_saved
+============================================
+
+.. automodule:: pyrogram.raw.functions.contacts.reset_saved
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResetSaved
+   

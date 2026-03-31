@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats\_date\_range\_days
+===========================================
+
+.. automodule:: pyrogram.raw.types.stats_date_range_days
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsDateRangeDays
+   

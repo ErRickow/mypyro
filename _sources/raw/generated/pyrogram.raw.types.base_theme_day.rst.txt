@@ -1,0 +1,12 @@
+pyrogram.raw.types.base\_theme\_day
+===================================
+
+.. automodule:: pyrogram.raw.types.base_theme_day
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BaseThemeDay
+   

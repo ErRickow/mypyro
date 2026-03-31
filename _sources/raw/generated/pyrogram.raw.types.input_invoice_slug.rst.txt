@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_invoice\_slug
+=======================================
+
+.. automodule:: pyrogram.raw.types.input_invoice_slug
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputInvoiceSlug
+   

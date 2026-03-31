@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.set\_call\_rating
+==============================================
+
+.. automodule:: pyrogram.raw.functions.phone.set_call_rating
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetCallRating
+   

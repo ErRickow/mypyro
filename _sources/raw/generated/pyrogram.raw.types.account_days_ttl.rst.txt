@@ -1,0 +1,12 @@
+pyrogram.raw.types.account\_days\_ttl
+=====================================
+
+.. automodule:: pyrogram.raw.types.account_days_ttl
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AccountDaysTTL
+   

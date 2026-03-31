@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.hide\_peer\_settings\_bar
+=========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.hide_peer_settings_bar
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      HidePeerSettingsBar
+   

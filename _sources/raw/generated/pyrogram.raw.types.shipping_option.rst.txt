@@ -1,0 +1,12 @@
+pyrogram.raw.types.shipping\_option
+===================================
+
+.. automodule:: pyrogram.raw.types.shipping_option
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ShippingOption
+   

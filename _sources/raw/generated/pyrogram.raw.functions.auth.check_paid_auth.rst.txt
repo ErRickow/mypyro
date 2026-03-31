@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.check\_paid\_auth
+=============================================
+
+.. automodule:: pyrogram.raw.functions.auth.check_paid_auth
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckPaidAuth
+   

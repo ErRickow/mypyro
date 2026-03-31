@@ -1,0 +1,12 @@
+pyrogram.raw.base.upload.cdn\_file
+==================================
+
+.. automodule:: pyrogram.raw.base.upload.cdn_file
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CdnFile
+   

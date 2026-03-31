@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_type\_phone
+=============================================
+
+.. automodule:: pyrogram.raw.types.secure_value_type_phone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueTypePhone
+   

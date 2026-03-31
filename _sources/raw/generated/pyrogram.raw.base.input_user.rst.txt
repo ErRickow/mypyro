@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_user
+=============================
+
+.. automodule:: pyrogram.raw.base.input_user
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputUser
+   

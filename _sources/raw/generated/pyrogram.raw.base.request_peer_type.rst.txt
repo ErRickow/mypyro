@@ -1,0 +1,12 @@
+pyrogram.raw.base.request\_peer\_type
+=====================================
+
+.. automodule:: pyrogram.raw.base.request_peer_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RequestPeerType
+   

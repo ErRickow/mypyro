@@ -1,0 +1,12 @@
+pyrogram.raw.types.reaction\_custom\_emoji
+==========================================
+
+.. automodule:: pyrogram.raw.types.reaction_custom_emoji
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReactionCustomEmoji
+   

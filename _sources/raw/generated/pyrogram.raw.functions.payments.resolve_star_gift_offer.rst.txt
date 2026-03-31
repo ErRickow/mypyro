@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.resolve\_star\_gift\_offer
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.payments.resolve_star_gift_offer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResolveStarGiftOffer
+   

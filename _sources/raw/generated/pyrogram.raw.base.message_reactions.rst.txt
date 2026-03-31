@@ -1,0 +1,12 @@
+pyrogram.raw.base.message\_reactions
+====================================
+
+.. automodule:: pyrogram.raw.base.message_reactions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageReactions
+   

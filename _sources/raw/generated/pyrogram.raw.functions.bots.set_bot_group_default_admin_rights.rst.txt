@@ -1,0 +1,12 @@
+pyrogram.raw.functions.bots.set\_bot\_group\_default\_admin\_rights
+===================================================================
+
+.. automodule:: pyrogram.raw.functions.bots.set_bot_group_default_admin_rights
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetBotGroupDefaultAdminRights
+   

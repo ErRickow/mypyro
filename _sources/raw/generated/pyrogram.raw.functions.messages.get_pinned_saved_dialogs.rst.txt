@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_pinned\_saved\_dialogs
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_pinned_saved_dialogs
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPinnedSavedDialogs
+   

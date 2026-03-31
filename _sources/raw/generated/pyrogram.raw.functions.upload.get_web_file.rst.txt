@@ -1,0 +1,12 @@
+pyrogram.raw.functions.upload.get\_web\_file
+============================================
+
+.. automodule:: pyrogram.raw.functions.upload.get_web_file
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetWebFile
+   

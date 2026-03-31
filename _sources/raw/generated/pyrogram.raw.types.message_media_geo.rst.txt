@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_geo
+======================================
+
+.. automodule:: pyrogram.raw.types.message_media_geo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaGeo
+   

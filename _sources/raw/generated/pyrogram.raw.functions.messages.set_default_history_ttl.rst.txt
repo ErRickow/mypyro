@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.set\_default\_history\_ttl
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.set_default_history_ttl
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetDefaultHistoryTTL
+   

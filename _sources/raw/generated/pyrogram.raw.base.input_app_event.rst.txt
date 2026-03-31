@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_app\_event
+===================================
+
+.. automodule:: pyrogram.raw.base.input_app_event
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputAppEvent
+   

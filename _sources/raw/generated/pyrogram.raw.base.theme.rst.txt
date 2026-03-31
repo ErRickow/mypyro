@@ -1,0 +1,12 @@
+pyrogram.raw.base.theme
+=======================
+
+.. automodule:: pyrogram.raw.base.theme
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Theme
+   

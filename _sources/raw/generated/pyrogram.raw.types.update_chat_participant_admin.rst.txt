@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_chat\_participant\_admin
+===================================================
+
+.. automodule:: pyrogram.raw.types.update_chat_participant_admin
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateChatParticipantAdmin
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.destroy\_session\_res
+=======================================
+
+.. automodule:: pyrogram.raw.base.destroy_session_res
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DestroySessionRes
+   

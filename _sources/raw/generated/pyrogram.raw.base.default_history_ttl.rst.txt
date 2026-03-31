@@ -1,0 +1,12 @@
+pyrogram.raw.base.default\_history\_ttl
+=======================================
+
+.. automodule:: pyrogram.raw.base.default_history_ttl
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DefaultHistoryTTL
+   

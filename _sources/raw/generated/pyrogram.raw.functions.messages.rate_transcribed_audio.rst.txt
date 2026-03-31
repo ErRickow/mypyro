@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.rate\_transcribed\_audio
+========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.rate_transcribed_audio
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RateTranscribedAudio
+   

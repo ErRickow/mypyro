@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.join\_channel
+=============================================
+
+.. automodule:: pyrogram.raw.functions.channels.join_channel
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      JoinChannel
+   

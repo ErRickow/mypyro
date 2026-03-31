@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_status
+=============================================
+
+.. automodule:: pyrogram.raw.functions.account.update_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateStatus
+   

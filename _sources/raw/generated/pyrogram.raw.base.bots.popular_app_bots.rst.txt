@@ -1,0 +1,12 @@
+pyrogram.raw.base.bots.popular\_app\_bots
+=========================================
+
+.. automodule:: pyrogram.raw.base.bots.popular_app_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PopularAppBots
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.text\_underline
+==================================
+
+.. automodule:: pyrogram.raw.types.text_underline
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TextUnderline
+   

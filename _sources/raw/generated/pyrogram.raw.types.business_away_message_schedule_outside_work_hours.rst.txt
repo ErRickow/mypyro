@@ -1,0 +1,12 @@
+pyrogram.raw.types.business\_away\_message\_schedule\_outside\_work\_hours
+==========================================================================
+
+.. automodule:: pyrogram.raw.types.business_away_message_schedule_outside_work_hours
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessAwayMessageScheduleOutsideWorkHours
+   

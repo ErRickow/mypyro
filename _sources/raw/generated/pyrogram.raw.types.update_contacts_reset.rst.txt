@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_contacts\_reset
+==========================================
+
+.. automodule:: pyrogram.raw.types.update_contacts_reset
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateContactsReset
+   

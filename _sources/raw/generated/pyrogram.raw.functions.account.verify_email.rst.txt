@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.verify\_email
+============================================
+
+.. automodule:: pyrogram.raw.functions.account.verify_email
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VerifyEmail
+   

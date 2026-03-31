@@ -1,0 +1,12 @@
+pyrogram.raw.types.channels.admin\_log\_results
+===============================================
+
+.. automodule:: pyrogram.raw.types.channels.admin_log_results
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AdminLogResults
+   

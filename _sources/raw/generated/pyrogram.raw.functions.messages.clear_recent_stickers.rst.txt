@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.clear\_recent\_stickers
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.clear_recent_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ClearRecentStickers
+   

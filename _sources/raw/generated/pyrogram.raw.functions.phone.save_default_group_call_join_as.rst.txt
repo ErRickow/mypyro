@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.save\_default\_group\_call\_join\_as
+=================================================================
+
+.. automodule:: pyrogram.raw.functions.phone.save_default_group_call_join_as
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveDefaultGroupCallJoinAs
+   

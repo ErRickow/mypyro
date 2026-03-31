@@ -1,0 +1,17 @@
+pyrogram.raw.functions.photos
+=============================
+
+.. automodule:: pyrogram.raw.functions.photos
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   delete_photos
+   get_user_photos
+   update_profile_photo
+   upload_contact_profile_photo
+   upload_profile_photo

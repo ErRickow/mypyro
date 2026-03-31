@@ -1,0 +1,12 @@
+pyrogram.raw.functions.contacts.resolve\_username
+=================================================
+
+.. automodule:: pyrogram.raw.functions.contacts.resolve_username
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResolveUsername
+   

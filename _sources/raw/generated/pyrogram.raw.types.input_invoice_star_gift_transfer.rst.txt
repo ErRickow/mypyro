@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_invoice\_star\_gift\_transfer
+=======================================================
+
+.. automodule:: pyrogram.raw.types.input_invoice_star_gift_transfer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputInvoiceStarGiftTransfer
+   

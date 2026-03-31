@@ -1,0 +1,12 @@
+pyrogram.raw.functions.phone.delete\_group\_call\_messages
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.phone.delete_group_call_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteGroupCallMessages
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.send\_web\_view\_result\_message
+================================================================
+
+.. automodule:: pyrogram.raw.functions.messages.send_web_view_result_message
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendWebViewResultMessage
+   

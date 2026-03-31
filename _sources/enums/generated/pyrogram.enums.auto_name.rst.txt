@@ -1,0 +1,12 @@
+pyrogram.enums.auto\_name
+=========================
+
+.. automodule:: pyrogram.enums.auto_name
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AutoName
+   

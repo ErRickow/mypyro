@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.giveaway\_info
+=========================================
+
+.. automodule:: pyrogram.raw.base.payments.giveaway_info
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GiveawayInfo
+   

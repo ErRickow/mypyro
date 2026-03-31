@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.search\_custom\_emoji
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.search_custom_emoji
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SearchCustomEmoji
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.user\_full
+============================
+
+.. automodule:: pyrogram.raw.base.user_full
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UserFull
+   

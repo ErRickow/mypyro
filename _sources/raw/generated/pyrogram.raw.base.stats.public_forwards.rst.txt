@@ -1,0 +1,12 @@
+pyrogram.raw.base.stats.public\_forwards
+========================================
+
+.. automodule:: pyrogram.raw.base.stats.public_forwards
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PublicForwards
+   

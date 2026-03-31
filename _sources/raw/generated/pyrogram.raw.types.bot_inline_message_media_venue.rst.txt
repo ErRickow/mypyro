@@ -1,0 +1,12 @@
+pyrogram.raw.types.bot\_inline\_message\_media\_venue
+=====================================================
+
+.. automodule:: pyrogram.raw.types.bot_inline_message_media_venue
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotInlineMessageMediaVenue
+   

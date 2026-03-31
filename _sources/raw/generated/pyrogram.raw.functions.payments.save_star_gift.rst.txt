@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.save\_star\_gift
+================================================
+
+.. automodule:: pyrogram.raw.functions.payments.save_star_gift
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveStarGift
+   

@@ -1,0 +1,37 @@
+pyrogram.types.bots\_and\_keyboards
+===================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   bot_command
+   bot_command_scope
+   bot_command_scope_all_chat_administrators
+   bot_command_scope_all_group_chats
+   bot_command_scope_all_private_chats
+   bot_command_scope_chat
+   bot_command_scope_chat_administrators
+   bot_command_scope_chat_member
+   bot_command_scope_default
+   callback_game
+   callback_query
+   force_reply
+   game_high_score
+   inline_keyboard_button
+   inline_keyboard_markup
+   keyboard_button
+   login_url
+   menu_button
+   menu_button_commands
+   menu_button_default
+   menu_button_web_app
+   reply_keyboard_markup
+   reply_keyboard_remove
+   sent_web_app_message
+   web_app_info

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.convert\_star\_gift
+===================================================
+
+.. automodule:: pyrogram.raw.functions.payments.convert_star_gift
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ConvertStarGift
+   

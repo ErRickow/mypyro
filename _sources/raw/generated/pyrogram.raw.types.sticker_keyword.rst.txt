@@ -1,0 +1,12 @@
+pyrogram.raw.types.sticker\_keyword
+===================================
+
+.. automodule:: pyrogram.raw.types.sticker_keyword
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StickerKeyword
+   

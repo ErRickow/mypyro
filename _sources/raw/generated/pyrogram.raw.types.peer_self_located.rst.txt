@@ -1,0 +1,12 @@
+pyrogram.raw.types.peer\_self\_located
+======================================
+
+.. automodule:: pyrogram.raw.types.peer_self_located
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeerSelfLocated
+   

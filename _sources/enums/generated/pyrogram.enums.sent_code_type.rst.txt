@@ -1,0 +1,12 @@
+pyrogram.enums.sent\_code\_type
+===============================
+
+.. automodule:: pyrogram.enums.sent_code_type
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SentCodeType
+   

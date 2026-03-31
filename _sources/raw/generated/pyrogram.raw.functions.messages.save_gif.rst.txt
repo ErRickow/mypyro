@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.save\_gif
+=========================================
+
+.. automodule:: pyrogram.raw.functions.messages.save_gif
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SaveGif
+   

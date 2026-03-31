@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.install\_sticker\_set
+=====================================================
+
+.. automodule:: pyrogram.raw.functions.messages.install_sticker_set
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InstallStickerSet
+   

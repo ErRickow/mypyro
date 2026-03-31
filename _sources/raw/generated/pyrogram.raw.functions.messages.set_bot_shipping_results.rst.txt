@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.set\_bot\_shipping\_results
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.set_bot_shipping_results
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetBotShippingResults
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.stars\_rating
+===============================
+
+.. automodule:: pyrogram.raw.base.stars_rating
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsRating
+   

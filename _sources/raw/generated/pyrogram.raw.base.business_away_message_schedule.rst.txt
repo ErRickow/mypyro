@@ -1,0 +1,12 @@
+pyrogram.raw.base.business\_away\_message\_schedule
+===================================================
+
+.. automodule:: pyrogram.raw.base.business_away_message_schedule
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BusinessAwayMessageSchedule
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.chatlists.check\_chatlist\_invite
+========================================================
+
+.. automodule:: pyrogram.raw.functions.chatlists.check_chatlist_invite
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckChatlistInvite
+   

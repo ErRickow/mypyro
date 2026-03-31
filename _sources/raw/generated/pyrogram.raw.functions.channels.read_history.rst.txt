@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.read\_history
+=============================================
+
+.. automodule:: pyrogram.raw.functions.channels.read_history
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReadHistory
+   

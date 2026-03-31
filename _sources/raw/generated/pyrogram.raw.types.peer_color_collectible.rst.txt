@@ -1,0 +1,12 @@
+pyrogram.raw.types.peer\_color\_collectible
+===========================================
+
+.. automodule:: pyrogram.raw.types.peer_color_collectible
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PeerColorCollectible
+   

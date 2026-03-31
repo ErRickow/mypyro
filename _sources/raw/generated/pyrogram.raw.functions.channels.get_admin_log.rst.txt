@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.get\_admin\_log
+===============================================
+
+.. automodule:: pyrogram.raw.functions.channels.get_admin_log
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetAdminLog
+   

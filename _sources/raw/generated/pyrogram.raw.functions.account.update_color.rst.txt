@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.update\_color
+============================================
+
+.. automodule:: pyrogram.raw.functions.account.update_color
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateColor
+   

@@ -1,0 +1,12 @@
+pyrogram.types.update
+=====================
+
+.. automodule:: pyrogram.types.update
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Update
+   

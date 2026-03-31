@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.change\_stars\_subscription
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.payments.change_stars_subscription
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChangeStarsSubscription
+   

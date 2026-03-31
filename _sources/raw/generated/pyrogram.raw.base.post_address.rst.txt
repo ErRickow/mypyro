@@ -1,0 +1,12 @@
+pyrogram.raw.base.post\_address
+===============================
+
+.. automodule:: pyrogram.raw.base.post_address
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PostAddress
+   

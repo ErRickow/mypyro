@@ -1,0 +1,12 @@
+pyrogram.raw.functions.help.get\_nearest\_dc
+============================================
+
+.. automodule:: pyrogram.raw.functions.help.get_nearest_dc
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetNearestDc
+   

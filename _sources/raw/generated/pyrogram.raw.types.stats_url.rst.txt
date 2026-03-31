@@ -1,0 +1,12 @@
+pyrogram.raw.types.stats\_url
+=============================
+
+.. automodule:: pyrogram.raw.types.stats_url
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StatsURL
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_game\_id
+==================================
+
+.. automodule:: pyrogram.raw.types.input_game_id
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputGameID
+   

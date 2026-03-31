@@ -1,0 +1,12 @@
+pyrogram.raw.base.poll\_answer\_voters
+======================================
+
+.. automodule:: pyrogram.raw.base.poll_answer_voters
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PollAnswerVoters
+   

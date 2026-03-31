@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.apply\_gift\_code
+=================================================
+
+.. automodule:: pyrogram.raw.functions.payments.apply_gift_code
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ApplyGiftCode
+   

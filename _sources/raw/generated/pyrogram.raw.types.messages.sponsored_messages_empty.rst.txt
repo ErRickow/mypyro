@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.sponsored\_messages\_empty
+======================================================
+
+.. automodule:: pyrogram.raw.types.messages.sponsored_messages_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SponsoredMessagesEmpty
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.change\_authorization\_settings
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.account.change_authorization_settings
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChangeAuthorizationSettings
+   

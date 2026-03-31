@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_file\_empty
+======================================
+
+.. automodule:: pyrogram.raw.types.secure_file_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureFileEmpty
+   

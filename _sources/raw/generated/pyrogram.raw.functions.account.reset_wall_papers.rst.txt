@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.reset\_wall\_papers
+==================================================
+
+.. automodule:: pyrogram.raw.functions.account.reset_wall_papers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResetWallPapers
+   

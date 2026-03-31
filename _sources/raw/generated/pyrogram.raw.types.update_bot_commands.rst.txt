@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_bot\_commands
+========================================
+
+.. automodule:: pyrogram.raw.types.update_bot_commands
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateBotCommands
+   

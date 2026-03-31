@@ -1,0 +1,12 @@
+pyrogram.raw.types.auth.sent\_code\_type\_sms
+=============================================
+
+.. automodule:: pyrogram.raw.types.auth.sent_code_type_sms
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SentCodeTypeSms
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.invited\_users
+=========================================
+
+.. automodule:: pyrogram.raw.base.messages.invited_users
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InvitedUsers
+   

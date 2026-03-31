@@ -1,0 +1,12 @@
+pyrogram.raw.types.stories.albums\_not\_modified
+================================================
+
+.. automodule:: pyrogram.raw.types.stories.albums_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AlbumsNotModified
+   

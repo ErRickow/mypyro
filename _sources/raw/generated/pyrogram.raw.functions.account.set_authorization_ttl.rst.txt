@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.set\_authorization\_ttl
+======================================================
+
+.. automodule:: pyrogram.raw.functions.account.set_authorization_ttl
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetAuthorizationTTL
+   

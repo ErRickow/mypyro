@@ -1,0 +1,12 @@
+pyrogram.raw.functions.auth.sign\_in
+====================================
+
+.. automodule:: pyrogram.raw.functions.auth.sign_in
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SignIn
+   

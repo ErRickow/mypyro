@@ -1,0 +1,12 @@
+pyrogram.raw.types.help.premium\_promo
+======================================
+
+.. automodule:: pyrogram.raw.types.help.premium_promo
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PremiumPromo
+   

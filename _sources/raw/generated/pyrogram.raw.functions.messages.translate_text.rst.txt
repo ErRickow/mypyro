@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.translate\_text
+===============================================
+
+.. automodule:: pyrogram.raw.functions.messages.translate_text
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TranslateText
+   

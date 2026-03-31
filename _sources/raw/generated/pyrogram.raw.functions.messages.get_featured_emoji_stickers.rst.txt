@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_featured\_emoji\_stickers
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_featured_emoji_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetFeaturedEmojiStickers
+   

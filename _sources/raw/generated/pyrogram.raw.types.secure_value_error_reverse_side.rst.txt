@@ -1,0 +1,12 @@
+pyrogram.raw.types.secure\_value\_error\_reverse\_side
+======================================================
+
+.. automodule:: pyrogram.raw.types.secure_value_error_reverse_side
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SecureValueErrorReverseSide
+   

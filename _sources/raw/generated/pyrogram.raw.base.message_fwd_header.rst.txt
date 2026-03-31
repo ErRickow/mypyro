@@ -1,0 +1,12 @@
+pyrogram.raw.base.message\_fwd\_header
+======================================
+
+.. automodule:: pyrogram.raw.base.message_fwd_header
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageFwdHeader
+   

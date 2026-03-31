@@ -1,0 +1,12 @@
+pyrogram.raw.types.url\_auth\_result\_default
+=============================================
+
+.. automodule:: pyrogram.raw.types.url_auth_result_default
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UrlAuthResultDefault
+   

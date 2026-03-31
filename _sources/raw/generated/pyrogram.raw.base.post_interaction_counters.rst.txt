@@ -1,0 +1,12 @@
+pyrogram.raw.base.post\_interaction\_counters
+=============================================
+
+.. automodule:: pyrogram.raw.base.post_interaction_counters
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PostInteractionCounters
+   

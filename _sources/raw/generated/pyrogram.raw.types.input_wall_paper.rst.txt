@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_wall\_paper
+=====================================
+
+.. automodule:: pyrogram.raw.types.input_wall_paper
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputWallPaper
+   

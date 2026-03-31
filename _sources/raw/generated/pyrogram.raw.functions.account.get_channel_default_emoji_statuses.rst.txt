@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_channel\_default\_emoji\_statuses
+=====================================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_channel_default_emoji_statuses
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetChannelDefaultEmojiStatuses
+   

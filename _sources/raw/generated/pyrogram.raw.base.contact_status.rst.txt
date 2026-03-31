@@ -1,0 +1,12 @@
+pyrogram.raw.base.contact\_status
+=================================
+
+.. automodule:: pyrogram.raw.base.contact_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ContactStatus
+   

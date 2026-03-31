@@ -1,0 +1,12 @@
+pyrogram.raw.base.media\_area
+=============================
+
+.. automodule:: pyrogram.raw.base.media_area
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MediaArea
+   

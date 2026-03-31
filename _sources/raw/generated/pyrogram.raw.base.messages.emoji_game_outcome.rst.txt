@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.emoji\_game\_outcome
+===============================================
+
+.. automodule:: pyrogram.raw.base.messages.emoji_game_outcome
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiGameOutcome
+   

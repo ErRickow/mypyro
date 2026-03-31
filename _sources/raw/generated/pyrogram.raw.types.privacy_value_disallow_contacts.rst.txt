@@ -1,0 +1,12 @@
+pyrogram.raw.types.privacy\_value\_disallow\_contacts
+=====================================================
+
+.. automodule:: pyrogram.raw.types.privacy_value_disallow_contacts
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PrivacyValueDisallowContacts
+   

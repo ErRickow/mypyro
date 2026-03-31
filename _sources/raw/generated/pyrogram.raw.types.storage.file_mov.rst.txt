@@ -1,0 +1,12 @@
+pyrogram.raw.types.storage.file\_mov
+====================================
+
+.. automodule:: pyrogram.raw.types.storage.file_mov
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FileMov
+   

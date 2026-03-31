@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.get\_admined\_public\_channels
+==============================================================
+
+.. automodule:: pyrogram.raw.functions.channels.get_admined_public_channels
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetAdminedPublicChannels
+   

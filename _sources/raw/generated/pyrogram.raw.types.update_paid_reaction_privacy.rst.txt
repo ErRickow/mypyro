@@ -1,0 +1,12 @@
+pyrogram.raw.types.update\_paid\_reaction\_privacy
+==================================================
+
+.. automodule:: pyrogram.raw.types.update_paid_reaction_privacy
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdatePaidReactionPrivacy
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.types.mask\_coords
+===============================
+
+.. automodule:: pyrogram.raw.types.mask_coords
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MaskCoords
+   

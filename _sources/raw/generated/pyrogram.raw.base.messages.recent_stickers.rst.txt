@@ -1,0 +1,12 @@
+pyrogram.raw.base.messages.recent\_stickers
+===========================================
+
+.. automodule:: pyrogram.raw.base.messages.recent_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RecentStickers
+   

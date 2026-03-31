@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.set\_encrypted\_typing
+======================================================
+
+.. automodule:: pyrogram.raw.functions.messages.set_encrypted_typing
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SetEncryptedTyping
+   

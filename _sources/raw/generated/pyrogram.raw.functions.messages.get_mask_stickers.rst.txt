@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_mask\_stickers
+===================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_mask_stickers
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetMaskStickers
+   

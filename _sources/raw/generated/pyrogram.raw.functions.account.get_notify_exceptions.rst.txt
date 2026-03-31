@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_notify\_exceptions
+======================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_notify_exceptions
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetNotifyExceptions
+   

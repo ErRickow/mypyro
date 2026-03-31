@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_media\_web\_page
+============================================
+
+.. automodule:: pyrogram.raw.types.message_media_web_page
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageMediaWebPage
+   

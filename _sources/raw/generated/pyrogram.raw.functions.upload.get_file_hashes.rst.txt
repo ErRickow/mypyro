@@ -1,0 +1,12 @@
+pyrogram.raw.functions.upload.get\_file\_hashes
+===============================================
+
+.. automodule:: pyrogram.raw.functions.upload.get_file_hashes
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetFileHashes
+   

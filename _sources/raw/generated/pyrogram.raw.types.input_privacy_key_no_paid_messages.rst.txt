@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_privacy\_key\_no\_paid\_messages
+==========================================================
+
+.. automodule:: pyrogram.raw.types.input_privacy_key_no_paid_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputPrivacyKeyNoPaidMessages
+   

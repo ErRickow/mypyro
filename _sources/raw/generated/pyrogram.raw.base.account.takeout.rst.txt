@@ -1,0 +1,12 @@
+pyrogram.raw.base.account.takeout
+=================================
+
+.. automodule:: pyrogram.raw.base.account.takeout
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Takeout
+   

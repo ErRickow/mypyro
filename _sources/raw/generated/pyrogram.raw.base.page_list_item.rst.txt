@@ -1,0 +1,12 @@
+pyrogram.raw.base.page\_list\_item
+==================================
+
+.. automodule:: pyrogram.raw.base.page_list_item
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PageListItem
+   

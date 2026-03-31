@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_web\_file\_geo\_point\_location
+=========================================================
+
+.. automodule:: pyrogram.raw.types.input_web_file_geo_point_location
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputWebFileGeoPointLocation
+   

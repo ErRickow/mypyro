@@ -1,0 +1,12 @@
+pyrogram.raw.types.encrypted\_message\_service
+==============================================
+
+.. automodule:: pyrogram.raw.types.encrypted_message_service
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EncryptedMessageService
+   

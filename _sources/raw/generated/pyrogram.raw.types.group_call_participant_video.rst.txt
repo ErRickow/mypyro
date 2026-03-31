@@ -1,0 +1,12 @@
+pyrogram.raw.types.group\_call\_participant\_video
+==================================================
+
+.. automodule:: pyrogram.raw.types.group_call_participant_video
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GroupCallParticipantVideo
+   

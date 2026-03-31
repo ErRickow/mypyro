@@ -1,0 +1,12 @@
+pyrogram.raw.types.speaking\_in\_group\_call\_action
+====================================================
+
+.. automodule:: pyrogram.raw.types.speaking_in_group_call_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SpeakingInGroupCallAction
+   

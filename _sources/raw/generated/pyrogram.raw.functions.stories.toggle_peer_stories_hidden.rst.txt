@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.toggle\_peer\_stories\_hidden
+============================================================
+
+.. automodule:: pyrogram.raw.functions.stories.toggle_peer_stories_hidden
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TogglePeerStoriesHidden
+   

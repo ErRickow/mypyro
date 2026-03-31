@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.check\_search\_posts\_flood
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.channels.check_search_posts_flood
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CheckSearchPostsFlood
+   

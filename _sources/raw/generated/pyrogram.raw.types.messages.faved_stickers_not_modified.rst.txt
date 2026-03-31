@@ -1,0 +1,12 @@
+pyrogram.raw.types.messages.faved\_stickers\_not\_modified
+==========================================================
+
+.. automodule:: pyrogram.raw.types.messages.faved_stickers_not_modified
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      FavedStickersNotModified
+   

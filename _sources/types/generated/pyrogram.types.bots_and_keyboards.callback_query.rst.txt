@@ -1,0 +1,12 @@
+pyrogram.types.bots\_and\_keyboards.callback\_query
+===================================================
+
+.. automodule:: pyrogram.types.bots_and_keyboards.callback_query
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      CallbackQuery
+   

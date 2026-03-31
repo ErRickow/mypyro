@@ -1,0 +1,12 @@
+pyrogram.raw.types.connected\_bot\_star\_ref
+============================================
+
+.. automodule:: pyrogram.raw.types.connected_bot_star_ref
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ConnectedBotStarRef
+   

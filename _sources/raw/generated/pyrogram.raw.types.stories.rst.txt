@@ -1,0 +1,23 @@
+pyrogram.raw.types.stories
+==========================
+
+.. automodule:: pyrogram.raw.types.stories
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   albums
+   albums_not_modified
+   all_stories
+   all_stories_not_modified
+   can_send_story_count
+   found_stories
+   peer_stories
+   stories
+   story_reactions_list
+   story_views
+   story_views_list

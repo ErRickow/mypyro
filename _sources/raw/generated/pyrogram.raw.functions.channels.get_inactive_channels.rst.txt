@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.get\_inactive\_channels
+=======================================================
+
+.. automodule:: pyrogram.raw.functions.channels.get_inactive_channels
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetInactiveChannels
+   

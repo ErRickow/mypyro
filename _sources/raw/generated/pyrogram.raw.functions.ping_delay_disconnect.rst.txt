@@ -1,0 +1,12 @@
+pyrogram.raw.functions.ping\_delay\_disconnect
+==============================================
+
+.. automodule:: pyrogram.raw.functions.ping_delay_disconnect
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PingDelayDisconnect
+   

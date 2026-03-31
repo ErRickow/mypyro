@@ -1,0 +1,12 @@
+pyrogram.raw.types.bot\_inline\_media\_result
+=============================================
+
+.. automodule:: pyrogram.raw.types.bot_inline_media_result
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BotInlineMediaResult
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.report\_messages\_delivery
+==========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.report_messages_delivery
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ReportMessagesDelivery
+   

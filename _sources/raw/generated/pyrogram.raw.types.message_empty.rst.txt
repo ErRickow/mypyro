@@ -1,0 +1,12 @@
+pyrogram.raw.types.message\_empty
+=================================
+
+.. automodule:: pyrogram.raw.types.message_empty
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MessageEmpty
+   

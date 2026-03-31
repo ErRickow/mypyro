@@ -1,0 +1,12 @@
+pyrogram.enums.chat\_members\_filter
+====================================
+
+.. automodule:: pyrogram.enums.chat_members_filter
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ChatMembersFilter
+   

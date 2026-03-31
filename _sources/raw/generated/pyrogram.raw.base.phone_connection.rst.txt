@@ -1,0 +1,12 @@
+pyrogram.raw.base.phone\_connection
+===================================
+
+.. automodule:: pyrogram.raw.base.phone_connection
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhoneConnection
+   

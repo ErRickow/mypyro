@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.get\_emoji\_sticker\_groups
+===========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.get_emoji_sticker_groups
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetEmojiStickerGroups
+   

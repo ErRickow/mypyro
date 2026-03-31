@@ -1,0 +1,12 @@
+pyrogram.raw.types.mono\_forum\_dialog
+======================================
+
+.. automodule:: pyrogram.raw.types.mono_forum_dialog
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MonoForumDialog
+   

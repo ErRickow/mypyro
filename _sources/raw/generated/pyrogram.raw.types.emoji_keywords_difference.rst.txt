@@ -1,0 +1,12 @@
+pyrogram.raw.types.emoji\_keywords\_difference
+==============================================
+
+.. automodule:: pyrogram.raw.types.emoji_keywords_difference
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmojiKeywordsDifference
+   

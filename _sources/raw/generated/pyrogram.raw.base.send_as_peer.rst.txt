@@ -1,0 +1,12 @@
+pyrogram.raw.base.send\_as\_peer
+================================
+
+.. automodule:: pyrogram.raw.base.send_as_peer
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendAsPeer
+   

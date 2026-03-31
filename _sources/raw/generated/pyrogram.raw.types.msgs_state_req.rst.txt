@@ -1,0 +1,12 @@
+pyrogram.raw.types.msgs\_state\_req
+===================================
+
+.. automodule:: pyrogram.raw.types.msgs_state_req
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MsgsStateReq
+   

@@ -1,0 +1,12 @@
+pyrogram.raw.base.input\_geo\_point
+===================================
+
+.. automodule:: pyrogram.raw.base.input_geo_point
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputGeoPoint
+   

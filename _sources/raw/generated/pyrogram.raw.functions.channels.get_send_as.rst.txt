@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.get\_send\_as
+=============================================
+
+.. automodule:: pyrogram.raw.functions.channels.get_send_as
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetSendAs
+   

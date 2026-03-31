@@ -1,0 +1,12 @@
+pyrogram.raw.functions.channels.restrict\_sponsored\_messages
+=============================================================
+
+.. automodule:: pyrogram.raw.functions.channels.restrict_sponsored_messages
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      RestrictSponsoredMessages
+   

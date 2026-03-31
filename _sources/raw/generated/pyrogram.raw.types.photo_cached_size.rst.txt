@@ -1,0 +1,12 @@
+pyrogram.raw.types.photo\_cached\_size
+======================================
+
+.. automodule:: pyrogram.raw.types.photo_cached_size
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PhotoCachedSize
+   

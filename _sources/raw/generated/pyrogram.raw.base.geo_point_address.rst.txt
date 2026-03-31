@@ -1,0 +1,12 @@
+pyrogram.raw.base.geo\_point\_address
+=====================================
+
+.. automodule:: pyrogram.raw.base.geo_point_address
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GeoPointAddress
+   

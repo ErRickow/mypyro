@@ -1,0 +1,12 @@
+pyrogram.raw.types.stars\_transaction\_peer\_unsupported
+========================================================
+
+.. automodule:: pyrogram.raw.types.stars_transaction_peer_unsupported
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarsTransactionPeerUnsupported
+   

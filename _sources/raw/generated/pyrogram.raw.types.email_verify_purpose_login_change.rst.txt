@@ -1,0 +1,12 @@
+pyrogram.raw.types.email\_verify\_purpose\_login\_change
+========================================================
+
+.. automodule:: pyrogram.raw.types.email_verify_purpose_login_change
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      EmailVerifyPurposeLoginChange
+   

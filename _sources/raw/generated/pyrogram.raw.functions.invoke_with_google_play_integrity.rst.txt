@@ -1,0 +1,12 @@
+pyrogram.raw.functions.invoke\_with\_google\_play\_integrity
+============================================================
+
+.. automodule:: pyrogram.raw.functions.invoke_with_google_play_integrity
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InvokeWithGooglePlayIntegrity
+   

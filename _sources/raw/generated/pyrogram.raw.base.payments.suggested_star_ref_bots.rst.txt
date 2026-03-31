@@ -1,0 +1,12 @@
+pyrogram.raw.base.payments.suggested\_star\_ref\_bots
+=====================================================
+
+.. automodule:: pyrogram.raw.base.payments.suggested_star_ref_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SuggestedStarRefBots
+   

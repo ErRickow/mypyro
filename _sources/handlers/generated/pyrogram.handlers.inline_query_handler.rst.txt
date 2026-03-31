@@ -1,0 +1,12 @@
+pyrogram.handlers.inline\_query\_handler
+========================================
+
+.. automodule:: pyrogram.handlers.inline_query_handler
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InlineQueryHandler
+   

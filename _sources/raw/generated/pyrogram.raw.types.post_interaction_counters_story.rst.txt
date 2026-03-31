@@ -1,0 +1,12 @@
+pyrogram.raw.types.post\_interaction\_counters\_story
+=====================================================
+
+.. automodule:: pyrogram.raw.types.post_interaction_counters_story
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PostInteractionCountersStory
+   

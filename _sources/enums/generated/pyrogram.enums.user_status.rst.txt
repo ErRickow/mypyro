@@ -1,0 +1,12 @@
+pyrogram.enums.user\_status
+===========================
+
+.. automodule:: pyrogram.enums.user_status
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UserStatus
+   

@@ -1,0 +1,15 @@
+pyrogram.raw.functions.updates
+==============================
+
+.. automodule:: pyrogram.raw.functions.updates
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   get_channel_difference
+   get_difference
+   get_state

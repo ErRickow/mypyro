@@ -1,0 +1,12 @@
+pyrogram.types.user\_and\_chats.video\_chat\_ended
+==================================================
+
+.. automodule:: pyrogram.types.user_and_chats.video_chat_ended
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      VideoChatEnded
+   

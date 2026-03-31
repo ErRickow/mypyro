@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.update\_album
+============================================
+
+.. automodule:: pyrogram.raw.functions.stories.update_album
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      UpdateAlbum
+   

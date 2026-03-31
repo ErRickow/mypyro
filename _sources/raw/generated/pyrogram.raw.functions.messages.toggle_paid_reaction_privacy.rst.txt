@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.toggle\_paid\_reaction\_privacy
+===============================================================
+
+.. automodule:: pyrogram.raw.functions.messages.toggle_paid_reaction_privacy
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      TogglePaidReactionPrivacy
+   

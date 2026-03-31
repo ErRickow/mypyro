@@ -1,0 +1,12 @@
+pyrogram.raw.types.star\_ref\_program
+=====================================
+
+.. automodule:: pyrogram.raw.types.star_ref_program
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      StarRefProgram
+   

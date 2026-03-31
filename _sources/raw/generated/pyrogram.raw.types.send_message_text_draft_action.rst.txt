@@ -1,0 +1,12 @@
+pyrogram.raw.types.send\_message\_text\_draft\_action
+=====================================================
+
+.. automodule:: pyrogram.raw.types.send_message_text_draft_action
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendMessageTextDraftAction
+   

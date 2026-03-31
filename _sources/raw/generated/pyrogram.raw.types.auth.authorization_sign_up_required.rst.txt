@@ -1,0 +1,12 @@
+pyrogram.raw.types.auth.authorization\_sign\_up\_required
+=========================================================
+
+.. automodule:: pyrogram.raw.types.auth.authorization_sign_up_required
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AuthorizationSignUpRequired
+   

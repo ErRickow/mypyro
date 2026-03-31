@@ -1,0 +1,12 @@
+pyrogram.raw.functions.stories.delete\_stories
+==============================================
+
+.. automodule:: pyrogram.raw.functions.stories.delete_stories
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DeleteStories
+   

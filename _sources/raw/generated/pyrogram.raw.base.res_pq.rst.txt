@@ -1,0 +1,12 @@
+pyrogram.raw.base.res\_pq
+=========================
+
+.. automodule:: pyrogram.raw.base.res_pq
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ResPQ
+   

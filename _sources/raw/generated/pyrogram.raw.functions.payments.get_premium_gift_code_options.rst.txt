@@ -1,0 +1,12 @@
+pyrogram.raw.functions.payments.get\_premium\_gift\_code\_options
+=================================================================
+
+.. automodule:: pyrogram.raw.functions.payments.get_premium_gift_code_options
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetPremiumGiftCodeOptions
+   

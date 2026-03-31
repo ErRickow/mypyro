@@ -1,0 +1,12 @@
+pyrogram.raw.types.popular\_contact
+===================================
+
+.. automodule:: pyrogram.raw.types.popular_contact
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      PopularContact
+   

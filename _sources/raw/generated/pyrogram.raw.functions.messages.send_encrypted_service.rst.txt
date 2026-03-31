@@ -1,0 +1,12 @@
+pyrogram.raw.functions.messages.send\_encrypted\_service
+========================================================
+
+.. automodule:: pyrogram.raw.functions.messages.send_encrypted_service
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SendEncryptedService
+   

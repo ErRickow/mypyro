@@ -1,0 +1,12 @@
+pyrogram.raw.base.account.saved\_ringtone
+=========================================
+
+.. automodule:: pyrogram.raw.base.account.saved_ringtone
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SavedRingtone
+   

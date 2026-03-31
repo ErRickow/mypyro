@@ -1,0 +1,12 @@
+pyrogram.raw.functions.account.get\_connected\_bots
+===================================================
+
+.. automodule:: pyrogram.raw.functions.account.get_connected_bots
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      GetConnectedBots
+   

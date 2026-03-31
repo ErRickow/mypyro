@@ -1,0 +1,12 @@
+pyrogram.raw.types.input\_messages\_filter\_phone\_calls
+========================================================
+
+.. automodule:: pyrogram.raw.types.input_messages_filter_phone_calls
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      InputMessagesFilterPhoneCalls
+   

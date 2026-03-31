@@ -1,0 +1,15 @@
+pyrogram.raw.base.bots
+======================
+
+.. automodule:: pyrogram.raw.base.bots
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   bot_info
+   popular_app_bots
+   preview_info
