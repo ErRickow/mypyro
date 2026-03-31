@@ -4,3 +4,5 @@ pytest
 pytest-asyncio
 pytest-cov
 twine
+sphinx
+sphinx-rtd-theme

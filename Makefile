@@ -5,7 +5,7 @@ TAG = v$(shell grep -E '__version__ = ".*"' pyrogram/__init__.py | cut -d\" -f2)
 
 RM := rm -rf
 
-.PHONY: venv clean-build clean-api clean api build
+.PHONY: venv clean-build clean-api clean api build docs clean-docs
 
 venv:
 	$(RM) $(VENV)
@@ -20,13 +20,20 @@ clean-build:
 clean-api:
 	$(RM) pyrogram/errors/exceptions pyrogram/raw/all.py pyrogram/raw/base pyrogram/raw/functions pyrogram/raw/types
 
+clean-docs:
+	$(RM) docs/build
+
 clean:
 	make clean-build
 	make clean-api
+	make clean-docs
 
 api:
 	cd compiler/api && ../../$(PYTHON) compiler.py
 	cd compiler/errors && ../../$(PYTHON) compiler.py
+
+docs:
+	./docs_build.sh
 
 build:
 	make clean
