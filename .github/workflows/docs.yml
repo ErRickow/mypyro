@@ -23,6 +23,17 @@ jobs:
           python -m pip install --upgrade pip wheel setuptools
           pip install -r requirements.txt
           pip install -r dev-requirements.txt
+
+      - name: Generate MTProto API and Errors
+        run: |
+          # Menjalankan compiler untuk generate raw types dan exceptions
+          cd compiler/api && python3 compiler.py
+          cd ../errors && python3 compiler.py
+          cd ../..
+
+      - name: Install Package
+        run: |
+          # Install setelah API di-generate agar file raw.all tersedia
           pip install -e .
 
       - name: Build Sphinx Documentation
@@ -38,7 +49,6 @@ jobs:
           path: docs/build/html/
 
       - name: Deploy to GitHub Pages
-        # Hanya deploy jika push ke branch dev atau beta
         if: github.event_name == 'push' && (github.ref == 'refs/heads/dev' || github.ref == 'refs/heads/beta')
         uses: peaceiris/actions-gh-pages@v4
         with:
