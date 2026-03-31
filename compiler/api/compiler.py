@@ -17,6 +17,7 @@
 #  along with Pyrogram.  If not, see <http://www.gnu.org/licenses/>.
 
 import json
+import keyword
 import os
 import re
 import shutil
@@ -24,8 +25,36 @@ from functools import partial
 from pathlib import Path
 from typing import NamedTuple, List, Tuple
 
-# from autoflake import fix_code
-# from black import format_str, FileMode
+
+# # # # # # # # # # # # # # # # # # # # # # # #
+#  Pyrogram - Telegram MTProto API Client Library for Python
+#  Copyright (C) 2017-present Dan <https://github.com/delivrance>
+#
+#  This file is part of Pyrogram.
+#
+#  Pyrogram is free software: you can redistribute it and/or modify
+#  it under the terms of the GNU Lesser General Public License as published
+#  by the Free Software Foundation, either version 3 of the License, or
+#  (at your option) any later version.
+#
+#  Pyrogram is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU Lesser General Public License for more details.
+#
+#  You should have received a copy of the GNU Lesser General Public License
+#  along with Pyrogram.  If not, see <http://www.gnu.org/licenses/>.
+# # # # # # # # # # # # # # # # # # # # # # # #
+
+
+# noinspection PyShadowingBuiltins
+open = partial(open, encoding="utf-8")
+
+
+def rename(s: str) -> str:
+    if s == "self":
+        return "is_self"
+    return f"{s}_" if keyword.iskeyword(s) else s
 
 HOME_PATH = Path("compiler/api")
 DESTINATION_PATH = Path("pyrogram/raw")
@@ -256,12 +285,8 @@ def start(format: bool = False):
             # Pingu!
             has_flags = not not FLAGS_RE_3.findall(line)
 
-            args = ARGS_RE.findall(line)
-
-            # Fix arg name being "self" (reserved python keyword)
-            for i, item in enumerate(args):
-                if item[0] == "self":
-                    args[i] = ("is_self", item[1])
+            # Fix arg names being reserved python keywords
+            args = [(rename(name), type) for name, type in ARGS_RE.findall(line)]
 
             combinator = Combinator(
                 section=section,
