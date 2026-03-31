@@ -1,19 +1,6 @@
 name: Build and Deploy Documentation
 
-on:
-  push:
-    branches:
-      - dev
-      - beta
-    paths:
-      - 'docs/**'
-      - 'pyrogram/**'
-      - 'requirements.txt'
-      - 'dev-requirements.txt'
-  pull_request:
-    branches:
-      - dev
-      - beta
+on: [push, pull_request]
 
 jobs:
   build-and-deploy:
@@ -51,7 +38,8 @@ jobs:
           path: docs/build/html/
 
       - name: Deploy to GitHub Pages
-        if: github.event_name == 'push' && github.ref == 'refs/heads/dev'
+        # Hanya deploy jika push ke branch dev atau beta
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/dev' || github.ref == 'refs/heads/beta')
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
