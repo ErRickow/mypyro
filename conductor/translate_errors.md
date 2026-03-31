@@ -1,6 +1,6 @@
 # Plan: Melokalkan Pesan Error ke Bahasa Indonesia (MyPyro)
 
-Tujuan dari rencana ini adalah untuk menerjemahkan pesan error RPC yang masih berbahasa Inggris ke dalam bahasa Indonesia di seluruh file `.tsv` dalam folder `compiler/errors/source/`. Ini akan memastikan bahwa pengguna Synchro Userbot menerima pesan kesalahan yang konsisten dan mudah dipahami dalam bahasa lokal.
+Tujuan dari rencana ini adalah untuk menerjemahkan pesan error RPC yang masih berbahasa Inggris ke dalam bahasa Indonesia di seluruh file `.tsv` dalam folder `compiler/errors/source/`. Ini akan memastikan bahwa pengguna MyPyro menerima pesan kesalahan yang konsisten dan mudah dipahami dalam bahasa lokal.
 
 ## Komponen Utama
 - **Files**: `.tsv` files di `compiler/errors/source/`.
