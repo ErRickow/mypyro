@@ -1,6 +1,7 @@
 # Development
 docs/build
 docs/_build
+docs/source/**/generated/
 *.session
 config.ini
 main.py
@@ -91,6 +92,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+docs/source/**/generated/
 docs/source/_build
 
 # PyBuilder

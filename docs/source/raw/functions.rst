@@ -1,7 +1,8 @@
 Functions
 =========
 
-.. automodule:: pyrogram.raw.functions
-   :members:
-   :undoc-members:
-   :show-inheritance:
+.. autosummary::
+   :toctree: generated
+   :recursive:
+
+   pyrogram.raw.functions

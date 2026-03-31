@@ -1,7 +1,8 @@
 Types
 =====
 
-.. automodule:: pyrogram.raw.types
-   :members:
-   :undoc-members:
-   :show-inheritance:
+.. autosummary::
+   :toctree: generated
+   :recursive:
+
+   pyrogram.raw.types

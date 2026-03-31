@@ -8,7 +8,4 @@ Raw API
    functions
    types
 
-.. automodule:: pyrogram.raw
-   :members:
-   :undoc-members:
-   :show-inheritance:
+MyPyro Raw API (MTProto Layer 223) provides direct access to all Telegram methods and types.
